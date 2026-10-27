@@ -1,0 +1,15 @@
+.venv/
+workspace/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+claude-logs/*.jsonl
+
+# local generation workers: environments, models and outputs are machine-local
+workers/**/.venv/
+workers/**/*.onnx
+workers/**/*.bin
+workers/**/models/
+workers/comfyui/app/
+workers/**/src/
+workers/**/wheels/

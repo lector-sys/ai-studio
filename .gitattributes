@@ -1,0 +1,6 @@
+# Everything is encrypted in git except what's needed to unlock it (tools/lock.sh).
+* filter=crypt diff=crypt
+.gitattributes !filter !diff
+.gitignore !filter !diff
+UNLOCK.md !filter !diff
+tools/lock.sh !filter !diff
