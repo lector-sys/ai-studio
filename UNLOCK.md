@@ -16,6 +16,17 @@ bash tools/lock.sh unlock      # type the password when asked
 The files are then readable and work normally. Commits and pushes are encrypted automatically.
 `git log -p` and `git diff` show plain text on an unlocked clone.
 
+## Downloaded as a ZIP instead?
+
+A ZIP has no git inside, so use `decrypt`. Extract the ZIP, then in Git Bash:
+
+```bash
+cd ai-studio-main
+bash tools/lock.sh decrypt     # type the password when asked
+```
+
+A ZIP copy can't `git pull` updates; clone with git if you want those.
+
 ## Notes
 
 - The password is kept in this clone's `.git/config`, so treat an unlocked folder as sensitive.

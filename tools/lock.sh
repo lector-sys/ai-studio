@@ -5,6 +5,7 @@
 #
 #   bash tools/lock.sh unlock    # asks for the password, then decrypts the working tree
 #   bash tools/lock.sh status    # shows whether this clone is unlocked
+#   bash tools/lock.sh decrypt   # for a ZIP download (no git): decrypts the files in place
 #
 # Needs only git and openssl (both ship with Git for Windows).
 set -euo pipefail
@@ -60,6 +61,19 @@ case "${1:-}" in
         git config --local diff.crypt.textconv 'bash tools/lock.sh textconv'
         git rm -r -q --cached . && git reset -q --hard HEAD   # re-checkout through the decrypting filter
         echo "Unlocked."
+        ;;
+    decrypt)  # for a ZIP download (no .git): decrypt every file in place
+        cd "$(dirname "$0")/.."
+        read -rsp "Password: " pw; echo
+        mapfile -t files < <(find . -type f ! -path './.git/*' -exec sh -c '[ "$(head -c 8 "$1")" = "U2FsdGVk" ]' _ {} \; -print)
+        [ ${#files[@]} -gt 0 ] || { echo "Nothing to decrypt: this folder is already unlocked." >&2; exit 0; }
+        if ! ENC_PASS=$pw openssl enc -d -aes-256-cbc -pbkdf2 -iter "$ITER" -md sha256 -pass env:ENC_PASS -a -in "${files[0]}" > /dev/null 2>&1; then
+            echo "Wrong password." >&2; exit 1
+        fi
+        for f in "${files[@]}"; do
+            ENC_PASS=$pw openssl enc -d -aes-256-cbc -pbkdf2 -iter "$ITER" -md sha256 -pass env:ENC_PASS -a -in "$f" -out "$f.plain" && mv "$f.plain" "$f"
+        done
+        echo "Decrypted ${#files[@]} files."
         ;;
     status)
         if git config --local --get studio.lock.password > /dev/null; then echo "Unlocked"; else echo "Locked"; fi ;;
