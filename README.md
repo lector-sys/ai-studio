@@ -5,9 +5,41 @@ editor, the AI rotoscope, intelligent editorial (STT), restoration & motion, gen
 an optional local UI. FFmpeg is the media backbone and the AI models are
 swappable workers. The coding agent drives everything through one CLI contract (see `AGENTS.md`).
 
-## Setup
+## Install as a Claude Code plugin
+
+Windows, with [Git](https://git-scm.com/download/win), Python 3.12 and [Claude Code](https://claude.com/claude-code)
+installed.
+
+**1. Clone to `D:\projects\AI_studio`.** The plugin's skill calls the studio at that path. If you clone elsewhere,
+replace every `D:\projects\AI_studio` in `plugin/skills/studio/SKILL.md` with your folder.
+```powershell
+git clone https://github.com/lector-sys/ai-studio.git D:\projects\AI_studio
+cd D:\projects\AI_studio
 ```
-winget install Gyan.FFmpeg            # already installed (9.0.2)
+
+**2. Install FFmpeg and the studio.**
+```powershell
+winget install Gyan.FFmpeg
+py -3.12 -m venv .venv
+.venv\Scripts\pip install -e .[test]
+.venv\Scripts\studio devices          # quick check: lists encoders and accelerators
+```
+
+**3. Add the plugin to Claude Code.**
+```powershell
+claude plugin marketplace add D:\projects\AI_studio
+claude plugin install ai-studio@ai-studio
+```
+Restart Claude Code (or use `/plugin` inside Claude Code to install from the menu).
+
+**4. Try it.** Ask Claude something like *"use AI studio to inspect D:\clips\video.mp4"*. The `studio` skill loads,
+reads `AGENTS.md` and runs the CLI.
+
+**Updating:** `git pull` in the folder, then `claude plugin update ai-studio@ai-studio`.
+
+## Setup (CLI only)
+```
+winget install Gyan.FFmpeg
 py -3.12 -m venv .venv && .venv\Scripts\pip install -e .[test]
 .venv\Scripts\studio devices          # what accelerators exist
 .venv\Scripts\python -m pytest -q tests
