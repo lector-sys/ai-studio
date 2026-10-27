@@ -1,298 +1,155 @@
-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
-xP2xMULOvtDVmAG3zhF16g==
+# AI Studio: local AI video studio
+
+Built from `../Local_AI_Video_Studio_Architecture_v1.docx`. All seven phases are built: foundation, the deterministic
+editor, the AI rotoscope, intelligent editorial (STT), restoration & motion, generative editing, agent reliability, and
+an optional local UI. FFmpeg is the media backbone and the AI models are
+swappable workers. The coding agent drives everything through one CLI contract (see `AGENTS.md`).
+
+## Setup
+```
+winget install Gyan.FFmpeg            # already installed (9.0.2)
+py -3.12 -m venv .venv && .venv\Scripts\pip install -e .[test]
+.venv\Scripts\studio devices          # what accelerators exist
+.venv\Scripts\python -m pytest -q tests
+```
+Models download on first use: rembg into `~/.rembg/models` (u2net_human_seg is 176 MB, SAM is about 16 MB + 90 MB),
+and Whisper into the Hugging Face cache (`base` is about 145 MB).
+
+## Commands
+| Command | What it does |
+|---|---|
+| `studio inspect in.mp4 [--keyframes] [--hash]` | streams, size, fps/VFR, duration, color/HDR, audio, rotation |
+| `studio edit <op> in [more…] -o out -p k=v` | one deterministic op (`studio ops` lists all 21 with params) |
+| `studio color …` / `studio audio …` | shortcuts for `edit color` / `edit audio` |
+| `studio mask person\|salient\|object in -o m.mkv [--box x,y,w,h \| --point x,y]` | matte video + quality stats; a box with person/salient isolates that one subject (identity-tracked) |
+| `studio track in --box x,y,w,h` | optical-flow box track (per-frame JSON) |
+| `studio background remove\|blur\|replace in [--bg img/vid] [--mask m.mkv] [--target object --box …]` | full background workflow |
+| `studio recipes` / `studio recipe <name> --request req.json -o job.json` | creative recipe catalog / expand a request into a checked manifest (cards rendered, nothing else) |
+| `studio preview job.json` / `studio render job.json [--profile p]` | proxy preview / master render of a manifest |
+| `studio review <render log> -o <dir>` / `studio review-record <dir> <kind> --reviewer … --status pass` | shared review bundle (frames, 100% crops, checks, SDR viewing copy, audio) / record a delegated or human review |
+| `studio validate out [--against src] [--duration s] [--ssim]` | technical QA |
+| `studio profiles` | 4k60-master, native-hdr-master, h264-master, av1-master, prores-hq, alpha-master, archive, preview, social-vertical |
+| `studio transcribe in [-o t.json] [--model base] [--translate]` | local STT with word timestamps (faster-whisper, CPU int8) |
+| `studio captions in -o out.srt / .vtt / .json / video.mp4` | sidecar captions, or burned in when `-o` is a video |
+| `studio cut in -o out [--remove 1-2,5-6] [--silence] [--fillers] [--phrase "..."]` | ripple-delete ranges, silences, fillers, transcript phrases |
+| `studio index <folder>` / `studio search "words"` | media index (scenes, thumbnails, transcripts + embeddings) and semantic, timecoded search |
+| `studio object remove/replace/insert in --box x,y,w,h [--with img] -o out` | tracked object removal (clean plate), replacement, insert |
+| `studio generate image/video --prompt "..." -o out` | generator adapters: procedural, command, comfyui |
+| `studio capabilities` / `studio schema` | routing table (what backends exist here) / manifest JSON schema |
+| `studio check job.json` | dry run: graph errors, unknown params, models, VRAM/disk estimates |
+| `studio auto job.json` | preview, then refine low-confidence masks (stride, model ladder), then render and validate |
+| `studio bench [--size 1920x1080] [--ai]` | per-op timings, saved to `workspace/bench/` |
+| `studio models [download name…]` | model registry: YuNet, GFPGAN, Real-ESRGAN x2/x4, RIFE 4.9, MiniLM (download on first use) |
+| `studio cache prune [--older-than 7]` | delete cached step outputs/proxies unused for N days (or everything) |
+| `studio ui` | local web UI on 127.0.0.1:8765 |
+
+Ops (42): compose (timed image/text cards, one pass, source picture/clock/HDR kept), trim, crop, resize (fit/fill/stretch), rotate/flip, speed, reverse, fps, freeze, concat, transition (any
+xfade), fade, overlay (PiP/logo/watermark), text (titles/lower thirds), subtitles (burn-in), audio
+(replace/mix/duck/mute), loudnorm, audio_clean, color (eq/temperature/LUT), chromakey, mask, mask_edit (paint fixes), background ·
+**editorial** cut, captions · **restoration** stabilize (vidstab/deshake), denoise (hqdn3d/nlmeans/onnx),
+sharpen (cas/unsharp), deinterlace, lens, upscale (lanczos/Real-ESRGAN), interpolate (minterpolate/blend/dup/RIFE),
+face_restore (YuNet + GFPGAN), match_color (shot matching), look_match (regrade into a reference image's look) · **generative** inpaint (clean plate/telea/ns), insert (tracked), relight (masked grade),
+recolor (change one region's colour: ground / mask / hue + saturation selection), stylize (recipes/onnx), extend (canvas outpaint-by-blur / hold / push-in), generate.
+
+## How it works
+- **Job manifest** (`examples/background_replace.json`): sources (with sha256), steps (op, inputs, params),
+  output, profile, proxy height, retries, and validation rules. The runner fills in hashes and saves a copy
+  to `workspace/manifests/`.
+- **Step cache / resume**: each step's output is keyed on its op, params, input hashes, and the worker source code.
+  Outputs are stored as lossless intermediates (x264 qp0 / FFV1 + FLAC) in `workspace/cache/`. A failed or
+  interrupted job re-runs only the unfinished steps, and editing an op's code invalidates its old outputs.
+- **4K60 strategy**: masks are inferred at 512 px and stored as lossless gray video at the source fps. The
+  `background` op upsamples them at master resolution with an edge-aware guided filter, guided by the master
+  luma, then composites. The master is never downscaled for the model.
+- **Preview**: sources are swapped for cached 540p proxies, and pixel params are rescaled automatically.
+- **QA** after every render: clean decode, frame count (catches dropped frames), resolution, fps, duration,
+  A/V sync, and optional SSIM.
+- **Provenance**: `workspace/logs/<job>-<time>.json` records every ffmpeg command, hash, timing, model/backend
+  version, and mask stats.
+- **Devices**: discovery reports AMF/NVENC/QSV encoders, ONNX providers, torch, and GPUs. Everything runs on CPU
+  by default. GPU is opt-in with `STUDIO_ORT_PROVIDERS=DmlExecutionProvider,CPUExecutionProvider` (needs
+  `onnxruntime-directml`) and `STUDIO_HW_ENCODE=1` (the encoder is probed before use). `STUDIO_WORKSPACE`
+  moves the workspace.
+
+## Phase notes
+- **Editorial**: audio is decoded by our ffmpeg into 16 kHz PCM, then handed to faster-whisper (its bundled PyAV
+  decoder clashes with the installed `av`). Transcripts are cached by audio hash + model, so captions, cuts, and the
+  index share one pass. `cut` uses half-open ranges, so no frames get doubled at the boundaries.
+- **Restoration**: FFmpeg backends are the defaults. `backend=onnx` + `model=<.onnx>` runs any NCHW RGB 0-1
+  image-to-image net (Real-ESRGAN-class SR, denoise, style), tiled with overlap. Upscale/interpolate exist for the 4K
+  strategy: generate or repair at low resolution, then SR/VFI only that segment back up to the master.
+- **Generative**: object removal builds a clean plate (per-pixel median of unmasked frames) for static shots and
+  inpaints the rest. `insert` follows the tracked box with `sendcmd`. Generators sit behind one function:
+  - `procedural` is built in.
+  - `command` is `STUDIO_GEN_CMD`, e.g. `"C:\\tools\\gen.exe" --prompt {prompt} --out {out} --w {width} --h {height}`
+    (or a JSON argv list). Each field becomes one argv item and no shell is used.
+  - `comfyui` uses `STUDIO_COMFYUI_URL` (default `http://127.0.0.1:8188`) plus `STUDIO_COMFYUI_WORKFLOW`, an
+    API-format workflow with `{{prompt}}`, `{{width}}`, `{{height}}`, `{{seed}}`, `{{frames}}`, `{{fps}}` placeholders.
+  - `STUDIO_GEN_BACKEND` sets the default.
+- **Reliability**: `sched.py` is a no-op on CPU. With a GPU provider opted in, it holds a cross-process GPU lock per
+  job, keeps a VRAM budget (`STUDIO_VRAM_MB`, default 12000) with LRU model eviction, and refuses a model that can't
+  fit (it never silently downgrades). `auto` is the spec's acceptance test 7. Saved manifests record absolute paths.
+- **UI**: stdlib server bound to 127.0.0.1. It uses a per-launch token, pins the Host header (no DNS rebinding), and
+  serves only workspace files or files named in loaded manifests. Features: manifests, check/preview/render/auto,
+  a frame box picker that writes `params.box` in source px, transcript to cut step, validation chips.
+
+## Creative recipes and compose
+- Recipes (`studio/recipes.json` + `recipes.py`): image-popup, lower-third, kinetic-captions, comparison,
+  clip-transitions, look, narration-mix. A request (see `examples/creative_benchmark/request.json`) expands to an
+  ordinary manifest; text is drawn with Pillow from literal strings (never FFmpeg expressions), cards are cached by
+  content. Overlong text shrinks to 60% then fails (no silent truncation).
+- `compose`: cards are converted into the source's colour space once (HLG/PQ via explicit zscale, white =
+  `graphics_white_nits`, default 203) and repeated inside the filter graph, so timing is deterministic and the
+  base is never scaled, graded or re-timed. Untouched pixels are bit-identical in the lossless intermediate.
+  Cue ranges are half-open `[start, end)`; card frames run on a grid anchored at the cue start (≤1 frame offset
+  from base frames on VFR/phone clocks).
+- `native-hdr-master`: HEVC Main10, AMF constant QP 10/12 with `STUDIO_HW_ENCODE=1` (else x265 CRF 12); unchanged
+  timelines keep the source time base exactly (`-enc_time_base`).
+- Safety: final renders publish atomically and never replace an existing file (an identical completed request
+  returns its verified result); cache keys hash the files behind params (fonts, LUTs, subtitles, models).
+- Audio cleanup (`audio_clean`, compose `audio`) measures the filter chain's delay and removes it (1199 samples at
+  48 kHz for the default chain); `qc.audio_alignment` reports silence/ambiguity as inconclusive, never as sync.
+- Measured (62.5 s 4K HLG iPhone clip, ten popups, i7-14700K + RX 9060 XT AMF): see
+  `D:\edited(studio)\Creative toolkit benchmark\BENCHMARK.md`.
+
+## v0.3 notes
+- **Plugin**: `.claude-plugin/marketplace.json` + `plugin/` make this repo a Claude Code marketplace. Installed with
+  `claude plugin marketplace add D:\projects\AI_studio` and `claude plugin install ai-studio@ai-studio`; the `studio`
+  skill then works from any folder and points the agent at `AGENTS.md`.
+- **Models** (`models.py`): ops take `model=<registry name>` or a `.onnx` path. Names download once into the Hugging
+  Face cache. All run on CPU by default. Rough CPU cost: GFPGAN ~1 s per face per frame, Real-ESRGAN x2 ~5 s per
+  640 px frame, RIFE ~0.05 s per 256 px frame (scales with pixels). Use them on short or low-res segments.
+- **Identity tracking**: with a `box`, each keyframe keeps the one connected subject that best matches the tracked box
+  (overlap) and the subject's colour histogram. While it's hidden, the box coasts on its last velocity (up to 2 s),
+  then re-acquires. `identity_unsure_ratio` feeds `low_confidence`.
+- **Chunking**: `mask`, `denoise`, `sharpen`, `upscale`, `stylize` and `face_restore` steps on clips longer than
+  2 × `STUDIO_CHUNK_SECONDS` (default 60) run in chunks with a 1 s lead-in that is trimmed off. Finished chunks
+  survive an interruption. Per step: `"chunk": 30` (seconds) or `0` (never). Steps with a box/point never chunk.
+- **HDR10**: mastering display + MaxCLL/MaxFALL are read from the source and written by the x265 and SVT-AV1 masters.
+- **Cache**: keys hash the op's own module + shared helpers, so editing one op only invalidates that op. Cache hits
+  refresh the entry's age; `studio cache prune --older-than N` frees the rest.
+- **UI**: timeline strip (thumbnails, cut ranges, speech), mask overlay of any rendered mask step, and a paint tool
+  (Paint + / Paint −) whose strokes become a `mask_edit` step after the selected mask step.
+
+## Layout
+`studio/media.py` ffmpeg/ffprobe I/O · `ops.py` deterministic ops · `vision.py` mask/track/background ·
+`speech.py` STT/captions/cut/index · `restore.py` restoration + motion · `generate.py` generative ops + adapters ·
+`sched.py` VRAM scheduler · `agent.py` check/auto/bench · `jobs.py` manifest, cache, profiles, provenance ·
+`qc.py` validation + audio metrics/alignment · `compose.py` card compositing · `recipes.py` recipes ·
+`review.py` review bundles · `devices.py` discovery/capabilities · `models.py` model registry · `cli.py` contract ·
+`ui.py` + `ui.html` UI.
+
+## Known limits
+- Identity is colour-histogram + motion, not a learned re-ID model: two similar-looking subjects crossing can still
+  swap (flagged by `low_confidence`), and a subject merged with another into one blob can't be split. Upgrade path:
+  SAM2 video propagation behind the same `mask` op (needs torch and roughly 10 GB of RAM per 10 s of 4K on CPU;
+  practical only with a GPU).
+- Masks assume constant frame rate. VFR phone footage should be conformed first (`edit fps`); `check` warns about this.
+- HDR: HDR10 static metadata is carried (x265, SVT-AV1); dynamic HDR10+/Dolby Vision metadata is not. Ops use the
+  first audio track: iPhone spatial-audio (APAC) tracks have no FFmpeg decoder and are not carried.
+- Local workers are configured for FLUX images, experimental reference edits and Wan clips, Kokoro narration,
+  and Stable Audio music/SFX. Weights are machine-local, not shipped. Read [LOCAL_WORKERS](docs/LOCAL_WORKERS.md)
+  for tested limits, GPU session handling and pending listening review. Neural edits can regenerate details;
+  use the source-preserving deterministic workflow for faithful colour changes. SR/RIFE remain CPU, slow at 4K.
+- Search covers what was said (transcripts) and file names, not what's on screen (CLIP frames would add that).
+- `mask_edit` paint is static: it applies at a fixed screen position over its time range (add tracking if needed).

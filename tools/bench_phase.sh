@@ -1,55 +1,50 @@
-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
-2kAfOPOS7GQMoom4ju8MMA==
+#!/usr/bin/env bash
+# One timed phase of the creative-edit benchmark (see tools/benchmark_creative.py).
+#   tools/bench_phase.sh <run> <ws-name> inspect|prepare|render|qa|deliver
+# The review phase is timed by the operator around the delegated reviewers:
+#   python tools/benchmark_creative.py mark <timing.json> review start|end
+set -euo pipefail
+RUN=$1 WSNAME=$2 PHASE=$3
+ROOT=D:/projects/AI_studio
+PY=$ROOT/.venv/Scripts/python.exe
+STUDIO=$ROOT/.venv/Scripts/studio.exe
+OUT="D:/edited(studio)/Creative toolkit benchmark/$RUN"
+T="$OUT/timing.json"
+export STUDIO_WORKSPACE=$ROOT/workspace/$WSNAME
+mkdir -p "$OUT"
+mark() { "$PY" "$ROOT/tools/benchmark_creative.py" mark "$T" "$PHASE" "$1"; }
+mark start
+case $PHASE in
+  inspect)
+    "$STUDIO" inspect D:/footage/IMG_3532.MOV --hash > "$OUT/source_inspection.json"
+    for a in almond oval square; do "$STUDIO" inspect "D:/footage/$a.jpeg" --hash > "$OUT/asset_$a.json"; done ;;
+  prepare)
+    sed "s|D:/edited(studio)/Creative toolkit benchmark/run-1/|$OUT/|" "$ROOT/examples/creative_benchmark/request.json" > "$OUT/request.json"
+    "$STUDIO" recipe image-popup --request "$OUT/request.json" -o "$OUT/job.json" --assets "$STUDIO_WORKSPACE/cards" > "$OUT/recipe.json" ;;
+  render)
+    STUDIO_HW_ENCODE=1 "$STUDIO" render "$OUT/job.json" > "$OUT/render.json" 2> "$OUT/render.log" ;;
+  qa)
+    LOG=$("$PY" -c "import json,sys;print(json.load(open(sys.argv[1]))['log'])" "$OUT/render.json")
+    "$STUDIO" review "$LOG" -o "$OUT/review" > "$OUT/qa.json" ;;
+  deliver)
+    "$PY" - "$OUT" <<'EOF'
+import json, sys
+from pathlib import Path
+sys.path.insert(0, "D:/projects/AI_studio")
+from studio.media import sha256
+out = Path(sys.argv[1])
+r = json.loads((out / "render.json").read_text(encoding="utf-8"))
+q = json.loads((out / "qa.json").read_text(encoding="utf-8"))
+reviews = json.loads(Path(q["reviews"]).read_text(encoding="utf-8"))["reviews"]
+files = {"master": r["output"], "viewing_copy": q["viewing_copy"]}
+hashes = {k: sha256(v) for k, v in files.items() if v}
+assert hashes["master"] == r["sha256"] == q["output_sha256"], "master hash changed after render"
+src = sha256("D:/footage/IMG_3532.MOV")
+assert src == "7e77980a566944074d2cb687396d492dc4c331569aee284414cf753ceb16de48", "original changed"
+(out / "delivery.json").write_text(json.dumps({"files": files, "sha256": hashes, "source_sha256": src,
+    "technical_ok": q["technical_ok"], "reviews": reviews}, indent=1), encoding="utf-8")
+print(json.dumps({"technical_ok": q["technical_ok"], "reviews": {k: v["status"] for k, v in reviews.items()}}))
+EOF
+    ;;
+esac
+mark end

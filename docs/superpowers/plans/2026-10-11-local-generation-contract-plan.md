@@ -1,375 +1,182 @@
-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
+# Local Generation Contract Implementation Plan
+
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+
+**Goal:** Make local visual and audio generation reference-aware, source-safe, observable and usable inside ordinary Studio jobs.
+
+**Architecture:** Extend the existing dispatcher, subprocess and ComfyUI adapters; retain `generate_media` returning a path. Add audio asset steps and WAV delivery around the current runner, and record readiness from actual reviewed outputs. Implement after the foundation plan passes; no new inference engine or cloud routing.
+
+**Tech Stack:** Existing Python/Typer/Pydantic/FFmpeg, stdlib subprocess/urllib/http.server, pytest fake workers; no neural packages in the editor environment.
+
+**Spec:** [Approved design](../specs/2026-10-11-local-creative-workflows-design.md)
+
+**Handoff status:** Incomplete draft preserved at the user's request to stop Codex and hand off to Claude. Not self-reviewed or user-approved; the local-worker plan has not been written. Check the handoff's review notes before use.
+
+## Global Constraints
+
+- Extend the existing generator dispatcher, command adapter and ComfyUI adapter rather than implementing an inference engine.
+- Support kinds `image`, `video`, `voice`, `music` and `sfx`.
+- Preserve existing `generate_media` callers and its path return value; keep richer provenance in the existing result/log sidecar.
+- A neural request never falls back to the procedural generator.
+- Local endpoints are used by default. No automatic cloud fallback or paid services are part of this design.
+- Originals and existing deliveries cannot be overwritten by either direct generation or job execution.
+- Lightweight capability listing does not load models or download assets.
+- Native generated output remains available; conversion into the video timeline is separately recorded.
+
+## Review Focus
+
+- A command exits successfully without a decodable output of the requested kind: fail before publication; Task 1.
+- An init path/output path contains Unicode, braces or shell metacharacters: treat it as literal data; Tasks 1 and 2.
+- ComfyUI returns intermediate previews before the designated final output: wait/select only the configured final node; Task 2.
+- Timeout/cancellation coincides with another user's job: cancel only the owned prompt, never global interrupt; Task 2.
+- Model/workflow/runtime changes after a successful smoke: invalidate readiness and cached generation; Task 3.
+
+## File map and interfaces
+
+Modify `studio/generate.py`, `studio/jobs.py`, `studio/cli.py`, `studio/qc.py`, `studio/devices.py`, `studio/models.py`, `studio/agent.py`, `studio/sched.py`, `studio/ui.py`, existing docs and plugin skill. Create `studio/workers.py`, `studio/workers.json`, `tests/test_generation_contract.py`, `tests/fake_generator.py`, `examples/generate_audio.json`, `examples/reference_generation_request.json` and `docs/LOCAL_WORKERS.md`. Update package data in `pyproject.toml`.
+
+```python
+# generate.py: append keyword-only options, keeping existing positional callers valid
+def generate_media(prompt, kind='image', out=None, width=1920, height=1080,
+                   duration=5.0, fps=30, backend=None, seed=None, init=None,
+                   *, references=None, mask=None, worker=None, voice=None,
+                   workflow=None, output_node=None, timeout=None) -> str: ...
+
+# workers.py
+def worker_config(name: str) -> dict: ...
+def request_check(config: dict, request: dict) -> dict: ...
+def fingerprint(config: dict) -> str: ...
+def readiness(config: dict, evidence_dir: Path) -> dict: ...
+def record_smoke(config: dict, result: dict, review: dict, evidence_dir: Path) -> dict: ...
+
+# qc.py: additive; existing video callers retain defaults
+def validate_audio(out, duration=None, tolerance=None, decode=True) -> dict: ...
+```
+
+Worker configuration uses `name`, `backend`, `kinds`, `argv` or `workflow`, `bindings`, `output_node`, `output_type`, `models`, `limits`, `device`, `timeout` and `version`. Bindings map request fields to exact ComfyUI node/input locations; references map a named request asset to an upload and destination field. No arbitrary plugin loading/evaluated configuration language.
+
+### Task 1: Add safe standalone audio generation and audio graph outputs
+
+**Files:** Modify `studio/generate.py`, `studio/qc.py`, `studio/jobs.py`, `studio/cli.py`, `studio/ui.py`; create `tests/fake_generator.py`; test `tests/test_generation_contract.py`; create `examples/generate_audio.json`.
+
+**Interfaces:** Consumes foundation `media.publish`, `audio_metrics`; produces extended `generate_media`, `validate_audio`, registered `generate_audio` and `wav` output profile. A `generate_audio` cache step is `.wav`; visual steps remain `.mkv`.
+
+- [ ] **Step 1: Add a small fake command worker and failing tests.** The worker reads `--request <json>`, writes a PCM tone with stdlib `wave`, or deliberately writes corrupt/wrong-kind output according to the request. Test a pure voice job, voice->audio mix->video job, nonexistent output, corrupt WAV, overwrite protection, literal request text and a model-free procedural visual regression.
+
+```python
+def test_audio_only_validation(tmp_path):
+    p = tmp_path/'tone.wav'
+    media.ffmpeg(['-f','lavfi','-i','sine=f=440:r=48000:d=.5',
+                  '-c:a','pcm_s24le',p])
+    report = validate_audio(str(p), duration=.5)
+    assert report['ok']
+    assert media.info(p)['video'] is None
+    assert media.info(p)['audio']['sample_rate'] == 48000
+
+def test_procedural_cannot_fake_voice(tmp_path):
+    with pytest.raises(ValueError, match='voice'):
+        generate_media('Speak this', 'voice', tmp_path/'voice.wav', backend='procedural')
+```
+
+- [ ] **Step 2: Run failing audio-contract tests.** Run `pytest tests/test_generation_contract.py -q -k 'audio or voice or command'`; expect unsupported kind/audio-only QA failures. Fake workers do not require any model download.
+- [ ] **Step 3: Implement the direct and graph paths together.** Keep procedural limited to image/video. The command worker receives `--request` and `--out` as argv items; retain `STUDIO_GEN_CMD` compatibility for existing visual callers. Use bounded subprocess timeouts, capture actionable stderr, hidden creation flags on Windows, and stop only task-owned subprocesses on cancellation. Generate to a correctly suffixed temporary sibling, probe/decode it, verify requested kind and dimensions/clock or rate/layout, then publish through the foundation helper.
+
+```python
+audio_kinds = {'voice','music','sfx'}
+suffix = '.wav' if kind in audio_kinds else ('.png' if kind == 'image' else '.mkv')
+if kind in audio_kinds and backend == 'procedural':
+    raise ValueError(f'procedural backend cannot generate {kind}')
+checks = validate_audio(raw) if kind in audio_kinds else validate(raw)
+if not checks['ok']:
+    raise RuntimeError(f'generated output failed validation: {checks}')
+```
+
+`validate_audio` checks actual audio presence, full-file decode, positive sample rate/channels, measured samples/duration, peak/clipping and optional expected duration. Silence is reported and reviewed according to kind; music/SFX intentional silence is not automatically a corrupt file. Extend the runner's explicit operation output-kind table for `generate_audio`; don't infer every step type from file suffixes. Audio-only jobs skip video/proxy assumptions and encode once to `wav` PCM; video jobs accept audio step outputs as inputs to existing `audio`/compose operations. Preflight rejects a video-only op fed audio. The visual generate operation retains available audio while conforming its clip; do not map only `[v]`. Fit or crop generated visuals only under declared conformance parameters, logging native/requested geometry and frame changes.
+
+CLI `generate voice` accepts `--prompt` as text, `--worker`, `--voice`; music/SFX accept duration and seed; old image/video invocation stays valid. Keep `--fps` rational-capable for visual requests. Add audio outputs to the local UI's known allowed paths; no UI redesign or new server.
+- [ ] **Step 4: Verify direct and graph callers.** Run fake-worker success/failure tests, mixed video fixture, audio-only preview/final policy, source/destination alias checks, and existing `test_generate_without_sources`. Confirm a successful command with wrong media kind is rejected and unpublished.
+- [ ] **Step 5: Commit.** Commit `feat: support validated local audio assets and job outputs`.
+
+### Task 2: Complete reference-aware ComfyUI output and cancellation handling
+
+**Files:** Modify `studio/generate.py`; test `tests/test_generation_contract.py`; create `examples/reference_generation_request.json`.
+
+**Interfaces:** Consumes `media.publish` and extended generation options. Keep `_comfyui` internal; output selection is an explicit `output_node` and media kind. Use a stdlib fake HTTP server in tests.
+
+- [ ] **Step 1: Add fake-server tests.** Emulate `/upload/image`, `/object_info`, `/prompt`, `/history/<id>`, `/view`, `/queue` and targeted cancellation. The fake upload returns a renamed filename; assert the actual returned name appears in the correct bound node. Return both an early preview node and final node; assert only final is retrieved. Add structured errors with no outputs, wrong type, multiple final files without explicit index, external redirect, path traversal filenames, timeout and unrelated queued/running jobs.
+
+```python
+def test_select_only_designated_node():
+    from studio.generate import select_output
+    outputs = {'preview': {'images': [{'filename': 'draft.png'}]},
+               'final': {'videos': [{'filename': 'done.mp4'}]}}
+    picked = select_output(outputs, node='final', kind='video')
+    assert picked['filename'] == 'done.mp4'
+    with pytest.raises(ValueError, match='final'):
+        select_output(outputs, node='missing', kind='video')
+```
+
+`select_output(outputs: dict, node: str, kind: str, index: int | None = None) -> dict` is a pure helper defined by this task, with only allowed media output collections/extensions.
+
+- [ ] **Step 2: Run tests and compare official server behavior.** Run `pytest tests/test_generation_contract.py -q -k comfy`. Read the pinned server routes for targeted cancel support rather than assuming a global interrupt is safe.
+- [ ] **Step 3: Implement bounded local API calls.** Validate loopback host and reject redirects to nonlocal hosts. Fill typed prompt/seed/dimensions/frames placeholders as today, adding actual upload results through explicit bindings. Upload image references and masks separately as expected by the workflow; video references require a declared supported loader/upload mechanism, otherwise fail preflight. Validate node classes and required model files before `/prompt`.
+
+```python
+# Pure binding: no string substitution into executable code.
+for field, binding in bindings.items():
+    node_id, input_name = binding['node'], binding['input']
+    workflow[node_id]['inputs'][input_name] = request[field]
+```
+
+Record an owned prompt ID/client ID. Poll with `time.monotonic`, bounded requests and a finite deadline. Detect terminal error/interrupted status before interpreting outputs. Select only the configured final output; a legacy one-output workflow may still succeed without configuration, but ambiguity must fail clearly. Keep output extension constrained to the requested kind and native file available; stream download into a temporary file rather than loading arbitrary output into RAM.
+
+Cancel through `POST /api/jobs/<owned-id>/cancel` when the pinned server supports it. On older servers, deleting only the owned pending queue item is safe; never call global `/interrupt`. A running job lacking proven targeted cancellation reports that limitation and does not cancel another person's work. Catch KeyboardInterrupt/timeout to perform this bounded owned cleanup, then return an actionable failure. Shut down a server only if this task launched it and no other user work depends on it.
+
+- [ ] **Step 4: Verify adverse cases.** Run fake-server tests; ensure prompt errors return promptly rather than waiting for timeout, references bind uploaded names, no intermediate output is published, and cancellation requests identify exactly one prompt. Verify Unicode/literal filenames and wrong/ambiguous outputs. No model runs are necessary for these checks.
+- [ ] **Step 5: Commit.** Commit `fix: bind local generation references and select owned final outputs`.
+
+### Task 3: Make readiness, cache and preflight describe actual local workers
+
+**Files:** Create `studio/workers.py`, `studio/workers.json`, `docs/LOCAL_WORKERS.md`; modify `studio/devices.py`, `studio/models.py`, `studio/agent.py`, `studio/jobs.py`, `studio/generate.py`, `studio/sched.py`, `studio/cli.py`, `pyproject.toml`; test `tests/test_generation_contract.py`.
+
+**Interfaces:** Produces all `workers.py` functions in the file map. Extends capability JSON with a `workers` mapping while retaining existing `generators` booleans.
+
+- [ ] **Step 1: Add readiness and dependency-hash tests.** Configure a fake worker with no files -> unavailable; add required files -> configured; record a valid technically checked and reviewed output -> ready; change model/config at the same path -> configured. Broken/missing output evidence cannot stay ready. Add unavailable-kind preflight and two jobs sharing a GPU worker test.
+
+```python
+def test_configuration_is_not_readiness(tmp_path):
+    from studio.workers import readiness
+    executable = tmp_path/'worker.exe'; executable.write_bytes(b'fixture')
+    config = {'name':'fake', 'backend':'command', 'kinds':['voice'],
+              'argv':[str(executable),'--request','{request}','--out','{out}'],
+              'models':[], 'limits':{}, 'device':'cpu', 'version':1}
+    state = readiness(config, tmp_path/'evidence')
+    assert state['state'] == 'configured'
+    assert state['smoke'] is None
+```
+
+- [ ] **Step 2: Run failing readiness tests.** Run `pytest tests/test_generation_contract.py -q -k 'ready or readiness or preflight or fingerprint'`; no heavyweight imports or downloads.
+- [ ] **Step 3: Implement a small packaged registry and evidence file.** Package `workers.json`, with default candidates unavailable until configured. Merge optional workspace worker configuration by explicit name; reject unknown fields, shell command strings in new profiles, unsupported kinds, invalid limits, missing model paths and non-loopback endpoints. `fingerprint` hashes worker/profile/workflow/model contents plus resolved runtime identity/version and relevant node versions. Record actual inference device from worker/server, independently of the encoder/ORT provider.
+
+```python
+smoke = {'fingerprint': fingerprint(config), 'kind': result['kind'],
+         'output': result['output'], 'sha256': media.sha256(result['output']),
+         'validation': result['validation'], 'review': review,
+         'device': result['device'], 'seconds': result['seconds']}
+```
+
+Readiness requires matching fingerprint, current files/discovery, passing technical evidence, a completed content review and a hash-valid output. Store per-kind tested dimensions/length/voice limits, date and benchmark. `studio capabilities` must not run synthesis; smoke is an explicit `studio workers smoke <name>` action, followed by a recorded review. Manifest preflight can allow configured worker tests with a clear unverified warning; ordinary advertised-ready requests require matching evidence. Reject unsupported model sizes/frame constraints before loading.
+
+Add generation dependency fingerprint to step cache keys even when model/workflow paths stay unchanged. Extend existing GPU lock with an explicit worker GPU indicator so ComfyUI inference is serialized when needed, even if the editor's ORT setting is CPU. Do not treat `STUDIO_HW_ENCODE=1` as neural readiness or expand unmeasured model VRAM estimates into facts. Keep discovery read-only and quick.
+
+Document worker setup/configuration, direct generation, reference/mask mappings, native output retention, audio recipes and exact unavailable reasons. Update CLI help, README and the source plugin skill together. Optional formats/workers from the research remain listed as unverified extensions, not ready features.
+- [ ] **Step 4: Verify the integrated contract.** Run all generation-contract tests, existing schema/check/auto/UI tests and the foundation tests affected by audio/cache changes. Expand and render the narration/music recipe with fake WAV assets. Confirm ordinary CLI usage preserves path return values and a missing worker yields a clear nonzero result.
+- [ ] **Step 5: Commit and review.** Commit `feat: report verified local worker readiness and generation provenance`; run one fresh whole-branch review for slice 2 using the chosen execution method. Leave real neural readiness to the third plan.
+
+## Coverage and handoff
+
+This plan covers specification slice 2: image/video reference contracts, explicit audio output path, direct callers and graph integration, command safety, designated ComfyUI outputs, errors/timeouts/owned cancellation, atomic publication, audio-only QA, accurate readiness, cache provenance and operator docs. Slice 1 supplies native preservation and review artifacts; slice 3 supplies actual model installations and smoke outputs.
+
+Official API evidence: [ComfyUI routes](https://docs.comfy.org/development/comfyui-server/comms_routes) and [current server source](https://github.com/Comfy-Org/ComfyUI/blob/master/server.py). Pin the installed server version and test its targeted cancel route; older servers need a narrower cancellation policy.
+
+Recommended execution is Native, sequentially after the foundation plan, with tests and a fresh whole-branch review. No model compatibility or speed claim is established by fake-worker contract tests.

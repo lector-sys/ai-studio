@@ -1,219 +1,235 @@
-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
+"""Optional local UI (Phase 7). The CLI stays the source of truth: every button calls the same
+functions the `studio` commands call. Stdlib http.server only, bound to 127.0.0.1.
+
+Security: per-launch random token on every API call (other websites can't read it), Host header
+pinned to localhost (blocks DNS rebinding), and files are served only from the workspace or from
+paths named in manifests this UI loaded.
+"""
+import base64
+import hashlib
+import json
+import mimetypes
+import secrets
+import subprocess
+import threading
+import traceback
+import webbrowser
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
+from urllib.parse import parse_qs, urlparse
+
+from . import jobs
+from .media import tool
+
+ROOT = Path(__file__).resolve().parents[1]
+TOKEN = secrets.token_urlsafe(24)
+TASKS: dict = {}
+ALLOWED: set = set()
+MEDIA = {".mp4", ".mov", ".mkv", ".webm", ".m4a", ".wav", ".mp3", ".png", ".jpg", ".jpeg", ".webp", ".srt", ".vtt"}
+
+
+def _allow_job(job):
+    for s in job.sources.values():
+        ALLOWED.add(str(Path(s.path).resolve()))
+    o = Path(job.output).resolve()
+    for p in (o, o.with_name(o.stem + ".preview.mp4"), o.with_suffix(".mov"), o.with_suffix(".mkv"), o.with_suffix(".wav")):
+        ALLOWED.add(str(p))
+
+
+def _servable(p: Path) -> bool:
+    p = p.resolve()
+    ws = jobs.workspace().resolve()
+    return p.suffix.lower() in MEDIA | {".json"} and (str(p) in ALLOWED or ws in p.parents)
+
+
+def _manifests() -> list[dict]:
+    ws = jobs.workspace()
+    files = sorted(ws.glob("manifests/*.json"), key=lambda f: -f.stat().st_mtime)[:40] + sorted(ROOT.glob("examples/*.json"))
+    return [{"path": str(f), "name": f.name, "example": f.parent.name == "examples"} for f in files]
+
+
+def _logs() -> list[dict]:
+    out = []
+    for f in sorted(jobs.workspace().glob("logs/*.json"), key=lambda f: -f.stat().st_mtime)[:30]:
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+            out.append({"path": str(f), "name": f.name, "ok": d.get("ok"), "output": d.get("output"), "mode": d.get("mode")})
+            ALLOWED.add(str(Path(d.get("output", "")).resolve()))
+        except (OSError, ValueError):
+            pass
+    return out
+
+
+def _task(kind, fn):
+    tid = secrets.token_hex(6)
+    t = TASKS[tid] = {"id": tid, "kind": kind, "status": "running", "log": [], "result": None}
+
+    def go():
+        try:
+            t["result"] = fn(lambda m: t["log"].append(str(m)))
+            t["status"] = "done"
+        except Exception as e:  # noqa: BLE001 - surfaced to the UI
+            t["log"].append(traceback.format_exc(limit=3))
+            t["result"], t["status"] = {"ok": False, "error": str(e)}, "error"
+
+    threading.Thread(target=go, daemon=True).start()
+    return {"task": tid}
+
+
+def _run(body):
+    from . import agent, speech
+    mode = body.get("mode", "preview")
+    if mode == "transcribe":
+        path = body["path"]
+        if not _servable(Path(path)):
+            raise PermissionError("not a known source")
+        return _task("transcribe", lambda log: speech.transcribe(path, body.get("model", "base"),
+                                                                 cache_dir=jobs.workspace() / "cache"))
+    job = jobs.Job.model_validate(body["manifest"])
+    _allow_job(job)
+    if mode == "check":
+        return agent.check(job)
+    if mode == "auto":
+        return _task("auto", lambda log: agent.auto(job, int(body.get("rounds", 3)), log))
+    if mode not in ("preview", "final"):
+        raise ValueError(f"unknown mode {mode}")
+    return _task(mode, lambda log: jobs.run(job, mode=mode, log=log))
+
+
+class H(BaseHTTPRequestHandler):
+    def log_message(self, *a):
+        pass
+
+    def _send(self, code, body, ctype="application/json", extra=None):
+        data = body if isinstance(body, bytes) else json.dumps(body, default=str).encode()
+        self.send_response(code)
+        self.send_header("Content-Type", ctype)
+        self.send_header("Content-Length", str(len(data)))
+        self.send_header("X-Content-Type-Options", "nosniff")
+        for k, v in (extra or {}).items():
+            self.send_header(k, v)
+        self.end_headers()
+        if self.command != "HEAD":
+            self.wfile.write(data)
+
+    def _guard(self, q) -> bool:
+        host = (self.headers.get("Host") or "").split(":")[0]
+        if host not in ("127.0.0.1", "localhost"):
+            self._send(403, {"error": "bad host"})
+            return False
+        if self.path.split("?")[0] != "/" and self.headers.get("X-Studio-Token") != TOKEN and q.get("t", [""])[0] != TOKEN:
+            self._send(403, {"error": "bad token"})
+            return False
+        return True
+
+    def do_GET(self):
+        u = urlparse(self.path)
+        q = parse_qs(u.query)
+        if not self._guard(q):
+            return
+        try:
+            if u.path == "/":
+                html = (Path(__file__).parent / "ui.html").read_text(encoding="utf-8").replace("__TOKEN__", TOKEN)
+                return self._send(200, html.encode(), "text/html; charset=utf-8",
+                                  {"Content-Security-Policy": "default-src 'self'; style-src 'self' 'unsafe-inline'; "
+                                                              "script-src 'self' 'unsafe-inline'; img-src 'self' blob: data:; media-src 'self'"})
+            if u.path == "/api/list":
+                return self._send(200, {"manifests": _manifests(), "logs": _logs(),
+                                        "workspace": str(jobs.workspace())})
+            if u.path == "/api/ops":
+                from .ops import OPS
+                return self._send(200, {k: " ".join((f.__doc__ or "").split()) for k, f in sorted(OPS.items())})
+            if u.path == "/api/task":
+                t = TASKS.get(q.get("id", [""])[0])
+                return self._send(200 if t else 404, t or {"error": "no such task"})
+            path = Path(q.get("path", [""])[0])
+            if u.path in ("/api/json", "/api/file", "/api/frame", "/api/info") and not _servable(path):
+                return self._send(403, {"error": f"not allowed: {path}"})
+            if u.path == "/api/json":
+                d = json.loads(path.read_text(encoding="utf-8"))
+                try:
+                    _allow_job(jobs.Job.model_validate(d))
+                except ValueError:
+                    pass
+                return self._send(200, d)
+            if u.path == "/api/info":
+                from .media import info
+                return self._send(200, info(path))
+            if u.path == "/api/frame":
+                r = subprocess.run([tool("ffmpeg"), "-v", "error", "-nostdin", "-ss", str(float(q.get("time", ["0"])[0])),
+                                    "-i", str(path), "-frames:v", "1", "-f", "image2pipe", "-vcodec", "mjpeg", "-q:v", "3", "-"],
+                                   capture_output=True)
+                return self._send(200 if r.returncode == 0 else 500, r.stdout or b"", "image/jpeg")
+            if u.path == "/api/file":
+                return self._file(path)
+            self._send(404, {"error": "not found"})
+        except Exception as e:  # noqa: BLE001
+            self._send(500, {"error": str(e)})
+
+    def _file(self, path: Path):
+        size = path.stat().st_size
+        ctype = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
+        rng = self.headers.get("Range")
+        start, end = 0, size - 1
+        if rng and rng.startswith("bytes="):
+            a, _, b = rng[6:].split(",")[0].partition("-")
+            start, end = (int(a), int(b) if b else size - 1) if a else (size - int(b), size - 1)
+            end = min(end, size - 1)
+        n = end - start + 1
+        self.send_response(206 if rng else 200)
+        self.send_header("Content-Type", ctype)
+        self.send_header("Accept-Ranges", "bytes")
+        self.send_header("Content-Length", str(n))
+        if rng:
+            self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
+        self.end_headers()
+        with open(path, "rb") as f:
+            f.seek(start)
+            while n > 0 and (chunk := f.read(min(n, 1 << 20))):
+                try:
+                    self.wfile.write(chunk)
+                except (ConnectionError, OSError):
+                    return  # browser cancelled the range request
+                n -= len(chunk)
+
+    def do_POST(self):
+        u = urlparse(self.path)
+        if not self._guard({}):
+            return
+        try:
+            body = json.loads(self.rfile.read(int(self.headers.get("Content-Length", 0))) or b"{}")
+            if u.path == "/api/run":
+                return self._send(200, _run(body))
+            if u.path == "/api/paint":  # mask-fix strokes from the paint tool -> workspace PNG
+                raw = base64.b64decode(body["png"].split(",", 1)[-1])
+                if not raw.startswith(b"\x89PNG\r\n\x1a\n") or len(raw) > 20 << 20:
+                    raise ValueError("paint must be a PNG under 20 MB")
+                f = jobs.workspace() / "paint" / f"paint-{hashlib.sha256(raw).hexdigest()[:16]}.png"
+                f.parent.mkdir(exist_ok=True)
+                f.write_bytes(raw)
+                ALLOWED.add(str(f.resolve()))
+                return self._send(200, {"path": str(f)})
+            if u.path == "/api/save":
+                p = Path(body["path"])
+                if p.suffix.lower() != ".json":
+                    raise ValueError("manifests must be saved as .json")
+                job = jobs.Job.model_validate(body["manifest"])  # only valid manifests get written
+                p.write_text(json.dumps(body["manifest"], indent=2), encoding="utf-8")
+                _allow_job(job)
+                ALLOWED.add(str(p.resolve()))
+                return self._send(200, {"saved": str(p)})
+            self._send(404, {"error": "not found"})
+        except Exception as e:  # noqa: BLE001
+            self._send(400, {"error": str(e)})
+
+
+def serve(port=8765, open_browser=True):
+    srv = ThreadingHTTPServer(("127.0.0.1", port), H)
+    url = f"http://127.0.0.1:{port}/"
+    print(json.dumps({"ui": url, "note": "Ctrl+C to stop"}), flush=True)
+    if open_browser:
+        webbrowser.open(url)
+    try:
+        srv.serve_forever()
+    except KeyboardInterrupt:
+        pass

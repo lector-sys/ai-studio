@@ -1,212 +1,160 @@
-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
+﻿"""`compose`: timed image/text-card layers (+ optional dialogue cleanup) over one source in a single pass.
+The base picture is never scaled, graded or re-timed: cards are converted into the source's colour space
+(HLG/PQ through an explicit zscale transfer) and overlaid; frame timestamps pass through untouched."""
+import math
+from fractions import Fraction
+
+from .media import info
+from .ops import clean_audio, op
+
+ANIMATIONS = {"none", "fade", "slide-scale"}
+# base pix_fmt -> (overlay format, card pix_fmt, alpha pix_fmt)
+FORMATS = {"yuv420p": ("yuv420", "yuva420p", "gray"), "yuv420p10le": ("yuv420p10", "yuva420p10le", "gray10le"),
+           "yuv422p": ("yuv422", "yuva422p", "gray"), "yuv422p10le": ("yuv422p10", "yuva422p10le", "gray10le"),
+           "yuv444p": ("yuv444", "yuva444p", "gray"), "yuv444p10le": ("yuv444p10", "yuva444p10le", "gray10le")}
+SDR_MATRIX = {"bt709": "bt709", "bt470bg": "bt601", "smpte170m": "bt601", "unknown": "bt709", None: "bt709"}
+HDR_TRC = {"arib-std-b67": "arib-std-b67", "smpte2084": "smpte2084"}
+LAYER_KEYS = {"input", "start", "end", "x", "y", "width", "height", "animation", "fade", "entrance", "slide",
+              "initial_scale", "opacity"}
+
+
+def _num(layer, k, default=None, lo=-math.inf, hi=math.inf):
+    v = layer.get(k, default)
+    if isinstance(v, bool) or not isinstance(v, (int, float)) or not math.isfinite(v):
+        raise ValueError(f"compose layer {k} must be a finite number, got {v!r}")
+    if not lo <= v <= hi:
+        raise ValueError(f"compose layer {k}={v} outside [{lo}, {hi}]")
+    return float(v)
+
+
+def validate_compose(ins, p, scale=1.0) -> dict:
+    """Check params against the actual inputs; returns the normalized layer list and colour plan."""
+    if len(ins) < 2:
+        raise ValueError("compose needs a base clip and at least one layer image")
+    v = info(ins[0])["video"]
+    if not v:
+        raise ValueError("compose base has no video")
+    if v["pix_fmt"] not in FORMATS:
+        raise ValueError(f"compose: base pix_fmt {v['pix_fmt']} unsupported; convert to one of {sorted(FORMATS)}")
+    if p.get("color_policy", "preserve") != "preserve":
+        raise ValueError("compose color_policy must be 'preserve' (conversions are separate, explicit steps)")
+    trc = v["color_transfer"]
+    if v["hdr"] and v["color_primaries"] != "bt2020":
+        raise ValueError(f"compose: HDR with {v['color_primaries']} primaries is unsupported; needs bt2020")
+    if not v["hdr"] and v["color_space"] not in SDR_MATRIX:
+        raise ValueError(f"compose: SDR matrix {v['color_space']} unsupported")
+    unknown = set(p) - {"layers", "audio", "color_policy", "graphics_white_nits"}
+    if unknown:
+        raise ValueError(f"compose: unknown params {sorted(unknown)}")
+    dur = v["duration"] or math.inf
+    layers = []
+    for n, raw in enumerate(p.get("layers") or []):
+        if set(raw) - LAYER_KEYS:
+            raise ValueError(f"compose layer {n}: unknown keys {sorted(set(raw) - LAYER_KEYS)}")
+        i = raw.get("input")
+        if not isinstance(i, int) or isinstance(i, bool) or not 1 <= i < len(ins):
+            raise ValueError(f"compose layer {n}: input must be an index 1..{len(ins) - 1}")
+        if not info(ins[i])["is_image"]:
+            raise ValueError(f"compose layer {n}: input {i} must be an image (render text/cards to PNG first)")
+        L = {"input": i, "start": _num(raw, "start", lo=0), "end": _num(raw, "end", lo=0),
+             "x": _num(raw, "x"), "y": _num(raw, "y"), "width": _num(raw, "width", lo=2), "height": _num(raw, "height", lo=2),
+             "animation": raw.get("animation", "slide-scale"), "fade": _num(raw, "fade", 0.14, 0, 5),
+             "entrance": _num(raw, "entrance", 0.22, 0.01, 5), "slide": _num(raw, "slide", 46),
+             "initial_scale": _num(raw, "initial_scale", 0.955, 0.1, 1), "opacity": _num(raw, "opacity", 1, 0, 1)}
+        if L["animation"] not in ANIMATIONS:
+            raise ValueError(f"compose layer {n}: animation must be one of {sorted(ANIMATIONS)}")
+        if L["end"] <= L["start"] or L["start"] >= dur:
+            raise ValueError(f"compose layer {n}: needs start < end and start inside the clip ({dur:.3f} s)")
+        if 2 * L["fade"] > L["end"] - L["start"]:
+            raise ValueError(f"compose layer {n}: fades longer than the layer")
+        layers.append(L)
+    if not layers:
+        raise ValueError("compose needs at least one layer")
+    nits = _num(p, "graphics_white_nits", 203, 50, 1000)
+    return {"layers": layers, "base": v, "hdr": HDR_TRC.get(trc) if v["hdr"] else None,
+            "formats": FORMATS[v["pix_fmt"]], "nits": nits, "scale": scale}
+
+
+def _card(i, L, plan, t0, rate, ctx):
+    """Filter chain turning input i into an animated card in the base's colour space."""
+    ofmt, cfmt, afmt = plan["formats"]
+    a, b = t0 + L["start"], t0 + L["end"]
+    w0, h0 = ctx.even(L["width"]), ctx.even(L["height"])
+    f = f"[{i}:v]format=rgba"
+    if L["opacity"] < 1:
+        f += f",colorchannelmixer=aa={L['opacity']}"
+    f += f",scale={w0}:{h0}:flags=lanczos,format=rgba"
+    # Colour + alpha conversion happens once at full card size; per-frame animation scaling comes after,
+    # so every branch sees the same frame size (a size change mid-branch corrupts the alpha edge).
+    if plan["hdr"]:  # sRGB card -> BT.2020 HLG/PQ; alpha carried separately so it stays straight
+        f += (f",split[r{i}][m{i}];[m{i}]alphaextract,format={afmt}[a{i}];"
+              f"[r{i}]format=gbrp16le,zscale=pin=709:tin=iec61966-2-1:min=gbr:rin=full:p=2020:t={plan['hdr']}"
+              f":m=2020_ncl:r=limited:npl={plan['nits']},format={cfmt.replace('yuva', 'yuv')}[h{i}];"
+              f"[h{i}][a{i}]alphamerge,format={cfmt}")
+    else:
+        f += f",scale=out_color_matrix={SDR_MATRIX[plan['base']['color_space']]}:out_range=tv,format={cfmt}"
+    # Repeat the one converted still inside the graph (deterministic: overlay pulls frames on demand; separate
+    # looping image inputs raced the base decoder, giving 1-2 frame lag and run-to-run differences).
+    # Frame 0 is a transparent copy one frame before the cue: `fade` zeroes the first frame it sees, and the
+    # fade-in starts there, so the first enabled frame is visible (mirroring the last fade-out frame).
+    r = Fraction(rate)
+    n = math.ceil((b - a) * r) + 1
+    f += (f",split[s{i}][z{i}];[z{i}]lutyuv=a=0[t{i}];[s{i}]loop=loop={n - 1}:size=1[l{i}];"
+          f"[t{i}][l{i}]concat=n=2:v=1:a=0,settb=1/{r.numerator * 1000},"
+          f"setpts=({a}+(N-1)*{r.denominator}/{r.numerator})/TB"
+          ",trim=start=0")  # a cue at 0 puts the lead-in at -1 frame; `fade` then never shows the card
+    dy = ""
+    if L["animation"] == "slide-scale":
+        ease = f"min(1,max(0,(t-{a})/{L['entrance']}))"
+        k = f"({L['initial_scale']}+(1-{L['initial_scale']})*(1-pow(1-{ease},3)))"
+        # scale about the centre, then pad back to the full card box: constant frame size downstream
+        f += (f",scale=w='2*trunc({w0}*{k}/2)':h='2*trunc({h0}*{k}/2)':eval=frame:flags=lanczos"
+              f",pad=w={w0}:h={h0}:x='(ow-iw)/2':y='(oh-ih)/2':color=black@0:eval=frame")
+        dy = f"+{ctx.px(L['slide'])}*pow(1-{ease},3)"
+    if L["animation"] != "none" and L["fade"]:
+        f += (f",fade=t=in:st={max(0.0, a - 1 / float(r))}:d={L['fade']}:alpha=1"
+              f",fade=t=out:st={b - L['fade']}:d={L['fade']}:alpha=1")
+    pos = f"x={ctx.px(L['x'])}:y='{ctx.px(L['y'])}{dy}'"
+    over = (f"overlay={pos}:format={ofmt}:alpha=straight:eof_action=pass:repeatlast=0"
+            f":enable='gte(t,{a})*lt(t,{b})'")
+    return f, over
+
+
+@op("compose")
+def compose(ctx, ins, p, out):
+    """Timed image/text-card layers over the base clip in one pass, base picture/clock/colour preserved.
+    inputs: base clip, then layer images (rounded cards, labels, logos; render text to PNG first).
+    params: layers [{input (index into inputs, >=1), start, end (s, half-open [start, end)), x, y,
+    width, height (source px, card box top-left + size), animation = slide-scale | fade | none,
+    fade (0.14 s), entrance (0.22 s), slide (46 px), initial_scale (0.955), opacity (1)}];
+    audio {highpass, denoise, reduction} (optional dialogue cleanup, delay-compensated);
+    graphics_white_nits (HDR card white, 203 per BT.2408); color_policy = preserve."""
+    plan = validate_compose(ins, p, ctx.scale)
+    v = plan["base"]
+    t0, rate = v["start_time"] or 0, v["r_frame_rate"] or v["fps_str"]
+    args, parts, cur = ["-i", ins[0]], [], "0:v"
+    for n, L in enumerate(plan["layers"]):
+        i = n + 1
+        args += ["-framerate", rate, "-i", ins[L["input"]]]
+        chain, over = _card(i, L, plan, t0, rate, ctx)
+        parts += [f"{chain}[c{i}]", f"[{cur}][c{i}]{over}[v{i}]"]
+        cur = f"v{i}"
+    tags = ":".join(f"{k}={v[s]}" for k, s in (("color_primaries", "color_primaries"), ("color_trc", "color_transfer"),
+                                                ("colorspace", "color_space"), ("range", "color_range"))
+                    if v.get(s) and v[s] not in ("unknown", "reserved"))
+    parts.append(f"[{cur}]" + (f"setparams={tags}" if tags else "null") + "[v]")
+    a = "0:a?"
+    if p.get("audio") is not None:
+        au = info(ins[0])["audio"]
+        if not au:
+            raise ValueError("compose audio cleanup requested but the base has no audio")
+        if p["audio"].get("noise_print"):
+            raise ValueError("compose audio cleanup has no noise_print; use an audio_clean step")
+        chain, ctx.meta["audio"] = clean_audio(p["audio"], au["sample_rate"])
+        parts.append(f"[0:a:0]{chain}[a]")
+        a = "[a]"
+    args += ["-fps_mode:v", "passthrough", "-enc_time_base:v", v["time_base"]]
+    ctx.encode(args, ";".join(parts), "[v]", a, out)
+    ctx.meta["compose"] = {"layers": len(plan["layers"]), "hdr_transfer": plan["hdr"],
+                           "graphics_white_nits": plan["nits"] if plan["hdr"] else None,
+                           "picture": "base not scaled, graded or re-timed"}

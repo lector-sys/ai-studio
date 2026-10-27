@@ -1,122 +1,81 @@
-U2FsdGVkX1+9JR0xi46IMsKH4LCUHeR9o7ITFoylATSQIORDdNSOKHKNi/vnplIj
-BadN4CE0yhXEybHuQvmO3pZRBcR0fWZ0TkNIt/qFM6Kjrv2P99v1O12mkZxp9MYW
-iuNZDoA4HmTwsuplQ/3S11ZiwQ7L00i6SQb6kerSUiGbSzkom8nxJSwFXDQfAwn+
-wtvIf24x/WpvNVz2XELeuz9hPPlN4gnsT3YqUC9Ydk+xljGUQdDSaRr9lmtkC6+w
-o/K6JcSTnU27BclOxKu0KBGxvCXUU/V2JaF95CVbNBcQ/O87tm/RZGMtmDpRd++d
-RGPuhhkJDDDds5fJsRATXYTFRYvS5KADe+a6Ytlm84elWcFPxq2i6Z6Rt3DMBrKf
-iYdfRuLkW9DaHZ/em1xnWsIdCU7FiDU4B9dobK+6BA0+141wPp30PXDUH9Af6HMj
-X0OWlb3u3b4LQ9GQZlDsBzcpHPAU0gSWHdaIclf3E1IxhKZCitWYRptVjN4kCF15
-asjGj92V2TnPvsZ8iFYt6J7DCzxAAEtyVbXUBwNKF8hKiT8ZZnZOa8qBXMUYkdRv
-rN7mISTX4/+n2xVceHJqy8UBIExlDY/PE67FCh6EBqDFLfs4bNDGtHHM8wvYeSrJ
-ctfHJPl49SGYK5J1a1iFui2bAq2RMlHfaM5snTgYJzhCN+WrLulzLZs4Y1sEJEnU
-NC48x0cswxLlXT5Nt6wLOQHYLIKx4AOvL+5zVoYWltzGcBPxWku03OxNG0Zi6TPP
-DFVGPer8bEBNVsrrNNbbyqyEsHJawdpu4irDl4Cy8D9a3J7ClixGaEDJmbZXc2zp
-BxghE4wZ1FPhHnJOpg4qXrBBx0oH8D6MeY48f5D2Wqg/VBbYVgikbAya6KZ4DA1i
-ExLM5QVBUxfUlEH45pV24wb7/QHw/CZFntk1ZRv+fdbq901jVQbWIKCLMxIm2oia
-XpkAvFS+ufo/6aefANeAwOR80oHsCt29iN9a0oAG+dqKn6ypTEhFJaGNbQd/kqaX
-qIDlie6BdO85Z4H2qLu8dvg/vSiizLVKFjw5MWM5jIDXnVXTLvKSnIPuAeXCCy51
-Ug6Jj+l4RuuA/9+IAWcSToMn+PJQNNyqex4mXyXuqCPf5W0nTmULMT1kI7riqfKx
-f0CO5OaqVpRbg1iWyImmiAAtj6jkNLaLl0C4HXfev8OLGbmQKQ0HcGZrcGCCHlk1
-Btx7fhI98LuOK/lgAPFraWKEZpFUY8jeC3q2eJMUoUAWld8SHoy29+txW0F9KD20
-pZBzKXG9xgKwOki79amxmbu5wI1jopHn2CZJsnlJUvOcQ6UIO39Arqrunly9xJiw
-T3rrxmir+0HkRosSVBjo6fEq/gjsOUqJMsiATN/DcTMaOVXnvWQk6PtVj1co/ANs
-iSxYvbtL7gYluQ04CL43K6TBs6JftvcPudouEGYADos6LiEF3ElyY53XATM+b9BI
-n05wlwC+olw+IYvmjoko8rq9J3vcDq8KsTdpfH3Nqe1SBR8G6aofxT0j+sY++7Xd
-ktDUiAcFJAJ66zJ4fbbagorGI2leSfjx4rLoJyJaYWeEOC4zHxpZQbzzz4JmCBB9
-slHqhXuZikAhNrDu9688PwIUD1Ab42StWiQR437E6qcd8AU6iuqhmECO4wrJunNR
-yp2WqqC26ORsdrMrQy3NBL8KHPGr587qUBviZdA51RVVxhZAC2FXALUoytkW2w8h
-fJPUdWqFJ6BNtVMn/VluUweNmHtwXVRweyK9PN9xVW4FeXarCmDYFrzNQ0IIggD3
-wjABLkSz+SnZvGM2Tf41pA/8lC+AGscjt0IaAp3VmjmiBUNx+Es9KVXw0Bh+4/jh
-bzEM7q+9Hbw8gKrjqYfD9TnJZZWE3SMZ4/Sh32uz/oiXnvEAkOIWG/FanS2sv3uJ
-+q/pkN/HDl0OzkXCUJEDLkypdN6ZUnmOKe67I3xLX6C+RhTtgjWRr8rri2Zo/y3U
-ZJIPiYpCkbshfdQlS0ZQ+4YStsoIdyzm1+5ka06+I5FWZFhIGh2ovx+pk6gwwqzN
-wXZJB2KnYzeJjoYR962vmtD05IeJDIFSeVBMjOaJHmq/vAFfn6oAO3GgqOSnLJ9x
-csmplsEg+I+e4736YzrB1bTAPw1+lUz1rp3+ymcUn1KEgD4aejsZw0UE29K6Aj36
-Hb8hpu6/gU5T8G2sIz0dM2v/thD6cbwwjeVvzEa/OeFfSK6dMzfCbL/1KX6Oauw8
-ZbEdvFGc3P2IeNu/JcU00B5+iqf4z8Kh/I+cfEKKEKtd6Lc2lGhqegEdnSOVyC/2
-gKzCoW4D7v0ucdxeQoDXVF+RMgJzVGmt74vPlC6tTose4nRFrkDZlEqRagW5UTwN
-NyatWGWXt/o+2vMKogJhDeQ0lbeEhh4DpWXTRlt3DseIm0B7g6Ma2aGw6ykrzPTT
-xaqQeV4rXriAKXRGKgW+wDzT/2Q5rTycxp1NdnqDxWf2BTyf+lxo7CdywPfSUjDh
-7Up4w/N5FhtQ9laMsG8elLxnScZjlJgpbqIFAjvNSnzxcP5kti6nSoZj7gRlM8o6
-675g3hwzmBTkufAeD4Z/Mp8d621QHamimOgkbaEpCD5T5d78xSEQKbX/tyPZIJ9o
-xsPSQF52SiX8V1FDQ1PH38ohl4t1FPpA2sLnexeKr7F/1o6lqOrLiqmt3+lWpr5Y
-4nNgJhcUmfuYZmV2pIA6BTysiZ+55+7GNuWvbZ5zBbkwdih+4Uxqqs4IbVOm1jB6
-XhF7I2P5wf/jhjy5+zDsJtP+aVXqpQMBWxfbdLrFzWpDHuwu2MnMLIyeIVpORFBr
-J0EjQv1t2/mKwNcHqecQ7bpCtQRVx1z44DTrbzFoFiu/aKTXmvcc77j8d1BiR1mG
-AfYJ+KAyglyZrqQhtp7qaToYnnb7/C5b05shr2H0IYxDukqElI6l+3DGl7soXYbh
-ozCMqa5B79KPqjZbgetkzxnV3DNNERPhriClJew/gM/rYn/O8WWT2yqPof4ErM9P
-KAXdFGodUnutk5cyCnGEIoKEiIH8+L/+vGmUbkGhaxRyx4UfAfHoUA5xTYqLFTof
-T40v6yABlYc2fPcuMXNucYoQggy8G2bzoqzs30/XVnYz3kg0Ch3QOF+7OOcCnzyq
-LmyFjBTz52R6jb8ktRUo76c9hdCza6NxRhfhqB044d5LBNehkSNIx49QR1pKoJUx
-mWLk0mlHOU4HXBjFPttUpkISHQQuW/wHDLfWIQKKm4HoMvJORCtgFJLkAWgm/rZ7
-FpLK3A4sJfgNlGIRylt+KtS0W70aWjhwMNIMC8txZAEVJZrp/5eosjeYRgGJkVPJ
-yq16C1Q8tDhwZaoBZNlaOTmX1vVLaNBejbJq7QEwMxTew2MzLeQVF8jiPL6sUrvL
-hrMCu8RpIZRRaxcyuw0F3DOO27IKiKlC5CRxgFWFR+mlTobvAtP17xrUi5HnBdQ3
-agUq2WaJ8sH+F5nlUGrdaAewan89LipxqaXvvzJJ3ihbRlZ0E3n8zwJy/5LrP2ZB
-WM+huXVnfkgib2Bea8TDJgyd8EY41E8ZERv0xuZvB2pX00XgutQtxpsPdO62jpmQ
-gla+w2Qa61MWsul7CPlQaH1iJ/mJBTMGvK7GiT/XA3fYCzVLAjijW9ASBfMp2nju
-qAjXF6kMK8XhWv46AkqYZ1GJLNV+3SFPO4jjtioKu8G++QgaCdIzm869tweWPmm8
-akfFaOVqzZ+ST/m56lK3Ygzw16MAtCVa89FmPFGhXlCPdqe3wxxUnyDsVvmRyylB
-mAtOKBJ0OIxM7+KShDEzTTRW5EYZoF3xM34H3cXyAAKluSObNoMkvMHMWE9ZZ6kP
-NWDlNYqZdfKLUVtbTTiWO/lJW3PHea14fsK6lQW3/e0IG773RGDItJpZeucEnlD4
-21qW9dU/SKsIch+r3iWMdGoDYBLDzzl5IAf5vUIRMaR9qQhQQ6bVMf34vXSvvBxW
-QHH2IspvqAFROH244h7lfKMHnbyIjhVvOms3Pho5WVX6XDIVuaVU4wCQ2LrQ+Fkl
-VL0dlhklX3GuPUFjZcMPhenrbEj/2vP2ioAkTUFrG3ALF//p6MEMeAXEEBr+uE5F
-5nkEF2Na6rP3n5WOjaM7KMeZshi11ueGWzYVbXxPAfQj+u64h4viZ8/y5WXdKbPo
-RJJXW+n2cUG3dk+Wkl9yfGefaTrL9Wd1LO1G80o02w3duVVQDWHcVO8Y6j+vRkuL
-hB6bG1Klu1dlfoLBPO8myRoJw875Fyv6rhutVFV6F9G7gkmH2zP9LwJ3/1fnjo5q
-pcsHAEFPHOgE4Hq0+YU8Lcg7cZaEIsBvqXCroTE/8DZdrG7qQE6UC1ugm7agBwum
-U4hn0bW7C52GWu7k93tqqwRQTdjOnFjgmIphG6EfGfT0wUL+BamOwRy4L0LmMnTZ
-c1jIrM2887+/+m7YWKg1rGDADXIPI5LWHOPMPCqDhdXMO6gRiJzhvxy0Mj8AblCf
-vCP7ffcrh1mbTqgukRXexYwFF0FAUN4QpXRGBK47AwcnDcqq8PZuXIM0NFNuh+gR
-G0GUzwxBPWuaSWpP4B5ThvI0VayjizucbeJeuvJA9zA6JBsmRLOL3wUmVdJ2gGAS
-Gf2S4ouCD12K7qMnJQyogK6DQE7mwWeRXDG0XXp7PMGLWVgObRxTnAiUXA59ccH5
-IbmOzhxV5/6/uawiaD6YT64R+3Hmv6Ur+Fx32uuORZ6n3oPZ2g/W9dqcYUWboG/C
-ZStCQ788H5xfC3rhpd18X48OWBhG//BvKOoIeq+V9+xGdVRheFwObzzaGiScbdyE
-AKRjCH3o+jIWDxC1C58mg4cLxocHUzBLIYIJiKbyVoQ+H4tAohw6cbWgaKGftMgo
-uTch0lPs4vFBEd7VzJHgjOJS2/tLtVdnVzssD9cKteX/hwlJBd/JaO69UB5ElsPn
-HtjSwZuTnapnYBJl6orte8p0j+PpyovVsI3VjSICWLW2oyi3GU61PdKlp11vAo3b
-lB05v2Ly27iVCfa29o24TMPViWlvpcDanVjTRrvVYOLYwbp4/sgUGrtcKN0YYNMJ
-kRJCb9SeEZntvxRk5qDo2PMOmWmjuegDvNV1LToLbRYtkmiHEwJEIYZ/PLda2bPr
-SgHgS6999BrahZzdXXctSnv0Z1oXZpXVvqDRxhzevz8/SFAFmCdzPKZA+Qb4tyE2
-4G602WRZsr4w4Os5cMgig12q22J9vRaL9PnOhIdokjMj22Z7HEzntzwP1ddehDyf
-vFJ/IAJK5Jb6Di47Se9YjtYzLxfIIMwklpEP/anPRDLKmxUuWai80kSRG9IZ73d4
-/dTy6B2jvW+egzTFoT1LKbKIt4dxzfgTf6hluDfdwYUmq9w7Bag4olG1GjfclmwN
-AOO8a9fd/srvhlcbOWz/Wg9N3SnhrsSkYa+iUE2fqrRp5INoYo6K2Jbj0kLNjNqJ
-idkO1cKqbZ5tIh83Fc4oUoNiBtvhq7/zLZppMow1gynwnGnpKBOJKBek3RLlo9Of
-WF7e/m5l40pTSGNByCB5zk4z6RMy/OqByonwyyRzmDD3zgrzC+vHGq+TacXHqV5K
-Dy1NJM0w40oNlQ5LmDbOwM6Q1fTBQWVG5s5vSgdUIKJBxZWTBoo8Ms5P+WXmkjXP
-TdH0DEkU8gLbR3EwMXr2xxX9eoW5cWSmUZbCMLHQp1KbtWSQjFRx1iXlM8t+SaP0
-lYQWPJvOFVCzzQBbHS1OtPpCW6P3uALTeR6ZU96ciUrhlaaw2X1JG/2M3N3p/he7
-GbWG2hfDuyLyiGG3JzUTTjy2OjKeQAyEUZI8/DED116hdAQBgNZmF1ZmUt7m1MK7
-L7Dr/RsC+FB9SkvbfRcVJYgxtZGnMcnRm+t4CiE77iPYZqMeKzPJDex7SJLxq5Pb
-vdG3YGjxHSTDoDyieIloI/rgtqepULz15IoFLvmmf2ktcbcDhDs/O8M9LkzHh9hL
-kjt+XvbuzMqkDPzEV+N9v2KMAIfpnFp5Rv/aZ+PNhtUgP8lhOwADLtKnaTQHqIyh
-hu7+tXOGG7+sjnvWgvYrL/x5ny8upduggv96Ff46EPrz9PLwcdpHZC+dSuMT6K8o
-47abA91INH9ZR9p+qXHFCU2a3GPIljjRrypDCMKhbp7pcqZw9aNfKj1ZMoQDoREl
-G7U0Wn1EBW07/lEDwWzm4qNfPxb0wKkQW51oe3d1+w3fA+VnJmo3dC8gF1pXPZUA
-d5G9KDFbM941tm5ObrLDXBSJd7+4VOUTJx+Zp5GWS13zBYUkQ3TndpWU8grkO4EK
-eiJm5ZX7L7QTXpXQXu2Z4NEvHBPKOPovS66a94YO6N/jDfCr78ZoUfGiAAEww8wK
-7PAFO/r4qb9gg+MOk2bL9yggpLVqfbskdQLUQ5IBS96CDGBGQBVtfcNMpJbnNhuz
-5cUT3Q0fzRS+KUvbhWgJN6f2NSb7ovBcFupKUVaaOJ2gKaQTWiPHJB4I4ZsYk0U7
-ROuAoRooDRZ7ZP8xTHA6YG2cSNyrkszXsWNDRVn0ucMxPLqk0AfV4HaN1bt/m84O
-bZ4e/lK3aULD9vDm1UKIZMVsgvjIHfItpKDQ/WL68A38pEsTf4UomCOFXYSiV+Cc
-fPxIuFna575HzCnABcFTA98CWQHEvyGifzQSWk6hqinBQox68H5o1+DZPzU32Y9D
-zmbesCFGdLWfLzbqO7Y0hXo/oW2eHQsSqYsoUTiTkavCpKqAeK3eKEbfp6mRfnKT
-CquUPsvV8J8+/cmgLBFf1J0KEEhyKzKUQdRfVSpT/ieIf6H+gYEk1eBTMfcxyZf5
-vdxuTnGK4b4OSNG1Y5CtyYLSnbo1aKmOi9grMB5108gWKr0X64acmYOwZemFU/kC
-kV9NDi2LXr7d75M5flloT59YDS7H8HShz8kvYIx9a/b886xQeqVADuZABbQnUhOt
-LZ7BcgTehDbDA0cpEZF1omqf+TdX04Tl07MFGNfee6CA+LoyAMNDD4GNlETC87Jq
-ZJHB6YPejvBDZT66eUSNDZ8ohbXeErdF4DjLTN1D25dvB/Xdij/seVjDQTg+H3M2
-t1RuOSSIGBIw0geAk2LdvbXghDTY1I5hvreuwdws6K8cMNoNOcblXjnUCPn5bJr2
-SX2pfYe24QLNMN9ZmFEpXo5ojT6ValKyfSK2Vsn+LPODKQC0a+piIOJs50JhKch0
-oEeVNgAAlKCEGs7ZuA4ICODNUmpmNqtMbJDSjQ6mpeo2t2Sc9KgfMNwpZm+7QhFQ
-xXyQfiu3ngl0gPlgQ/641BFp/m9o+GhVlqfUl5BwUujXRWw+jIavmUNzyTXrCg64
-3j7ZwwzDbfI8dLicwS70MRIAuvodHRkjQDftInpgxNv4cu7+tjvEp5Y8LoMpa74h
-gJ4PJKGEkHEdDR2SO/Nh39httqtd5KGnscIfwbL0s1dfcocN96QFFp9sWwCobUPa
-1/G06dgHr8LPfq3A9ZOHw3QqdYcSNdVzEbCi+lt9/jwWuRVA8YiNKHh/7nkyc8qm
-8FqXW1tR5S8pP5dGIpC+c0QQGbKPqhHL+hm2b/Nt+DBF8pkS0bw9o4MWLWQRobEv
-DG+L6/1Erj2gJH6kcqXA+ji9Ykvg4CJAWs3J6LbAFkyVVp3XlOaXWK+eH2qgj7xG
-7F4FFOPgBm1k88Gv6n4QG95Ze8PHZR2BzUrvn68o7wpZmEORrEHlaCxBiYB7e8ho
-kBDjpxAaCJeqkVmF/dVTtwTYGXrJjECMvIPi2MD4hwrG3ZZKQafElPS3BFs6Z76L
-0NuIAX4Js/qQV1JA/uAqrRRxJU7tbEkVMLzZb/n8QTc=
+# AI Studio: handoff (last updated 2026-10-10)
+
+## Where things stand
+- v0.3.x, in git (`git log`). All spec phases 0–7 are built, plus the v0.3 backlog.
+- Tests: `.venv\Scripts\python -m pytest -q tests`. The last full run passed 59 in about 90 s. `tests/test_v03.py`
+  now has 9 tests, and the full suite wasn't re-run after the last changes.
+- It's also a Claude Code plugin (`ai-studio@ai-studio`, user scope, v0.3.1): the `studio` skill works from any folder.
+- The first real-footage job (4K60 ants clip, "make the sand red") is **done and delivered**. See session 3 below.
+
+| Session | Transcript | What was done |
+|---|---|---|
+| 1 | `session-2026-10-08.jsonl` | Phases 0–2: CLI, 21 deterministic ops, mask/track/background, cache, QC, provenance |
+| 2 | `session-2026-10-08-phases3-7.jsonl` | Phases 3–7: STT/captions/cut/index, restoration, generative ops, check/auto/bench + VRAM scheduler, local UI |
+| 3 | `session-2026-10-09-v03-plugin-4k-test.jsonl` | v0.3 backlog, plugin, GPU encode + watchdog, first real 4K60 job (red-earth regrade), look_match, parallel frames |
+
+**To resume**, open Claude Code and say: *"D:\projects\AI_studio: read claude-logs/HANDOFF.md and continue"*.
+Or run `claude --resume` from `C:\WINDOWS\system32` and pick session `ae36d4de-5bff-495d-95b3-0abf73a4431a`
+(session 3). Session 2's id was `30134ee2-a07b-48ab-b8d8-bbf168f25ba0`.
+
+## Rules the user set (also in memory and AGENTS.md)
+- **Creative/look edits: confirm first.** Read the prompt the way a colourist would. Mock up 2–3 interpretations as
+  stills (full frame plus a 100% crop) in a `look options` folder, ask the user to pick, and only then render. Real
+  footage must look photoreal and cinematic: no flat fills, hard mask edges or halos.
+- **GPU rendering is allowed (from 2026-10-10), but only monitored.** Run `tools\gpu_watch.ps1` under Monitor
+  during any GPU work. It kills AMF encodes on a driver reset (TDR 4101/4116/4117), a bad adapter status, or VRAM
+  over the limit. Use `STUDIO_HW_ENCODE=1` for the AMF encode. DirectML for the ONNX models isn't installed or
+  tested yet. Vulkan is still off-limits.
+
+## Session 2 changes
+- New modules: `studio/speech.py`, `restore.py`, `generate.py`, `sched.py`, `agent.py`, `ui.py`, `ui.html`.
+- New commands: `transcribe`, `captions`, `cut`, `index`, `search`, `object`, `generate`, `capabilities`, `schema`,
+  `check`, `auto`, `bench`, `ui`.
+
+## Session 3 (2026-10-09/10)
+**v0.3 backlog**
+- Git repo; Claude Code plugin plus local marketplace (`.claude-plugin/`, `plugin/`).
+- `studio cache prune`; per-op cache keys; GPU lock timeout.
+- HDR10 passthrough (x265, SVT-AV1); chunked long-footage steps (`Step.chunk`, `STUDIO_CHUNK_SECONDS`).
+- Identity-aware mask tracking (overlap + colour histogram, velocity coasting through occlusions).
+- `models.py` + `studio models`; `face_restore` (YuNet + GFPGAN); RIFE `interpolate backend=onnx`; Real-ESRGAN.
+- Semantic search (MiniLM ONNX); UI timeline, mask overlay and paint tool -> `mask_edit` op.
+
+**First real job:** `D:\footage\18330235-uhd_3840_2160_60fps.mp4` (macro of pale ants on grey stone, 23 s, 4K59.94)
+- The ask: "change the colour of the sand to red, trim to 16 s, save in `D:\edited(studio)`".
+- Attempt 1 (`recolor` op, flat red on the in-focus ground) was **rejected** as "way off". The user sent a reference
+  image (red-earth terracotta world, golden ants), now saved at `D:\edited(studio)\look options\reference.png`.
+- I mocked up looks A (reference match), B (daylight red earth) and C (red ground, grey background). **The user
+  picked B** and the first 16 s.
+- Delivered: `D:\edited(studio)\ants_red_earth_daylight_16s_4k60.mp4`. Job: `workspace/jobs/red_earth_daylight.json`
+  (`look_match` with exposure=keep, mid_offset=-8, contrast=1.2, saturation=0.9). All QC passes; GPU (AMF) encode
+  took 14 s with no driver events.
+- The rejected `ants_red_sand_16s_4k60.mp4` is still in that folder. I offered to delete it; no answer yet.
+
+**Studio changes from the job**
+- New ops: `recolor` (region/hue/saturation selection, `spare_warm`) and `look_match` (regrade into a reference
+  image's brightness-dependent palette; warm subjects keep and amplify their warmth, no masks).
+- `map_frames(parallel=True)`: a thread pool with ordered output, only for stateless ops. `look_match` also uses
+  lookup tables. Together that's about 5× (1.3 → 6.7 fps at 4K). `STUDIO_FRAME_WORKERS` overrides the thread count
+  (default cpu/2).
+- The FFV1 writer is threaded (16 slices). AMF probe fix: HEVC AMF rejects 256 px frames, so the probe now uses
+  640×360. Before the fix, GPU renders silently fell back to the CPU.
+- `tools/gpu_watch.ps1`: GPU health watchdog.
+
+## Gotchas
+- faster-whisper's PyAV decoder breaks against the installed `av`, so audio goes ffmpeg → numpy.
+- The installed onnxruntime loads IR ≤ 13 only.
+- minterpolate drops tail frames (padded, then trimmed). Use half-open ranges in `select`.
+- 540p previews under-show thin-subject detail (the ants look less golden there); judge looks on full-res stills.
+- Bash heredocs with nested quotes/escapes broke file edits twice. Write the edit script to the scratchpad and run it.
+- Speeds on this PC: the 4K CPU grade runs at about 6–7 fps with parallel frames; the AMF 4K60 encode runs at about
+  70 fps; the CPU x265 slow encode takes about 100 s per 16 s of 4K60. GPU files come out about 1.5× bigger at
+  similar quality.
+
+## Next
+1. Waiting on the user: delete the rejected red-sand file?
+2. Ideas, not started:
+   - parallelise other stateless per-frame ops
+   - DirectML for the ONNX models (needs `onnxruntime-directml`, a monitored test first)
+   - turn the look-dev mock-ups into a `studio looks` command
+   - CLIP visual search
+3. Not done on purpose: a neural generator (GPU + ComfyUI) and SAM2 (torch + GPU).

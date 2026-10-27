@@ -1,330 +1,292 @@
-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
+"""Slice 2: local generation contract (fake command worker + fake ComfyUI; no model downloads)."""
+import json
+import sys
+import threading
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
+
+import pytest
+
+from studio import jobs, media, workers
+from studio.generate import generate_media, provenance, select_output
+from studio.qc import validate_audio
+from test_studio import d, run  # noqa: F401  (shared module fixture)
+
+FAKE = str(Path(__file__).with_name("fake_generator.py"))
+
+
+@pytest.fixture
+def ws(tmp_path, monkeypatch):
+    """Isolated workspace with a fake command worker configured (workspace/workers.json)."""
+    w = tmp_path / "ws"
+    monkeypatch.setenv("STUDIO_WORKSPACE", str(w))
+    jobs.workspace(w)
+    cfg = {"fake": {"backend": "command", "kinds": ["voice", "music", "video"], "fields": ["prompt", "text", "voice",
+                    "duration", "seed", "width", "height", "fps"],
+                    "argv": [sys.executable, FAKE, "--request", "{request}", "--out", "{out}"], "timeout": 20},
+           "slow": {"backend": "command", "kinds": ["voice"], "fields": ["prompt", "text"],
+                    "argv": [sys.executable, FAKE, "--request", "{request}", "--out", "{out}"], "timeout": 2}}
+    (w / "workers.json").write_text(json.dumps(cfg), encoding="utf-8")
+    return w
+
+
+def test_audio_only_validation(tmp_path):
+    p = tmp_path / "tone.wav"
+    media.ffmpeg(["-f", "lavfi", "-i", "sine=f=440:r=48000:d=0.5", "-c:a", "pcm_s24le", p])
+    report = validate_audio(str(p), duration=.5)
+    assert report["ok"], report
+    assert media.info(p)["video"] is None and media.info(p)["audio"]["sample_rate"] == 48000
+    assert not validate_audio(str(p), duration=2)["ok"]
+
+
+def test_procedural_cannot_fake_voice(tmp_path):
+    with pytest.raises(ValueError, match="voice"):
+        generate_media("Speak this", "voice", tmp_path / "voice.wav", backend="procedural")
+
+
+def test_command_worker_voice_provenance_and_literal_text(ws, tmp_path):
+    text = 'Say {braces}, "quotes" & C:\\paths; $(rm -rf) `x`'
+    out = generate_media("tone", "voice", tmp_path / "v.wav", worker="fake", text=text, duration=None)
+    p = provenance(out)
+    assert out.endswith("v.wav") and p["kind"] == "voice" and p["worker"] == "fake"
+    assert p["meta"]["echo_text"] == text  # passed as data in the request file, never through a shell
+    assert p["native"]["audio"]["sample_rate"] == 24000 and p["sha256"] == media.sha256(out)
+    assert p["request"].get("duration") is None  # voice length comes from synthesis, not the 5 s visual default
+    assert not list(tmp_path.glob("*.part*")) and not list(tmp_path.glob("*.request.json"))
+
+
+@pytest.mark.parametrize("mode, match", [("corrupt", "validation"), ("nothing", "without writing"),
+                                         ("fail", "model exploded")])
+def test_command_worker_failures_publish_nothing(ws, tmp_path, mode, match):
+    o = tmp_path / "o"
+    with pytest.raises(RuntimeError, match=match):
+        generate_media(mode, "voice", o / "v.wav", worker="fake")
+    assert list(o.iterdir()) == []
+
+
+def test_worker_timeout_and_unsupported_requests(ws, tmp_path):
+    o = tmp_path / "o"
+    with pytest.raises(RuntimeError, match="timed out"):
+        generate_media("sleep", "voice", o / "v.wav", worker="slow")
+    with pytest.raises(ValueError, match="does not generate image"):
+        generate_media("x", "image", o / "i.png", worker="fake")
+    with pytest.raises(ValueError, match="does not support"):
+        generate_media("x", "voice", o / "v.wav", worker="slow", voice="af_heart")
+    assert list(o.iterdir()) == []
+
+
+def test_direct_generation_never_replaces(ws, tmp_path):
+    (tmp_path / "o").mkdir()
+    tmp_path = tmp_path / "o"
+    keep = tmp_path / "v.wav"
+    keep.write_bytes(b"user audio")
+    with pytest.raises(FileExistsError):
+        generate_media("tone", "voice", keep, worker="fake", text="hello")
+    assert keep.read_bytes() == b"user audio"
+    assert sorted(f.name for f in tmp_path.iterdir()) == ["v.wav"]
+
+
+def test_audio_job_alone_and_mixed_into_video(ws, d, tmp_path):
+    gen = {"id": "say", "op": "generate_audio", "inputs": [], "params": {"kind": "voice", "worker": "fake",
+                                                                        "text": "hello studio", "prompt": "tone"}}
+    alone = jobs.run(jobs.Job(name="voice", sources={}, steps=[gen], output=str(tmp_path / "voice.mp4")),
+                     ws=ws, log=lambda m: None)
+    assert alone["ok"] and alone["output"].endswith(".wav") and alone["profile"] == "wav", alone["validation"]
+    mixed = jobs.Job(name="mix", sources={"clip": {"path": d["clip"]}},
+                     steps=[gen, {"id": "mix", "op": "audio", "inputs": ["clip", "say"],
+                                  "params": {"mode": "mix", "delay": 0.2}}],
+                     output=str(tmp_path / "mixed.mp4"), profile="h264-master")
+    r = jobs.run(mixed, ws=ws, log=lambda m: None)
+    assert r["ok"] and media.info(r["output"])["audio"], r["validation"]
+    from studio.agent import check
+    bad = jobs.Job(name="bad", sources={}, steps=[gen, {"id": "f", "op": "fade", "inputs": ["say"]}],
+                   output=str(tmp_path / "bad.mp4"))
+    c = check(bad)
+    assert not c["ok"] and any("audio-only" in e for e in c["errors"])
+
+
+def test_generate_op_keeps_generated_audio(ws, d, tmp_path):
+    job = jobs.Job(name="gv", sources={}, steps=[{"id": "g", "op": "generate", "inputs": [], "params": {
+        "kind": "video", "worker": "fake", "prompt": "video", "width": 320, "height": 240, "fps": 24, "duration": 1}}],
+        output=str(tmp_path / "gv.mp4"), profile="h264-master")
+    r = jobs.run(job, ws=ws, log=lambda m: None)
+    assert r["ok"] and media.info(r["output"])["audio"], r["validation"]
+    assert r["steps"][0]["meta"]["generate"]["native"][:2] == [320, 240]
+
+
+def test_readiness_needs_reviewed_evidence_and_tracks_changes(ws, tmp_path):
+    model = tmp_path / "model.bin"
+    raw = json.loads((ws / "workers.json").read_text(encoding="utf-8"))
+    raw["fake"]["models"] = [str(model)]
+    (ws / "workers.json").write_text(json.dumps(raw), encoding="utf-8")
+    cfg = workers.worker_config("fake")
+    assert workers.readiness(cfg)["state"] == "unavailable"
+    model.write_bytes(b"weights v1")
+    assert workers.readiness(cfg)["kinds"]["voice"]["state"] == "configured"
+    out = generate_media("tone", "voice", tmp_path / "smoke.wav", worker="fake", text="smoke test")
+    workers.record_smoke(cfg, provenance(out) | {"kind": "voice"})
+    assert workers.readiness(cfg)["kinds"]["voice"]["state"] == "configured"  # not reviewed yet
+    workers.record_review(cfg, "voice", "tester", "pass", ["clear tone"])
+    assert workers.readiness(cfg)["kinds"]["voice"]["state"] == "ready"
+    model.write_bytes(b"weights v2")  # same path, new model: evidence no longer applies
+    assert workers.readiness(cfg)["kinds"]["voice"]["state"] == "configured"
+    assert "workers" in __import__("studio.devices", fromlist=["x"]).capabilities()
+
+
+# --- ComfyUI contract (fake local server) -------------------------------------------------------
+
+class Fake(BaseHTTPRequestHandler):
+    state: dict = {}
+
+    def log_message(self, *a):
+        pass
+
+    def _json(self, obj, code=200):
+        body = json.dumps(obj).encode()
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json")
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        self.wfile.write(body)
+
+    def do_GET(self):
+        s = self.state
+        if self.path.startswith("/system_stats"):
+            return self._json({})
+        if self.path.startswith("/object_info"):
+            return self._json({"KSampler": {}, "SaveImage": {}, "LoadImage": {}})
+        if self.path.startswith("/queue"):
+            return self._json({"queue_running": [[0, "someone-else"]], "queue_pending": []})
+        if self.path.startswith("/history/"):
+            mode = s["mode"]
+            if mode == "hang":
+                return self._json({})
+            if mode == "error":
+                return self._json({"p1": {"status": {"status_str": "error", "messages": [
+                    ["execution_error", {"exception_message": "out of memory"}]]}, "outputs": {}}})
+            outs = {"7": {"images": [{"filename": "preview.png", "subfolder": "", "type": "temp"}]},
+                    "9": {"images": [{"filename": "final.png", "subfolder": "", "type": "output"}]}}
+            if mode == "unsafe":
+                outs["9"]["images"][0]["filename"] = "../../evil.png"
+            return self._json({"p1": {"status": {"status_str": "success", "completed": True}, "outputs": outs}})
+        if self.path.startswith("/view"):
+            s.setdefault("viewed", []).append(self.path)
+            body = Path(s["png"]).read_bytes()
+            self.send_response(200)
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+            return
+        self._json({}, 404)
+
+    def do_POST(self):
+        s = self.state
+        body = self.rfile.read(int(self.headers.get("Content-Length", 0)))
+        if self.path == "/upload/image":
+            s["uploaded"] = True
+            return self._json({"name": "stored_ref_1.png", "subfolder": "", "type": "input"})
+        if self.path == "/prompt":
+            s["workflow"] = json.loads(body)["prompt"]
+            return self._json({"prompt_id": "p1", "number": 1, "node_errors": {}})
+        if self.path.startswith("/api/jobs/"):
+            s.setdefault("cancelled", []).append(self.path)
+            return self._json({})
+        if self.path == "/interrupt":
+            s["global_interrupt"] = True
+        return self._json({})
+
+
+@pytest.fixture
+def comfy(ws, tmp_path):
+    png = tmp_path / "out.png"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=blue:s=64x48", "-frames:v", 1, png])
+    Fake.state = {"mode": "ok", "png": str(png)}
+    srv = ThreadingHTTPServer(("127.0.0.1", 0), Fake)
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    wf = tmp_path / "wf.json"
+    wf.write_text(json.dumps({"3": {"class_type": "KSampler", "inputs": {"seed": 0, "text": "{{prompt}}"}},
+                              "5": {"class_type": "LoadImage", "inputs": {"image": "placeholder.png"}},
+                              "7": {"class_type": "PreviewImage", "inputs": {}},
+                              "9": {"class_type": "SaveImage", "inputs": {}}}), encoding="utf-8")
+    ckpt = tmp_path / "ckpt.safetensors"
+    ckpt.write_bytes(b"weights")
+    raw = json.loads((ws / "workers.json").read_text(encoding="utf-8"))
+    raw["cf"] = {"models": [str(ckpt)], "backend": "comfyui", "kinds": ["image"], "url": f"http://127.0.0.1:{srv.server_port}",
+                 "workflow": str(wf), "output_node": "9", "output_type": "images",
+                 "bindings": {"seed": {"node": "3", "input": "seed"}}, "uploads": {"init": {"node": "5", "input": "image"}},
+                 "node_classes": ["KSampler"], "fields": ["prompt", "seed", "width", "height", "references"], "timeout": 3}
+    (ws / "workers.json").write_text(json.dumps(raw), encoding="utf-8")
+    yield Fake.state
+    srv.shutdown()
+
+
+def test_comfy_binds_uploaded_reference_and_takes_designated_output(comfy, d, tmp_path):
+    out = generate_media("a {weird} 'prompt'", "image", tmp_path / "img", 64, 48, seed=42, init=d["logo"], worker="cf")
+    wf = comfy["workflow"]
+    assert wf["5"]["inputs"]["image"] == "stored_ref_1.png"  # the name the server returned, not ours
+    assert wf["3"]["inputs"]["seed"] == 42 and wf["3"]["inputs"]["text"] == "a {weird} 'prompt'"
+    assert "final.png" in comfy["viewed"][0] and media.info(out)["video"]["width"] == 64
+
+
+@pytest.mark.parametrize("mode, match", [("error", "out of memory"), ("unsafe", "unsafe"), ("hang", "timed out")])
+def test_comfy_failures_are_prompt_and_owned(comfy, tmp_path, mode, match):
+    comfy["mode"] = mode
+    with pytest.raises((RuntimeError, ValueError), match=match):
+        generate_media("x", "image", tmp_path / "img", 64, 48, worker="cf")
+    assert not list(tmp_path.glob("img*")) and not list(tmp_path.glob("*.part*"))
+    if mode == "hang":  # only our prompt is cancelled; never the global interrupt
+        assert comfy["cancelled"] == ["/api/jobs/p1/cancel"] and "global_interrupt" not in comfy
+
+
+def test_select_output_is_explicit():
+    outputs = {"preview": {"images": [{"filename": "draft.png"}]}, "final": {"videos": [{"filename": "done.mp4"}]}}
+    assert select_output(outputs, node="final", kind="video")["filename"] == "done.mp4"
+    with pytest.raises(ValueError, match="missing"):
+        select_output(outputs, node="missing", kind="video")
+    with pytest.raises(ValueError, match="no image"):
+        select_output(outputs, node="final", kind="image")
+    two = {"f": {"images": [{"filename": "a.png"}, {"filename": "b.png"}]}}
+    with pytest.raises(ValueError, match="explicit index"):
+        select_output(two, node="f", kind="image")
+    with pytest.raises(ValueError, match="loopback"):
+        workers.Worker  # noqa: B018
+        from studio.generate import _local
+        _local("http://example.com:8188")
+
+
+def test_review_regressions_model_dirs_stdout_and_audio_jobs(ws, tmp_path):
+    bundle = tmp_path / "bundle"
+    (bundle / "sub").mkdir(parents=True)
+    (bundle / "sub" / "w.bin").write_bytes(b"a")
+    raw = json.loads((ws / "workers.json").read_text(encoding="utf-8"))
+    raw["fake"]["models"] = [str(bundle)]
+    (ws / "workers.json").write_text(json.dumps(raw), encoding="utf-8")
+    cfg = workers.worker_config("fake")
+    before = workers.fingerprint(cfg)  # a model folder fingerprints its files (no PermissionError)
+    (bundle / "sub" / "w.bin").write_bytes(b"b")
+    assert workers.fingerprint(cfg) != before
+    gen = {"id": "say", "op": "generate_audio", "inputs": [], "params": {"kind": "voice", "worker": "fake",
+                                                                        "text": "again", "prompt": "tone"}}
+    job = lambda: jobs.Job(name="again", sources={}, steps=[gen], output=str(tmp_path / "again.mp4"))  # noqa: E731
+    first = jobs.run(job(), ws=ws, log=lambda m: None)
+    assert first["output"].endswith(".wav")
+    assert jobs.run(job(), ws=ws, log=lambda m: None).get("reused")  # identical audio job: verified reuse
+
+
+@pytest.mark.parametrize("fps,duration,match", [(64, 2.0625, "fps"), (16, 2, "4n\\+1"), (16, 4.0625, "frames"),
+                                                   (0, 1, "positive"), (float("nan"), 1, "positive"),
+                                                   (16, float("inf"), "positive"), (16, -1, "positive")])
+def test_video_limits_reject_untested_rates_and_latent_counts(ws, fps, duration, match):
+    cfg = workers.worker_config("fake")
+    cfg["limits"] = {"max_fps": 16, "max_frames": 33, "frame_step": 4}
+    with pytest.raises(ValueError, match=match):
+        workers.request_check(cfg, {"kind": "video", "width": 832, "height": 480,
+                                    "fps": fps, "duration": duration})
+    workers.request_check(cfg, {"kind": "video", "width": 832, "height": 480,
+                                "fps": 16, "duration": 2.0625})
+
+
+def test_video_limits_accept_seventeen_frames(ws):
+    cfg = workers.worker_config("fake")
+    cfg["limits"] = {"max_fps": 16, "max_frames": 33, "frame_step": 4}
+    workers.request_check(cfg, {"kind": "video", "fps": 16, "duration": 17/16})

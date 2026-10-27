@@ -1,29 +1,28 @@
-U2FsdGVkX1++nTA3X7H8Ghe8mgeAfMrmEN/cL5tkDuH+Jz/qwW+evyNA6LVb579e
-xGJ/viLV+Nqr2jQUkIyLSaz3UcnUycQaBn917AutWwM4DGETX+yVqkjmJm2qV/Mq
-Gk4pVE8xCYXOhCuHrWg28/I43BwDIw47z5EYlNMmmV3JesynTRp1cJfTKUpvRMgl
-VXYCqbzYRGtjk2W4tpsOOG3drIvP+5SQNQRMyU5H+k93POgCDZFOqCSghOZJ+TNW
-854gO2zvk+dAY5OV3RuqgLUx3EdrWSNVKjGbZoyYaLf4KOq5bd7CIqn393WPM70r
-QgCH0VxkF+4ni3LnvM8IPmf1BvvUf0oHf3E4veYnsmrG0ehxLhswN8HrRB6zDK+J
-pZWO47L9cKLki85/kC0fu6hm6ATc9tddNJ0H2cMWbUOceTbt+m+H/EClnn8o6WuW
-ZDd1WBkxuuJWWHZHtLLFrHJD4e0KNo9viFNj/r8DWtza3ejAcj5iv67Cs6S2lkTP
-aEycpKdG2BphGRjOo1MfiHczw3BFSpYfdFzGxj+AqTVZy2tKJGuww0JvZwGjnnjG
-LTNIxwy86etIuNnDxAWubCLCoZpP3RBFoGXzieWClKHBilk0PY7q7MabCsCiWhuX
-/830QzxUfbHs1ZGsuyYxJYZRhdazkgYDWJqfWX2+UHkL29rSCRfpdsjhxR0v8Q6B
-hhwAVoWNQkA41VCuCpAFpPGjfe2xA7C6BzLEQHQVdHzNC5N/t/MJi3CKbOvmq4fG
-JTw1RnqfP/JH3bS5/p5K7iAjFAjlfMa/HsebnTp6I7ggSpqOsceA+Zp9QWKBU/2P
-eJpobal3utIL/2VvufDXP0OR2lLOnzsBxShQyMQHJil4Y7KwFP8XBEWnZs6VsMro
-TvNVlE69+flYixyXjpzkupusaGNVkmiP3W4uoacRJuFWmtFQsxveBavI3S/DiwKx
-EmS3LRMjgipcHQExfP7JBoFswbLAQkstfTYIjBSl9yqah92zn6Sd/RynONn1Xjhg
-tCOantU72dUAYewvOsS09LzpJT8hz46MPkNizwS/KBPJBzJcrwWfEzgnsi0bAmV4
-NGwnbJpm5n3gOIEnsueljHluxc/eYr45FyxqMzIrQJ97uvhrDnYn34KSLaG1Fys+
-2Ga0L7v5YU0ifLxY/lSvVyZzGlsvfSvAS6Bya0aZdne4CId4ePuPvkwgBKZ9NGUX
-e1qR3fi1zT5qT6u8QF1MM/WykKwtI36uHRRkQV85FerKQxRdaEEF0Ww2MH4LhBqe
-E2KW4LzF0HRt4GPLiabBPnJjMb7ON62/3QKB1lqS3BylGVWlijTr6Lk96CpcCgNj
-bIoP1wH3MT3CW//Xard/KBYdLUBeiuHeDJ+qcKgnzqT2UcdvXl/PVmfwjmTk9sIF
-exG5ZuJ3EhW4mijC1X/jiSGrzG8+VsZAgGU/uUkgvDQEPxB8EYBzqMCUVPIn5G2t
-xFacjMltpp7V8PyVE9j7S1Pr80wtNil54xq28fXD/MlOQ359hCeQAzFb+QxHxQc5
-kiew7jCA+u5ZZwg+fUfc2Dw1r1DUkYUiU/D1eJh1Mo7LFHTYv1TLJttAsDUwhEue
-UGC3Q24l+gPVdJXmFDW2Y1k9urjbGHaYMFLXTVgdVGyNLDjX1ei/4YAC516lgFwN
-cABYfCAYOaU8pKjAHCdzyBr1aeCljqaaVVXNAz/Xi7LcpbFvNbmNMrgNDKgXjL38
-fYfSphH5xpzMbt4Ht7lCmUIRNX81nPhInzZVE2Tn2D5xbiPbzCEe3uRI+CPrLwt4
-IVgR5IF3OrMEkwN/ZImExg==
+"""AI Studio command worker: Kokoro-82M (ONNX, CPU) narration.
+Request JSON fields: text (or prompt), voice (default af_heart), lang (default en-us), speed (1.0)."""
+import argparse
+import json
+import sys
+from pathlib import Path
+
+import onnxruntime
+import soundfile as sf
+from kokoro_onnx import Kokoro
+
+here = Path(__file__).resolve().parent
+ap = argparse.ArgumentParser()
+ap.add_argument("--request", required=True)
+ap.add_argument("--out", required=True)
+a = ap.parse_args()
+req = json.loads(Path(a.request).read_text(encoding="utf-8"))
+text = (req.get("text") or req.get("prompt") or "").strip()
+if not text:
+    sys.exit("kokoro worker: no text to speak")
+voice, lang, speed = req.get("voice") or "af_heart", req.get("lang") or "en-us", float(req.get("speed") or 1.0)
+k = Kokoro(str(here / "kokoro-v1.0.onnx"), str(here / "voices-v1.0.bin"))
+if voice not in k.get_voices():
+    sys.exit(f"kokoro worker: unknown voice {voice!r}; have {sorted(k.get_voices())}")
+samples, rate = k.create(text, voice=voice, speed=speed, lang=lang)
+sf.write(a.out, samples, rate, subtype="PCM_24", format="WAV")  # native rate, no resampling
+print(json.dumps({"device": "cpu", "providers": onnxruntime.get_available_providers()[:1], "model": "kokoro-v1.0.onnx",
+                  "voice": voice, "lang": lang, "speed": speed, "sample_rate": rate}))

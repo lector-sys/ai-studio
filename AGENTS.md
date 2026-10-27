@@ -1,189 +1,103 @@
-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
+# Operating the studio (for Claude Code / Codex)
+
+You are the planner/operator. Call `studio`; never hand-roll FFmpeg commands for a user request.
+Every command prints JSON to stdout (progress goes to stderr). Exit code 1 means the op or its validation failed.
+
+Run it as `D:\projects\AI_studio\.venv\Scripts\studio.exe` (or activate the venv).
+
+## Retained workflow for future edits
+The user requested on 11 October 2026 that the successful editing workflow be retained for upcoming edits.
+Read [EDITING_WORKFLOW.md](EDITING_WORKFLOW.md) before preparing every edit. It adds native-resolution
+quality review, source texture/luminance preservation where applicable, exact timing checks, delegated
+frame reviews requested by the user, and verified delivery. A 540p preview is an iteration proxy;
+review native source/master samples before final delivery. Reuse an approved look without repeating approval.
+
+## Creative edits: confirm the look first
+For any colour / look / style request ("make the sand red", "make it cinematic", "golden hour"):
+1. Read it the way a colourist would. "Change X to red" on real footage means a believable material and environment
+   change, not a flat fill: colour that follows the light (darker, richer shadows, softer highlights), the whole
+   environment where it's the same material (defocused background included), texture kept, and subjects
+   (people, animals, insects) keeping their natural colour.
+2. Mock up 2–3 interpretations on 2–3 real frames: the full frame plus a 100% crop. Save them in a
+   `look options` folder next to the output, with a side-by-side comparison against the original. If the user
+   gave a reference image, one option should match it (`look_match`).
+3. Show the user the paths and ask which matches what they had in mind. Render only after they pick.
+4. Real (non-animated) footage must stay photoreal and cinematic: no hard mask edges, no flat paint, no colour halos.
+
+Ops for this: `look_match` (regrade into a reference image's palette, sparing warm subjects), `recolor`
+(selective region recolour), `color` (eq/temperature/LUT), `match_color`, `relight` (masked grade).
+
+## Workflow
+1. `studio inspect <file>`: never assume fps, resolution, color, or audio layout.
+2. `studio ops` lists every operation and its params. Split the request into steps and write a job manifest
+   (see `examples/background_replace.json`). Pixel params are always in **source** pixels.
+3. For anything AI-dependent (mask/background), run `studio preview job.json` first. It renders at 540p proxies
+   and writes `<output>.preview.mp4`.
+4. Read the result JSON:
+   - `validation.ok`, plus any failed `checks`
+   - `steps[].meta.mask.low_confidence` / `temporal_iou_mean` / `empty_frame_ratio`
+   On low confidence: try another `model` (`birefnet-portrait` for people, `isnet-general-use` for objects),
+   lower `stride`, a tighter `box`, or `target=object` with SAM. Then preview again.
+5. `studio render job.json` renders against master media. Completed steps are cached by content hash,
+   so re-renders and resumed jobs skip finished analysis.
+6. Report `output`, `validation`, and `log`. The log holds full provenance: hashes, ffmpeg commands, and model versions.
+
+## Creative recipes: popups, lower thirds, captions, PiP, transitions, looks, narration
+Use a recipe instead of writing per-edit helper scripts:
+1. `studio recipes` lists them. Write a request JSON (example: `examples/creative_benchmark/request.json`, ten
+   photo-card popups with source-pixel boxes and half-open `[start, end)` cue times) and run
+   `studio recipe image-popup --request req.json -o job.json`. It renders the static cards, expands to a manifest
+   and runs `check`; it never renders video.
+2. `studio render job.json` (HDR sources default to `native-hdr-master`; AMF only when the user allowed GPU and
+   `tools/gpu_watch.ps1` is running).
+3. `studio review <log from the render JSON> -o <output folder>/review` builds the shared review bundle in about
+   a minute: cue checkpoints (before / first / entered / mid / last / after frame of every layer), native full
+   frames and 100% crops for edit and source, a playback contact sheet, waveforms, audio excerpts, an SDR viewing
+   copy, and checks (exact frame clock, untouched pixels outside the cards on every frame, PSNR of the final encode,
+   audio sync/clipping). `technical_ok` must be true.
+4. Give the bundle to independent delegated reviewers at the same time (early frames/framing, late frames/moving
+   edges, background detail, playback overview), and record each result with
+   `studio review-record <dir> <kind> --reviewer … --status pass|fail|needs-work --finding …`. An agent cannot
+   listen: the listening pass stays the user's, and the record must say so. Verify any reviewer claim against the
+   frames before acting on it (reviewers misread faint first frames).
+5. Delivery: never reuse an output name; an identical completed request returns its verified result. A
+   byte-identical master (same sha256) can reuse the earlier review records, labelled as reused.
+Measured on the 62.5 s 4K HLG ten-popup edit: about 3.5 minutes from inspection to verified delivery with four
+delegated reviews (see `D:\edited(studio)\Creative toolkit benchmark\BENCHMARK.md`).
+
+## Beyond masks
+- Captions/transcripts: `studio captions in.mp4 -o in.srt`, `studio transcribe in.mp4 -o t.json`. Rough cuts:
+  `studio cut in.mp4 -o out.mp4 --silence --fillers --phrase "take two"` (or a `cut` step with `remove` ranges taken
+  from the transcript's word timestamps).
+- Find footage: `studio index D:/footage`, then `studio search "product demo"`.
+- Restoration: steps `stabilize`, `denoise`, `sharpen`, `deinterlace`, `lens`, `upscale`, `interpolate`,
+  `match_color` (inputs: clip, reference).
+- Objects: `studio object remove in.mp4 --box x,y,w,h -o out.mp4` (clean plate, static camera best), then
+  `replace --with img.png`, `insert --with logo.png --box ...` (tracked). Use `relight` for masked grading.
+- Generation: `studio generate video --prompt ... -o b.mp4`. The procedural backend gives placeholder plates. Real
+  models go through `STUDIO_GEN_CMD` or ComfyUI (see README). Upscale/interpolate generated clips before
+  compositing into 4K60.
+- Before rendering a hand-written manifest, run `studio check job.json`. To let the studio retry low-confidence
+  masks on its own, use `studio auto job.json`. `studio capabilities` shows which backends exist here.
+
+## Models and long footage
+- `studio models` lists the named models (face detector, GFPGAN, Real-ESRGAN, RIFE, MiniLM). They download on first
+  use; `studio models download <name>` fetches them ahead of time. They run on CPU and are slow at 4K, so apply them
+  to trimmed segments: `face_restore` (~1 s per face per frame), `upscale -p backend=onnx`, `interpolate -p backend=onnx`.
+- To isolate ONE person among several, give the mask step a `box` with `target=person`; the identity tracker keeps
+  that subject through crossings and short occlusions.
+- Long clips: chunkable steps split into 60 s chunks automatically (resumable). Disk: `studio cache prune --older-than 7`.
+
+## Rules
+- Originals are never overwritten (the runner refuses).
+- Don't render the full master after every prompt iteration. Preview first.
+- Background removal outputs alpha, so it needs `--profile alpha-master` (ProRes 4444 .mov). The CLI does this by default.
+- Object boxes/points refer to **frame 0** of the step's input. Inspect a frame to pick them:
+  `ffmpeg -i in.mp4 -frames:v 1 f0.png`.
+- Tracking has no identity model. When subjects cross, the mask can jump to the other person.
+  The mask stats flag this (`low_confidence`). Trim around crossings, or re-run on sub-ranges.
+- GPU use is opt-in. Don't enable it without the user's OK
+  (`STUDIO_ORT_PROVIDERS=DmlExecutionProvider,CPUExecutionProvider`, `STUDIO_HW_ENCODE=1`).
+
+## Local neural generation
+Read `docs/LOCAL_WORKERS.md` before starting a local generation session. Use `studio workers` discovery; do not silently substitute procedural or cloud output. FLUX text-to-image, experimental FLUX reference resynthesis and experimental Wan clips use the isolated loopback ComfyUI runtime; Kokoro/Stable Audio use CPU workers. GPU permission already granted in this conversation remains valid. Protect the actual task-owned Store Python child with `gpu_watch.ps1 -AlsoStopPid`, keep the 14,000 MiB cap, use the documented offloading flags and tiled image decode, and close child/launcher/watchdog at task end. Never advertise a content-failed smoke as ready. Generative reference edits can alter skin/reflections and are not a replacement for the retained faithful recolour workflow; Wan/VACE reference or masked editing is not verified. Voice/music/SFX human listening remains pending. Runtime/version files join the ComfyUI fingerprint; session shutdown makes the server temporarily unavailable, without discarding reviewed evidence.

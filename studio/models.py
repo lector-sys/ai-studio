@@ -1,43 +1,39 @@
-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
+"""Named model registry: ops take `model=<name>` (downloaded once into the Hugging Face cache) or a
+path to any compatible .onnx file, so backends swap without changing the op contract."""
+from pathlib import Path
+
+# name -> (hf repo, file, extra files from the same repo, what it is)
+MODELS = {
+    "yunet": ("opencv/face_detection_yunet", "face_detection_yunet_2023mar.onnx", [], "face detector (YuNet), 0.2 MB"),
+    "gfpgan_1.4": ("facefusion/models-3.0.0", "gfpgan_1.4.onnx", [], "face restoration, 512 px (GFPGAN v1.4), 340 MB"),
+    "real_esrgan_x2": ("facefusion/models-3.0.0", "real_esrgan_x2.onnx", [], "super-resolution x2 (Real-ESRGAN), 70 MB"),
+    "real_esrgan_x4": ("facefusion/models-3.0.0", "real_esrgan_x4_fp16.onnx", [], "super-resolution x4 (Real-ESRGAN), 36 MB"),
+    "rife_4.9": ("yuvraj108c/rife-onnx", "rife49_ensemble_True_scale_1_sim.onnx", [], "frame interpolation (RIFE 4.9), 21 MB"),
+    "minilm": ("sentence-transformers/all-MiniLM-L6-v2", "onnx/model.onnx", ["tokenizer.json"],
+               "sentence embeddings for semantic search (all-MiniLM-L6-v2), 90 MB"),
+}
+
+
+def path(model) -> str:
+    """Resolve a registry name (downloading on first use) or an existing .onnx path."""
+    if Path(str(model)).is_file():
+        return str(model)
+    if model not in MODELS:
+        raise ValueError(f"unknown model {model!r}: give a .onnx path or one of {sorted(MODELS)}")
+    from huggingface_hub import hf_hub_download
+    repo, f, extra, _ = MODELS[model]
+    for e in extra:
+        hf_hub_download(repo, e)
+    return hf_hub_download(repo, f)
+
+
+def sibling(model, name) -> str:
+    """An extra file shipped with a registry model (e.g. its tokenizer)."""
+    from huggingface_hub import hf_hub_download
+    return hf_hub_download(MODELS[model][0], name)
+
+
+def listing() -> dict:
+    from huggingface_hub import try_to_load_from_cache
+    return {k: {"about": d, "repo": r, "file": f,
+                "downloaded": isinstance(try_to_load_from_cache(r, f), str)} for k, (r, f, _, d) in MODELS.items()}

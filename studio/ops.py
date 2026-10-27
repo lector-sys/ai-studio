@@ -1,512 +1,515 @@
-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
+"""Deterministic edit operations. Each op renders inputs -> one lossless intermediate.
+
+Pixel parameters are in *source* pixels; ctx.px/ctx.even rescale them for proxy previews.
+"""
+import json
+import subprocess
+from dataclasses import dataclass, field
+from functools import lru_cache
+from pathlib import Path
+
+from .media import audio_maps, ffmpeg, fpath, info, tool
+
+OPS: dict = {}
+
+
+def op(name):
+    def deco(fn):
+        OPS[name] = fn
+        return fn
+    return deco
+
+
+@dataclass
+class Ctx:
+    workdir: Path
+    scale: float = 1.0
+    commands: list = field(default_factory=list)
+    meta: dict = field(default_factory=dict)  # backend/model versions, quality stats
+
+    def px(self, v):
+        return v if isinstance(v, str) else int(round(v * self.scale))
+
+    def even(self, v):
+        return v if isinstance(v, str) else max(2, int(round(v * self.scale / 2)) * 2)
+
+    def encode(self, inputs, fc, v, a, out, alpha=False):
+        args = [*inputs]
+        if fc:
+            args += ["-filter_complex", fc]
+        if a == "0:a?":  # every decodable audio track of input 0 (iPhone spatial-audio APAC has no decoder)
+            amap = audio_maps(args[args.index("-i") + 1])
+        else:
+            amap = ["-map", a] if a else []
+        args += ["-map", v] + amap
+        # Lossless intermediates so chained steps don't stack generation loss.
+        args += (["-c:v", "ffv1", "-level", "3", "-pix_fmt", "yuva444p10le"] if alpha
+                 else ["-c:v", "libx264", "-preset", "ultrafast", "-qp", "0"])
+        args += (["-c:a", "flac"] if a else []) + [out]
+        self.commands.append(ffmpeg(args))
+
+
+def vdur(path) -> float:
+    d = info(path)
+    return (d["video"] or {}).get("duration") or d["duration"]
+
+
+def has_audio(path) -> bool:
+    return info(path)["audio"] is not None
+
+
+def media_in(path) -> list:
+    """Input args for a background/overlay layer: images loop forever, videos loop too."""
+    return ["-loop", "1", "-i", path] if info(path)["is_image"] else ["-stream_loop", "-1", "-i", path]
+
+
+def _fill(i, w, h, fps):
+    """Background layer conformed to the main clip (looped images default to 25 fps otherwise)."""
+    return f"[{i}:v]scale={w}:{h}:force_original_aspect_ratio=increase,crop={w}:{h},setsar=1,fps={fps}"
+
+
+def _between(p):
+    s, e = p.get("start"), p.get("end")
+    if s is None and e is None:
+        return ""
+    return f":enable='between(t,{s or 0},{e if e is not None else 1e9})'"
+
+
+@op("trim")
+def trim(ctx, ins, p, out):
+    """Frame-accurate cut. params: start (s), end (s) | duration (s)."""
+    start = float(p.get("start", 0))
+    dur = p.get("duration", (float(p["end"]) - start) if "end" in p else None)
+    args = ["-ss", start, "-i", ins[0]] + (["-t", dur] if dur is not None else [])
+    ctx.encode(args, None, "0:v", "0:a?", out)
+
+
+@op("crop")
+def crop(ctx, ins, p, out):
+    """params: x, y, w, h (source px)."""
+    fc = f"[0:v]crop={ctx.even(p['w'])}:{ctx.even(p['h'])}:{ctx.px(p.get('x', 0))}:{ctx.px(p.get('y', 0))}[v]"
+    ctx.encode(["-i", ins[0]], fc, "[v]", "0:a?", out)
+
+
+@op("resize")
+def resize(ctx, ins, p, out):
+    """params: width, height, mode = fit (letterbox/pillarbox) | fill (crop) | stretch."""
+    w, h, mode = ctx.even(p["width"]), ctx.even(p["height"]), p.get("mode", "fit")
+    f = {"fit": f"scale={w}:{h}:force_original_aspect_ratio=decrease:flags=lanczos,pad={w}:{h}:(ow-iw)/2:(oh-ih)/2",
+         "fill": f"scale={w}:{h}:force_original_aspect_ratio=increase:flags=lanczos,crop={w}:{h}",
+         "stretch": f"scale={w}:{h}:flags=lanczos"}[mode]
+    ctx.encode(["-i", ins[0]], f"[0:v]{f},setsar=1[v]", "[v]", "0:a?", out)
+
+
+@op("rotate")
+def rotate(ctx, ins, p, out):
+    """params: degrees (any; 90/180/270 are lossless transposes), flip = h | v."""
+    deg = float(p.get("degrees", 0)) % 360
+    f = {0: "null", 90: "transpose=1", 180: "hflip,vflip", 270: "transpose=2"}.get(
+        deg, f"rotate={deg}*PI/180:fillcolor=black")
+    f += {"h": ",hflip", "v": ",vflip"}.get(p.get("flip"), "")
+    ctx.encode(["-i", ins[0]], f"[0:v]{f}[v]", "[v]", "0:a?", out)
+
+
+def _atempo(f):
+    out = []
+    while f > 2:
+        out.append("atempo=2")
+        f /= 2
+    while f < 0.5:
+        out.append("atempo=0.5")
+        f /= 0.5
+    return ",".join(out + [f"atempo={f}"])
+
+
+@op("speed")
+def speed(ctx, ins, p, out):
+    """params: factor (2 = twice as fast, 0.5 = half speed; pitch preserved)."""
+    f = float(p["factor"])
+    fc = f"[0:v]setpts=PTS/{f},fps={info(ins[0])['video']['fps_str']}[v]"  # keep source frame rate
+    a = None
+    if has_audio(ins[0]):
+        fc += f";[0:a]{_atempo(f)}[a]"
+        a = "[a]"
+    ctx.encode(["-i", ins[0]], fc, "[v]", a, out)
+
+
+@op("reverse")
+def reverse(ctx, ins, p, out):
+    """Play backwards. ponytail: buffers the whole clip in RAM; trim first for long clips."""
+    a = "[a]" if has_audio(ins[0]) else None
+    fc = "[0:v]reverse[v]" + (";[0:a]areverse[a]" if a else "")
+    ctx.encode(["-i", ins[0]], fc, "[v]", a, out)
+
+
+@op("fps")
+def fps(ctx, ins, p, out):
+    """Frame-rate conversion by drop/duplicate. params: fps (e.g. 30, "60000/1001")."""
+    ctx.encode(["-i", ins[0]], f"[0:v]fps={p['fps']}[v]", "[v]", "0:a?", out)
+
+
+@op("freeze")
+def freeze(ctx, ins, p, out):
+    """Hold the frame at `at` (s) for `duration` (s); audio gets matching silence."""
+    at, d = float(p["at"]), float(p["duration"])
+    fc = (f"[0:v]split[x][y];[x]trim=end={at},setpts=PTS-STARTPTS[p];"
+          f"[y]trim=start={at},setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration={d}[q];"
+          f"[p][q]concat=n=2:v=1:a=0[v]")
+    a = None
+    if has_audio(ins[0]):
+        fc += (f";[0:a]asplit[ax][ay];[ax]atrim=end={at},asetpts=PTS-STARTPTS[pa];"
+               f"[ay]atrim=start={at},asetpts=PTS-STARTPTS,adelay={int(d * 1000)}:all=1[qa];"
+               f"[pa][qa]concat=n=2:v=0:a=1[a]")
+        a = "[a]"
+    ctx.encode(["-i", ins[0]], fc, "[v]", a, out)
+
+
+def _normalized(ins):
+    """Conform every input to the first one's size/fps/pix_fmt; returns (args, fc parts, has_audio)."""
+    r = info(ins[0])["video"]
+    w, h, f, pf = r["width"], r["height"], r["fps_str"], r["pix_fmt"]
+    audio = any(has_audio(x) for x in ins)
+    args, parts = [], []
+    for i, path in enumerate(ins):
+        args += ["-i", path]
+        parts.append(f"[{i}:v]scale={w}:{h}:force_original_aspect_ratio=decrease,pad={w}:{h}:(ow-iw)/2:(oh-ih)/2,"
+                     f"setsar=1,fps={f},format={pf},setpts=PTS-STARTPTS[v{i}]")
+        if audio:
+            parts.append(f"[{i}:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,"
+                         f"asetpts=PTS-STARTPTS[a{i}]" if has_audio(path)
+                         else f"anullsrc=r=48000:cl=stereo,atrim=duration={vdur(path)}[a{i}]")
+    return args, parts, audio
+
+
+@op("concat")
+def concat(ctx, ins, p, out):
+    """Join clips in order; later clips are conformed to the first clip's format."""
+    args, parts, audio = _normalized(ins)
+    n = len(ins)
+    streams = "".join(f"[v{i}]" + (f"[a{i}]" if audio else "") for i in range(n))
+    # concat starts each clip at the end of its longest stream: a clip whose video ends a frame before its audio
+    # leaves a timestamp hole, so re-grid the joined video (fills holes with the previous frame, keeps sync).
+    fc = (";".join(parts) + f";{streams}concat=n={n}:v=1:a={int(audio)}[vc]" + ("[a]" if audio else "")
+          + f";[vc]fps={info(ins[0])['video']['fps_str']}[v]")
+    ctx.encode(args, fc, "[v]", "[a]" if audio else None, out)
+
+
+@op("transition")
+def transition(ctx, ins, p, out):
+    """Join two clips with an overlap. params: type (xfade name: fade, dissolve, wipeleft,
+    slideright, circleopen, ...), duration (s)."""
+    kind = str(p.get("type", "fade"))
+    if not kind.isalnum():
+        raise ValueError(f"transition type must be an xfade name (letters/digits), got {kind!r}")
+    args, parts, audio = _normalized(ins[:2])
+    d = float(p.get("duration", 1))
+    off = vdur(ins[0]) - d
+    fc = ";".join(parts) + f";[v0][v1]xfade=transition={kind}:duration={d}:offset={off}[v]"
+    if audio:
+        fc += f";[a0][a1]acrossfade=d={d}[a]"
+    ctx.encode(args, fc, "[v]", "[a]" if audio else None, out)
+
+
+@op("fade")
+def fade(ctx, ins, p, out):
+    """Fade from/to black (and audio). params: in (s), out (s)."""
+    D, fi, fo = vdur(ins[0]), float(p.get("in", 0)), float(p.get("out", 0))
+    v = ["null"] + ([f"fade=t=in:d={fi}"] if fi else []) + ([f"fade=t=out:st={D - fo}:d={fo}"] if fo else [])
+    fc = f"[0:v]{','.join(v)}[v]"
+    a = None
+    if has_audio(ins[0]):
+        af = ["anull"] + ([f"afade=t=in:d={fi}"] if fi else []) + ([f"afade=t=out:st={D - fo}:d={fo}"] if fo else [])
+        fc += f";[0:a]{','.join(af)}[a]"
+        a = "[a]"
+    ctx.encode(["-i", ins[0]], fc, "[v]", a, out)
+
+
+@op("overlay")
+def overlay(ctx, ins, p, out):
+    """Picture-in-picture / logo / watermark. inputs: main, layer (image or video).
+    params: x, y (px or ffmpeg expr like "W-w-40"), width (px), opacity (0-1), start, end (s)."""
+    img = info(ins[1])["is_image"]
+    args = ["-i", ins[0]] + (["-loop", "1", "-i", ins[1]] if img else ["-i", ins[1]])
+    o = "[1:v]format=rgba"
+    w = p.get("width") or (info(ins[1])["video"]["width"] if ctx.scale != 1 else None)
+    if w:
+        o += f",scale={ctx.even(w)}:-2"
+    if float(p.get("opacity", 1)) < 1:
+        o += f",colorchannelmixer=aa={p['opacity']}"
+    if not img:
+        o += f",setpts=PTS-STARTPTS+{float(p.get('start', 0))}/TB"
+    end = ":shortest=1" if img else ":eof_action=pass"
+    fc = (f"{o}[ov];[0:v][ov]overlay=x={ctx.px(p.get('x', 0))}:y={ctx.px(p.get('y', 0))}"
+          f":format=auto{end}{_between(p)}[v]")
+    ctx.encode(args, fc, "[v]", "0:a?", out)
+
+
+@op("text")
+def text(ctx, ins, p, out):
+    """Titles / lower thirds. params: text, x, y (px or expr), size (px), color, box (bool),
+    boxcolor, font (path), start, end."""
+    tf = ctx.workdir / f"text-{abs(hash(p['text']))}.txt"
+    tf.write_text(p["text"], encoding="utf-8")
+    font = p.get("font") or next((f for f in ("C:/Windows/Fonts/arial.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
+                                  if Path(f).exists()), None)
+    f = (f"drawtext=textfile={fpath(tf)}:fontsize={ctx.px(p.get('size', 64))}:fontcolor={p.get('color', 'white')}"
+         f":x={ctx.px(p.get('x', '(w-text_w)/2'))}:y={ctx.px(p.get('y', 'h-text_h-80'))}")
+    if font:
+        f += f":fontfile={fpath(font)}"
+    if p.get("box"):
+        f += f":box=1:boxcolor={p.get('boxcolor', 'black@0.5')}:boxborderw={ctx.px(16)}"
+    ctx.encode(["-i", ins[0]], f"[0:v]{f}{_between(p)}[v]", "[v]", "0:a?", out)
+
+
+@op("subtitles")
+def subtitles(ctx, ins, p, out):
+    """Burn in an .srt/.ass file. params: file, style (ASS force_style, e.g. "Fontsize=28")."""
+    f = f"subtitles={fpath(p['file'])}" + (f":force_style='{p['style']}'" if p.get("style") else "")
+    ctx.encode(["-i", ins[0]], f"[0:v]{f}[v]", "[v]", "0:a?", out)
+
+
+@op("audio")
+def audio(ctx, ins, p, out):
+    """Audio replace/mix. inputs: video[, audio]. params: mode = replace | mix | duck | mute,
+    volume (original, default 1), music_volume (new, default 1), delay (s the new audio starts at, 0).
+    Duck = sidechain-compress the new audio under the original (music under dialogue). Output keeps
+    the video's duration."""
+    mode = p.get("mode", "replace")
+    if mode == "mute":
+        return ctx.encode(["-i", ins[0]], None, "0:v", None, out)
+    D, v0, v1 = vdur(ins[0]), p.get("volume", 1), p.get("music_volume", 1)
+    delay = f"adelay={round(float(p['delay']) * 1000)}:all=1," if p.get("delay") else ""
+    new = f"[1:a]{delay}volume={v1},apad,atrim=duration={D}"
+    if mode == "replace" or not has_audio(ins[0]):
+        fc = f"{new}[a]"
+    elif mode == "mix":
+        fc = f"[0:a]volume={v0}[a0];{new}[a1];[a0][a1]amix=inputs=2:duration=first:normalize=0[a]"
+    elif mode == "duck":
+        fc = (f"{new}[m];[0:a]volume={v0},asplit[d][sc];"
+              f"[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
+              f"[d][md]amix=inputs=2:duration=first:normalize=0[a]")
+    else:
+        raise ValueError(f"unknown audio mode {mode}")
+    ctx.encode(["-i", ins[0], "-i", ins[1]], fc, "0:v", "[a]", out)
+
+
+@op("loudnorm")
+def loudnorm(ctx, ins, p, out):
+    """EBU R128 loudness normalization. params: I (LUFS, default -16), TP (-1.5), LRA (11),
+    linear (bool): one measured constant gain + delay-compensated peak limiter at TP instead of loudnorm's
+    dynamic mode, which lifts the noise floor between phrases."""
+    I, TP = float(p.get("I", -16)), float(p.get("TP", -1.5))
+    f = f"loudnorm=I={I}:TP={TP}:LRA={p.get('LRA', 11)}"
+    if p.get("linear"):
+        r = subprocess.run([tool("ffmpeg"), "-hide_banner", "-nostdin", "-i", ins[0], "-vn", "-af",
+                            f + ":print_format=json", "-f", "null", "-"], capture_output=True, text=True,
+                           encoding="utf-8", errors="replace")
+        m = json.loads(r.stderr[r.stderr.rindex("{"):r.stderr.rindex("}") + 1])
+        f = f"volume={I - float(m['input_i']):.2f}dB,alimiter=limit={10 ** (TP / 20):.4f}:level=false:latency=1"
+        ctx.meta["loudnorm"] = {"input_i": m["input_i"], "gain_db": round(I - float(m["input_i"]), 2)}
+    f += ",aresample=48000,asetnsamples=n=4096:p=0"  # p=0: no padding, sample count kept
+    ctx.encode(["-i", ins[0]], f"[0:a]{f}[a]", "0:v", "[a]", out)
+
+
+@lru_cache(64)
+def filter_delay(filters: str, rate: int) -> int:
+    """Measured latency (samples) a filter chain adds, from a tone burst through the real chain."""
+    import numpy as np
+
+    def pcm(chain):
+        cmd = [tool("ffmpeg"), "-v", "error", "-nostdin", "-f", "lavfi", "-i",
+               f"aevalsrc='if(between(t,0.5,0.52),sin(2*PI*1000*t)*sin(PI*(t-0.5)/0.02),0)':s={rate}:d=1.5",
+               "-af", chain, "-f", "f32le", "-ac", "1", "-"]
+        return np.frombuffer(subprocess.run(cmd, capture_output=True, check=True).stdout, np.float32)
+    a, b = pcm("anull"), pcm(filters)
+    n = min(len(a), len(b))
+    lag = int(np.argmax(np.correlate(b[:n], a[:n], "full"))) - (n - 1)
+    return max(0, lag)
+
+
+def clean_audio(p, rate) -> tuple[str, dict]:
+    """Shared dialogue cleanup (high-pass + FFT denoise) with the chain's measured delay removed,
+    so speech stays in sync and the sample count is unchanged. params: highpass (Hz, 80),
+    denoise (dB noise floor, -25), reduction (dB, afftdn default 12), track_noise (bool),
+    smoothing (afftdn gain smoothing radius 0-50)."""
+    hp, nf = float(p.get("highpass", 80)), float(p.get("denoise", -25))
+    if not (20 <= hp <= 1000 and -80 <= nf <= -20):
+        raise ValueError("audio cleanup: highpass must be 20-1000 Hz and denoise -80..-20 dB")
+    if p.get("noise_print"):  # the spectral gate replaces afftdn (audio_clean applies it after this chain)
+        filters = f"highpass=f={hp}"
+    else:
+        filters = (f"highpass=f={hp},afftdn=nf={nf}" + (f":nr={float(p['reduction'])}" if p.get("reduction") else "")
+                   + (":tn=1" if p.get("track_noise") else "") + (f":gs={int(p['smoothing'])}" if p.get("smoothing") else ""))
+    delay = filter_delay(filters, rate)
+    chain = (f"apad=pad_dur={delay / rate},{filters},atrim=start_sample={delay},asetpts=PTS-STARTPTS,asetnsamples=n=4096:p=0"
+             if delay else filters)
+    return chain, {"filters": filters, "delay_samples": delay, "sample_rate": rate}
+
+
+def _detap(x, r, jump_db, broad):
+    """Hand/nail taps on a mic: STFT frames (~5 ms hop) where >= `broad` of the 1-12 kHz bins jump `jump_db`
+    above their own 120 ms temporal median are pulled down to that median (phase kept). Steady speech never
+    jumps like that; a sharp consonant can, so keep jump_db >= 6."""
+    import numpy as np
+    from scipy.ndimage import maximum_filter1d, median_filter
+    from scipy.signal import istft, stft
+    n, hop = 1024, 256
+    f, _, Z = stft(x, r, nperseg=n, noverlap=n - hop)
+    mag = np.abs(Z) + 1e-12
+    med = median_filter(mag, size=(1, int(0.12 * r / hop) | 1), mode="nearest")
+    hot = mag > med * 10 ** (jump_db / 20)
+    tap = maximum_filter1d((hot[(f >= 1000) & (f <= 12000)].mean(0) >= broad).astype(int), 3).astype(bool)
+    over = hot & tap[None, :]
+    scale = np.ones_like(mag)
+    scale[over] = med[over] / mag[over]
+    _, y = istft(Z * scale, r, nperseg=n, noverlap=n - hop)
+    return np.pad(y, (0, max(0, len(x) - len(y))))[:len(x)], int(tap.sum())
+
+
+def _gate(x, r, ranges, reduction):
+    """Stationary-noise gate: noise print from `ranges` (s, pure background); STFT bins near it are
+    attenuated by `reduction` dB with a smoothed soft mask (no musical noise)."""
+    import numpy as np
+    from scipy.ndimage import uniform_filter
+    from scipy.signal import istft, stft
+    _, t, Z = stft(x, r, nperseg=2048, noverlap=1536)
+    mag = np.abs(Z)
+    sel = np.zeros(len(t), bool)
+    for a, b in ranges:
+        sel |= (t >= a) & (t <= b)
+    if sel.sum() < 8:
+        raise ValueError("noise_print: ranges hold too little audio; give >= 0.1 s of pure background")
+    noise = mag[:, sel]
+    thresh = noise.mean(1, keepdims=True) + 1.5 * noise.std(1, keepdims=True)
+    mask = uniform_filter(np.clip(20 * np.log10(mag / thresh + 1e-12) / 6, 0, 1), size=(5, 7))
+    floor = 10 ** (-reduction / 20)
+    _, y = istft(Z * (floor + (1 - floor) * mask), r, nperseg=2048, noverlap=1536)
+    return np.pad(y, (0, max(0, len(x) - len(y))))[:len(x)]
+
+
+def spectral_clean(src, dst, ranges=None, reduction=20, taps=None) -> dict:
+    """Tap suppression, then the noise-print gate, per channel. STFT/ISTFT is zero-phase: timing and
+    sample count are unchanged. ponytail: whole clip in RAM; chunk it for hour-long audio."""
+    import numpy as np
+    from scipy.io import wavfile
+    r, x = wavfile.read(src)
+    x = x[:, None] if x.ndim == 1 else x
+    out, frames = np.empty_like(x), 0
+    for ch in range(x.shape[1]):
+        y = x[:, ch].astype(np.float64)
+        if taps is not None:
+            y, n = _detap(y, r, float(taps.get("jump_db", 6)), float(taps.get("broad", 0.3)))
+            frames = max(frames, n)
+        if ranges:
+            y = _gate(y, r, ranges, reduction)
+        out[:, ch] = y
+    wavfile.write(dst, r, out.astype(np.float32))
+    return {"tap_frames": frames} if taps is not None else {}
+
+
+DF_WORKER = Path(__file__).resolve().parents[1] / "workers" / "deepfilter"
+
+
+@op("speech_enhance")
+def speech_enhance(ctx, ins, p, out):
+    """AI speech enhancement (DeepFilterNet3, CPU, ~10 s per minute): keeps voices, removes background
+    noise, hum and mic-handling knocks. params: mono (false; true mixes the mics first, keeps more voice
+    detail on phone recordings), limit (max dB removed; unset = full; 12-24 sounds less processed),
+    highpass (Hz, 70; after enhancement). Output is stereo, same length and timing.
+    Worker: workers/deepfilter (env STUDIO_DF_PYTHON overrides its python)."""
+    import os
+    py = os.environ.get("STUDIO_DF_PYTHON", str(DF_WORKER / ".venv" / "Scripts" / "python.exe"))
+    if not Path(py).exists():
+        raise RuntimeError(f"speech_enhance worker missing: {py} (see docs/LOCAL_WORKERS.md, deepfilter)")
+    raw, clean, fin = (Path(out).with_suffix(s) for s in (".in.wav", ".df.wav", ".fin.wav"))
+    try:
+        ctx.commands.append(ffmpeg(["-i", ins[0], "-vn", *(["-ac", 1] if p.get("mono") else []), "-ar", 48000,
+                                    "-c:a", "pcm_f32le", raw]))
+        cmd = [py, "-I", str(DF_WORKER / "worker.py"), str(raw), str(clean)]
+        cmd += ["--limit", str(float(p["limit"]))] if p.get("limit") else []
+        r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace")
+        if r.returncode:
+            raise RuntimeError(f"speech_enhance worker failed: {r.stderr[-2000:]}")
+        ctx.meta["speech_enhance"] = json.loads(r.stdout.strip().splitlines()[-1])
+        ctx.commands.append(ffmpeg(["-i", clean, "-af", f"highpass=f={float(p.get('highpass', 70))}", "-ac", 2,
+                                    "-c:a", "pcm_f32le", fin]))
+        ctx.encode(["-i", ins[0], "-i", fin], None, "0:v", "1:a", out)
+    finally:
+        for f in (raw, clean, fin):
+            f.unlink(missing_ok=True)
+
+
+@op("gain")
+def gain(ctx, ins, p, out):
+    """Volume automation, e.g. matching an interviewer's level to the guest's. params: ranges
+    [[start, end, dB], ...] (s; constant gain inside, 0 dB outside), ramp (s, 0.08: linear in dB,
+    centred on each edge). Sample count and timing unchanged."""
+    R = float(p.get("ramp", 0.08))
+    terms = []
+    for a, b, db in p["ranges"]:
+        a, b, db = float(a), float(b), float(db)
+        if not (0 <= a < b and -60 <= db <= 30 and R > 0):
+            raise ValueError(f"gain: bad range {[a, b, db]} (need 0 <= start < end, -60..30 dB, ramp > 0)")
+        terms.append(f"{db}*min(1,max(0,(t-{a})/{R}+0.5))*min(1,max(0,({b}-t)/{R}+0.5))")
+    # 64-sample frames: eval=frame steps every 1.3 ms, inaudible inside an 80 ms ramp
+    f = f"asetnsamples=n=64:p=0,volume='pow(10,({'+'.join(terms)})/20)':eval=frame,asetnsamples=n=4096:p=0"
+    ctx.encode(["-i", ins[0]], f"[0:a]{f}[a]", "0:v", "[a]", out)
+
+
+@op("audio_clean")
+def audio_clean(ctx, ins, p, out):
+    """Dialogue cleanup: high-pass + FFT denoise, filter delay measured and compensated.
+    params: highpass (Hz, 80), denoise (dB floor, -25), reduction (dB), track_noise, smoothing,
+    noise_print [[start, end], ...] (s of pure background, e.g. pauses): learn that noise and gate it
+    instead of afftdn (much stronger on steady fan/AC hum); reduction then defaults to 20 dB.
+    taps (true or {jump_db 6, broad 0.3}): suppress hand/nail taps on the mic (short broadband hits)."""
+    taps = {} if p.get("taps") is True else (p.get("taps") or None)
+    chain, ctx.meta["audio_clean"] = clean_audio(p, info(ins[0])["audio"]["sample_rate"])
+    if not p.get("noise_print") and taps is None:
+        return ctx.encode(["-i", ins[0]], f"[0:a]{chain}[a]", "0:v", "[a]", out)
+    hp, gated = Path(out).with_suffix(".hp.wav"), Path(out).with_suffix(".gated.wav")
+    try:
+        ctx.commands.append(ffmpeg(["-i", ins[0], "-vn", "-af", chain, "-c:a", "pcm_f32le", hp]))
+        ctx.meta["audio_clean"] |= spectral_clean(hp, gated, p.get("noise_print"), float(p.get("reduction", 20)), taps)
+        ctx.meta["audio_clean"]["noise_print"] = p.get("noise_print")
+        ctx.encode(["-i", ins[0], "-i", gated], None, "0:v", "1:a", out)
+    finally:
+        hp.unlink(missing_ok=True)
+        gated.unlink(missing_ok=True)
+
+
+@op("color")
+def color(ctx, ins, p, out):
+    """Basic grade. params: brightness (-1..1, 0), contrast (1), saturation (1), gamma (1),
+    temperature (Kelvin, 6500 = neutral), lut (.cube path). HDR/10-bit safe (never drop to 8-bit):
+    tone (luma power, >1 darkens mid-tones, black and peak white kept), luma (gain above black, <1 darkens all).
+    brightness/contrast/saturation/gamma use `eq`, which is 8-bit only: avoid them on HDR."""
+    ctx.encode(["-i", ins[0]], f"[0:v]{grade(p)}[v]", "[v]", "0:a?", out)
+
+
+def grade(p) -> str:
+    f = []
+    if any(k in p for k in ("brightness", "contrast", "saturation", "gamma")):
+        f.append(f"eq=brightness={p.get('brightness', 0)}:contrast={p.get('contrast', 1)}"
+                 f":saturation={p.get('saturation', 1)}:gamma={p.get('gamma', 1)}")
+    if p.get("tone", 1) != 1 or p.get("luma", 1) != 1:
+        n = "clip((val-minval)/(maxval-minval),0,1)"  # 0..1 over the legal luma range at any bit depth
+        f.append(f"lutyuv=y='clip(minval+(maxval-minval)*{float(p.get('luma', 1))}*pow({n},{float(p.get('tone', 1))})"
+                 f",minval,maxval)'")
+    if p.get("temperature"):
+        f.append(f"colortemperature=temperature={p['temperature']}")
+    if p.get("lut"):
+        f.append(f"lut3d=file={fpath(p['lut'])}")
+    return ",".join(f) or "null"
+
+
+@op("chromakey")
+def chromakey(ctx, ins, p, out):
+    """Green/blue screen key. inputs: video[, background]. params: color ("0x00FF00"),
+    similarity (0.15), blend (0.05). Without a background the result keeps alpha."""
+    key = f"[0:v]chromakey=color={p.get('color', '0x00FF00')}:similarity={p.get('similarity', 0.15)}:blend={p.get('blend', 0.05)}"
+    if len(ins) < 2:
+        return ctx.encode(["-i", ins[0]], key + "[v]", "[v]", "0:a?", out, alpha=True)
+    v = info(ins[0])["video"]
+    fc = f"{_fill(1, v['width'], v['height'], v['fps_str'])}[bg];{key}[fg];[bg][fg]overlay=format=auto:shortest=1[v]"
+    ctx.encode(["-i", ins[0], *media_in(ins[1])], fc, "[v]", "0:a?", out)

@@ -1,7 +1,6 @@
-U2FsdGVkX1+2tg9EM20NrWlRhtyBRnFG/8tkz49ioMw/HNMStNjmSkm1ajBAk4ci
-1rEqCyXiog9G0VuCYVF3t/OAj0ESEvK0ldEuKkz//XiGsXpAZ+KhrO6ulyp6jRtr
-BbLLTBBTcxotkqxQMwqfEfMQGMiO6oHaoGCTcuRnD3m8WtG5KeV/6VRKSA1E4k6W
-tuvwCR90xCK3XUKrCK1FdwJHpiuoDJgVyjSn0xbX8XVh0L46pxYTb6545M0wDIs3
-Zr2E9SF8xbMmwet9XpcVZ16qBJ3FNT240/xp5RA8b4nSlnYygSz+2XgvFK72x5yE
-hSYZT2nm5RTUz8VeBySp7oBi4EZwoPrQ0+6flh7USvNbpOzVZA4cygND6R/GS+RU
-YKLFcS2LQn+bf+brSTXpUQ==
+{
+  "name": "ai-studio",
+  "version": "0.3.1",
+  "description": "Drive the local AI video studio (D:/projects/AI_studio) from any folder: inspect, edit, mask/background, captions/cuts, restoration, generative ops, preview/render with QA.",
+  "author": {"name": "Aprameya"}
+}

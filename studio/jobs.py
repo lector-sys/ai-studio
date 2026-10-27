@@ -1,540 +1,468 @@
-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
-Ni+o90BcuvZIS9KN0UrfSw==
+﻿"""Job manifests, content-addressed step cache (resume), output profiles and provenance."""
+import inspect
+import json
+import os
+import time
+from datetime import datetime
+from hashlib import sha256 as _h
+from pathlib import Path
+
+from pydantic import BaseModel, ConfigDict, Field
+
+from . import __version__, compose, generate, restore, speech, vision  # noqa: F401  (modules register their ops)
+from .media import audio_maps, ffmpeg, ffmpeg_version, hdr10, info, publish, sha256, tool
+from .ops import OPS, Ctx
+from .qc import validate, validate_audio
+from .sched import gpu_lock
+
+_SHARED = b"".join((Path(__file__).parent / f).read_bytes() for f in ("ops.py", "media.py"))
+
+
+def op_version(name) -> str:
+    """Cache keys include the code that renders a step (its module + the shared helpers),
+    so editing an op invalidates its stale outputs without flushing every other op's cache."""
+    return _h(_SHARED + Path(inspect.getsourcefile(OPS[name])).read_bytes()).hexdigest()[:12]
+
+# Single-input, time-preserving ops that may run on overlapping chunks (resumable per chunk on long footage).
+CHUNKABLE = {"mask", "denoise", "sharpen", "upscale", "stylize", "face_restore"}
+FORMAT_CHANGING = {"crop", "resize", "rotate", "fps", "mask", "upscale", "interpolate", "extend", "generate",
+                   "deinterlace"}
+
+OUTPUT_EXT = {"generate_audio": ".wav"}  # step outputs that are not lossless .mkv video
+# Ops that change frame times without changing the format (the source clock no longer applies).
+RETIMING = {"trim", "speed", "reverse", "freeze", "concat", "transition", "cut"}
+
+_AAC = ["-c:a", "aac", "-b:a", "320k"]
+PROFILES = {
+    "4k60-master": {"desc": "Preserve source resolution/fps; HEVC 10-bit CRF16 (use for 4K60 masters)",
+                    "v": ["-c:v", "libx265", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p10le", "-tag:v", "hvc1"],
+                    "hw": ["-c:v", "hevc_amf", "-quality", "quality", "-rc", "cqp", "-qp_i", "16", "-qp_p", "18",
+                           "-pix_fmt", "p010le", "-tag:v", "hvc1"], "a": _AAC},
+    "native-hdr-master": {"desc": "Source-preserving HEVC Main10 (HDR/10-bit): AMD AMF constant QP 10/12 with "
+                                  "STUDIO_HW_ENCODE=1, else x265 CRF 12",
+                          "v": ["-c:v", "libx265", "-preset", "slow", "-crf", "12", "-pix_fmt", "yuv420p10le",
+                                "-tag:v", "hvc1"],
+                          "hw": ["-c:v", "hevc_amf", "-profile:v", "main10", "-quality", "quality", "-rc", "cqp",
+                                 "-qp_i", "10", "-qp_p", "12", "-pix_fmt", "p010le", "-tag:v", "hvc1"], "a": _AAC},
+    "h264-master": {"desc": "Preserve source resolution/fps; H.264 8-bit CRF16, maximum compatibility",
+                    "v": ["-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p"],
+                    "hw": ["-c:v", "h264_amf", "-quality", "quality", "-rc", "cqp", "-qp_i", "16", "-qp_p", "18",
+                           "-pix_fmt", "yuv420p"], "a": _AAC},
+    "av1-master": {"desc": "Preserve source resolution/fps; SVT-AV1 10-bit",
+                   "v": ["-c:v", "libsvtav1", "-preset", "5", "-crf", "24", "-pix_fmt", "yuv420p10le"], "a": _AAC},
+    "prores-hq": {"desc": "ProRes 422 HQ intermediate (.mov)",
+                  "v": ["-c:v", "prores_ks", "-profile:v", "3", "-pix_fmt", "yuv422p10le"], "a": ["-c:a", "pcm_s24le"], "ext": ".mov"},
+    "alpha-master": {"desc": "ProRes 4444 with alpha (.mov) for background removal / keyed output",
+                     "v": ["-c:v", "prores_ks", "-profile:v", "4", "-pix_fmt", "yuva444p10le"],
+                     "a": ["-c:a", "pcm_s24le"], "alpha": True, "ext": ".mov"},
+    "archive": {"desc": "Lossless FFV1 + FLAC (.mkv); also used for mask exports",
+                "v": ["-c:v", "ffv1", "-level", "3"], "a": ["-c:a", "flac"], "alpha": True, "ext": ".mkv"},
+    "preview": {"desc": "Cheap proxy-resolution H.264 for review",
+                "v": ["-c:v", "libx264", "-preset", "veryfast", "-crf", "26", "-pix_fmt", "yuv420p"],
+                "vf": "scale=-2:'min(540,ih)'", "a": ["-c:a", "aac", "-b:a", "128k"], "scales": True},
+    "wav": {"desc": "Audio-only PCM WAV (24-bit, native rate); chosen automatically for audio-only results",
+            "a": ["-c:a", "pcm_s24le"], "ext": ".wav", "audio_only": True},
+    "social-vertical": {"desc": "1080x1920 fill-crop H.264 for Shorts/Reels/TikTok",
+                        "v": ["-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p"],
+                        "vf": "scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,crop=1080:1920,setsar=1",
+                        "a": ["-c:a", "aac", "-b:a", "192k"], "size": [1080, 1920]},
+}
+
+
+class Source(BaseModel):
+    path: str
+    sha256: str | None = None
+
+
+class Step(BaseModel):
+    id: str
+    op: str
+    inputs: list[str]
+    params: dict = Field(default_factory=dict)
+    chunk: float | None = None  # seconds per chunk for long footage (0 = never; default STUDIO_CHUNK_SECONDS)
+
+
+class Validation(BaseModel):
+    against: str | None = None  # source id; default: primary source when no step changes format
+    duration: float | None = None
+    tolerance: float | None = None
+    ssim: bool = False
+    decode: bool = True
+
+
+class Job(BaseModel):
+    model_config = ConfigDict(populate_by_name=True)
+    version: int = 1
+    name: str = "job"
+    sources: dict[str, Source]
+    steps: list[Step]
+    output: str
+    profile: str = "4k60-master"
+    proxy_height: int = 540
+    retries: int = 1
+    checks: Validation = Field(default_factory=Validation, alias="validate")
+
+
+def workspace(root=None) -> Path:
+    ws = Path(root or os.environ.get("STUDIO_WORKSPACE") or Path(__file__).resolve().parents[1] / "workspace")
+    for d in ("proxies", "cache", "renders", "manifests", "logs"):
+        (ws / d).mkdir(parents=True, exist_ok=True)
+    return ws
+
+
+def load(path) -> Job:
+    return Job.model_validate_json(Path(path).read_text(encoding="utf-8"))
+
+
+def _key(*parts) -> str:
+    return _h(json.dumps(parts, sort_keys=True, default=str).encode()).hexdigest()
+
+
+FILE_FIELDS = {"file", "font", "lut", "cue_file", "workflow"}
+
+
+def resource_hashes(params) -> dict:
+    """Content hashes of every file a step's params point at (fonts, LUTs, subtitles, models...), so
+    replacing a file at the same path invalidates cached output. Documented file fields must exist."""
+    out = {}
+
+    def walk(x, key=None):
+        if isinstance(x, dict):
+            for k, v in x.items():
+                walk(v, k)
+        elif isinstance(x, list):
+            for v in x:
+                walk(v, key)
+        elif isinstance(x, str) and x:
+            p = Path(x)
+            if p.is_file():
+                out[str(p.resolve())] = sha256(p)
+            elif key in FILE_FIELDS:
+                raise FileNotFoundError(f"param {key}: {x} does not exist")
+    walk(params)
+    return out
+
+
+def _worker_id(params):
+    """A generation step's output depends on its worker's config, models and runtime, not just its params."""
+    if not params.get("worker"):
+        return None
+    from .workers import fingerprint, worker_config
+    return fingerprint(worker_config(params["worker"]))
+
+
+def _registry(ws) -> Path:
+    return ws / "logs" / "outputs.json"
+
+
+def proxy(path, digest, height, ws) -> str:
+    out = ws / "proxies" / f"{digest[:16]}-{height}.mp4"
+    if not out.exists():
+        tmp = out.with_name(out.stem + ".part.mp4")
+        ffmpeg(["-i", path, "-map", "0:v:0", *audio_maps(path), "-vf", f"scale=-2:'min({height},ih)'",
+                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p",
+                "-c:a", "aac", "-b:a", "160k", tmp])
+        tmp.replace(out)
+    return str(out)
+
+
+def _hw_ok(enc: str) -> bool:
+    """Capability probe: only use a hardware encoder that actually encodes a test frame."""
+    try:
+        ffmpeg(["-f", "lavfi", "-i", "color=s=640x360:d=0.1", "-c:v", enc, "-f", "null", "-"])  # AMF HEVC rejects tiny frames
+        return True
+    except RuntimeError:
+        return False
+
+
+def _hdr_params(enc, hdr) -> list:
+    """Carry HDR10 mastering display + content light level into the master encode."""
+    d, cll = hdr.get("display"), hdr.get("cll")
+    if enc == "libx265":  # chroma in 0.00002 units, luminance in 0.0001 cd/m2
+        xp = "hdr10=1:repeat-headers=1"
+        if d:
+            c = [round(v * 50000) for v in d[:8]]
+            xp += (f":master-display=G({c[0]},{c[1]})B({c[2]},{c[3]})R({c[4]},{c[5]})WP({c[6]},{c[7]})"
+                   f"L({round(d[8] * 10000)},{round(d[9] * 10000)})")
+        return ["-x265-params", xp + (f":max-cll={cll[0]},{cll[1]}" if cll else "")]
+    sp = []  # SVT-AV1: same layout, plain decimals
+    if d:
+        sp.append("mastering-display=G({:.5f},{:.5f})B({:.5f},{:.5f})R({:.5f},{:.5f})WP({:.5f},{:.5f})"
+                  "L({:.4f},{:.4f})".format(*d))
+    if cll:
+        sp.append(f"content-light={cll[0]},{cll[1]}")
+    return ["-svtav1-params", ":".join(sp)] if sp else []
+
+
+def encode_final(src, out, prof, ref, keep_clock=False):
+    """keep_clock: the timeline is unchanged, so restore the reference's exact time base (frame times
+    pass through; the lossless .mkv intermediates only store milliseconds)."""
+    if prof.get("audio_only"):
+        return ffmpeg(["-i", src, "-map", "0:a:0"] + prof["a"] + [out])
+    v = info(src)["video"]
+    alpha = (v["pix_fmt"] or "").startswith(("yuva", "rgba", "bgra", "gbrap", "ya"))
+    args = ["-i", src]
+    if alpha and not prof.get("alpha"):
+        if not prof.get("scales"):
+            raise ValueError("output has alpha: use --profile alpha-master (or archive)")
+        # preview of an alpha result: flatten over mid-gray so removed areas are visible
+        args += ["-filter_complex", f"color=c=gray:s={v['width']}x{v['height']}:r={v['fps_str']}[bg];"
+                 f"[bg][0:v]overlay=shortest=1,{prof.get('vf', 'null')}[v]", "-map", "[v]"]
+    else:
+        args += ["-map", "0:v:0"] + (["-vf", prof["vf"]] if prof.get("vf") else [])
+    args += ["-map", "0:a?"]
+    venc = prof["v"]
+    if os.environ.get("STUDIO_HW_ENCODE") == "1" and prof.get("hw") and _hw_ok(prof["hw"][1]):
+        venc = prof["hw"]
+    hdr = hdr10(ref["path"]) if (ref.get("video") or {}).get("hdr") else None
+    if hdr and venc[1] in ("libx265", "libsvtav1"):
+        venc = venc + _hdr_params(venc[1], hdr)
+    args += venc + prof["a"]
+    rv = ref.get("video") or {}
+    if rv.get("color_space") == "gbr":  # RGB source (e.g. rendered graphics): its tags don't apply to YUV output
+        rv = dict(rv, color_space="bt709", color_primaries="bt709", color_transfer="bt709", color_range="tv")
+    for k, flag in (("color_primaries", "-color_primaries"), ("color_transfer", "-color_trc"),
+                    ("color_space", "-colorspace"), ("color_range", "-color_range")):
+        if rv.get(k) and rv[k] not in ("unknown", "reserved"):
+            args += [flag, rv[k]]
+    tb = rv.get("time_base") or ""
+    if keep_clock and tb.startswith("1/") and not prof.get("scales"):
+        args += ["-fps_mode:v", "passthrough", "-enc_time_base:v", tb]
+        if Path(out).suffix.lower() in (".mp4", ".mov", ".m4v"):
+            args += ["-video_track_timescale", tb[2:]]
+    if Path(out).suffix.lower() in (".mp4", ".mov", ".m4v"):
+        args += ["-movflags", "+faststart"]
+    return ffmpeg(args + [out])
+
+
+def _attempt(fn, tmp, ctx, retries, label, log) -> int:
+    """Run one op invocation with the job's retry policy; returns the attempt that succeeded."""
+    err = None
+    for attempt in range(1, retries + 2):
+        ctx.meta.clear()
+        log(f"{label}: running (attempt {attempt})")
+        try:
+            fn()
+            return attempt
+        except Exception as e:  # noqa: BLE001 - retry policy covers any worker failure
+            err = e
+            Path(tmp).unlink(missing_ok=True)
+            log(f"{label} failed: {e}")
+    raise RuntimeError(f"{label} failed after {retries + 1} attempts: {err}")
+
+
+def _chunked(step, src, tmp, ctx, chunk_s, retries, log) -> int:
+    """Run a CHUNKABLE op over overlapping frame ranges. Each chunk gets a 1 s lead-in (temporal state
+    like mask smoothing warms up) that is trimmed off; finished chunks survive an interruption, so a long
+    job resumes mid-step. Audio is taken from the step input, untouched."""
+    v = info(src)["video"]
+    fps = v["fps"]
+    n = v["frames"] or round(v["duration"] * fps)
+    per, lead = max(1, round(chunk_s * fps)), round(fps)
+    base = Path(tmp).with_name(Path(tmp).name.replace(".part.mkv", ""))
+    parts, metas, worst = [], [], 1
+    for c, a in enumerate(range(0, n, per)):
+        b, a0 = min(n, a + per), max(0, a - lead)
+        part = base.with_name(f"{base.name}-c{c:04}.mkv")
+        if not (part.exists() and part.with_suffix(".json").exists()):
+            seg, raw = part.with_name(part.stem + ".in.mkv"), part.with_name(part.stem + ".raw.mkv")
+            ffmpeg((["-ss", (a0 - 0.5) / fps] if a0 else []) + ["-i", src, "-map", "0:v:0", "-frames:v", b - a0,
+                                                                "-c:v", "ffv1", "-level", "3", seg])
+            worst = max(worst, _attempt(lambda: OPS[step.op](ctx, [str(seg)], step.params, str(raw)), raw, ctx, retries,
+                                        f"[{step.id}] {step.op} chunk {c + 1}/{-(-n // per)}", log))
+            ffmpeg(["-i", raw, "-map", "0:v:0", "-vf", f"trim=start_frame={a - a0},setpts=PTS-STARTPTS",
+                    "-c:v", "ffv1", "-level", "3", part.with_suffix(".part.mkv")])
+            part.with_suffix(".part.mkv").replace(part)
+            part.with_suffix(".json").write_text(json.dumps(ctx.meta, default=str), encoding="utf-8")
+            seg.unlink()
+            raw.unlink()
+        else:
+            log(f"[{step.id}] {step.op} chunk {c + 1}: cached")
+        parts.append(part)
+        metas.append(json.loads(part.with_suffix(".json").read_text(encoding="utf-8")))
+    lst = base.with_name(base.name + "-chunks.txt")
+    lst.write_text("".join(f"file '{p.as_posix()}'\n" for p in parts), encoding="utf-8")
+    ffmpeg(["-f", "concat", "-safe", 0, "-i", lst, "-i", src, "-map", "0:v:0"]
+           + ([] if step.op == "mask" else [*audio_maps(src, 1), "-c:a", "flac"]) + ["-c:v", "copy", tmp])
+    for p in [*parts, *(p.with_suffix(".json") for p in parts), lst]:
+        p.unlink()
+    ctx.meta.clear()
+    ctx.meta.update(metas[0], chunks=len(parts))
+    ms = [m["mask"] for m in metas if "mask" in m]
+    if ms:  # frame-weighted mask quality across chunks
+        f = sum(m["frames"] for m in ms)
+        agg = {k: round(sum(m[k] * m["frames"] for m in ms) / f, 4)
+               for k in ("coverage_mean", "temporal_iou_mean", "empty_frame_ratio")}
+        ctx.meta["mask"] = ms[0] | agg | {"frames": n, "low_confidence": any(m["low_confidence"] for m in ms)
+                                          or agg["temporal_iou_mean"] < 0.8 or agg["empty_frame_ratio"] > 0.1}
+    return worst
+
+
+def run(job: Job, mode="final", profile=None, ws=None, log=print) -> dict:
+    """Execute a job. mode = final | preview. Completed steps are cached by content hash,
+    so re-running (or resuming an interrupted job) skips finished work."""
+    ws = workspace(ws)
+    prof_name = "preview" if mode == "preview" else (profile or job.profile)
+    if prof_name not in PROFILES:
+        raise ValueError(f"unknown profile {prof_name}; have {sorted(PROFILES)}")
+    prof = PROFILES[prof_name]
+    if not job.steps:
+        raise ValueError("job has no steps")
+
+    paths, keys, originals = {}, {}, set()
+    for sid, s in job.sources.items():
+        p = Path(s.path).resolve()
+        if not p.exists():
+            raise FileNotFoundError(f"source {sid}: {p}")
+        digest = sha256(p)
+        if s.sha256 and s.sha256 != digest:
+            raise ValueError(f"source {sid} changed since the manifest was written (sha256 mismatch)")
+        s.sha256, s.path = digest, str(p)  # saved manifests stay valid from any working directory
+        originals.add(p)
+        if mode == "preview" and info(p)["video"] and not info(p)["is_image"]:
+            paths[sid], keys[sid] = proxy(str(p), digest, job.proxy_height, ws), f"proxy{job.proxy_height}:{digest}"
+        else:
+            paths[sid], keys[sid] = str(p), digest
+    primary = next(iter(job.sources), None)  # None: pure generation job
+    pv = info(job.sources[primary].path)["video"] if primary else None
+    scale = info(paths[primary])["video"]["height"] / pv["height"] if pv else 1.0
+
+    job.output = str(Path(job.output).resolve())
+    out = Path(job.output)
+    if mode == "preview":
+        out = out.with_name(out.stem + ".preview.mp4")
+    if prof.get("ext") and out.suffix.lower() != prof["ext"]:
+        out = out.with_suffix(prof["ext"])  # e.g. ProRes can't go in .mp4
+    out = out.resolve()
+    if out in originals:
+        raise ValueError("refusing to overwrite a source file; pick another output path")
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    # Plan every step's cache key up front: graph errors and output conflicts surface before any rendering.
+    plan = []
+    for step in job.steps:
+        if step.op not in OPS:
+            raise ValueError(f"step {step.id}: unknown op {step.op}; have {sorted(OPS)}")
+        missing = [i for i in step.inputs if i not in keys]
+        if missing or step.id in keys:
+            raise ValueError(f"step {step.id}: unknown inputs {missing}" if missing else f"duplicate id {step.id}")
+        keys[step.id] = _key(op_version(step.op), step.op, step.params, resource_hashes(step.params),
+                             [keys[i] for i in step.inputs], round(scale, 6), _worker_id(step.params))
+        plan.append(step)
+    if OUTPUT_EXT.get(job.steps[-1].op) == ".wav":  # audio-only result: one PCM WAV, audio QA
+        prof_name, prof = "wav", PROFILES["wav"]
+        out = out.with_suffix(".wav")
+        if out in originals:
+            raise ValueError("refusing to overwrite a source file; pick another output path")
+    fingerprint = _key(keys[job.steps[-1].id], prof_name, prof, job.checks.model_dump(),
+                       os.environ.get("STUDIO_HW_ENCODE"), ffmpeg_version())
+    reg = _registry(ws)
+    if mode == "final" and out.exists():
+        rec = json.loads(reg.read_text(encoding="utf-8")).get(str(out)) if reg.exists() else None
+        if rec and rec["fingerprint"] == fingerprint and rec["sha256"] == sha256(out) and Path(rec["log"]).exists():
+            log(f"{out.name}: identical request already delivered; hash verified")
+            return json.loads(Path(rec["log"]).read_text(encoding="utf-8"))["result"] | {"reused": True}
+        raise FileExistsError(f"output already exists: {out}; choose a new output name (deliveries are never replaced)")
+
+    ctx = Ctx(workdir=ws / "cache", scale=scale)
+    records = []
+    from .workers import gpu_workers_in
+    with gpu_lock(ws, force=gpu_workers_in(plan)):  # no-op on CPU unless a GPU worker generates
+        for step in plan:
+            key = keys[step.id]
+            dst = ws / "cache" / f"{step.op}-{key[:20]}{OUTPUT_EXT.get(step.op, '.mkv')}"
+            side = dst.with_suffix(".json")
+            rec = json.loads(side.read_text(encoding="utf-8")) if dst.exists() and side.exists() else None
+            # ponytail: size check only; a full hash of a 4K lossless intermediate costs ~10 s per hit
+            if rec and rec.get("bytes", dst.stat().st_size) == dst.stat().st_size:
+                rec |= {"cached": True}
+                os.utime(side)  # mtime = last use, so `studio cache prune` keeps what's still in use
+                log(f"[{step.id}] {step.op}: cached")
+            else:
+                if rec:
+                    log(f"[{step.id}] {step.op}: cached output damaged; re-rendering")
+                tmp = dst.with_name(dst.stem + ".part" + dst.suffix)
+                t0, ins = time.time(), [paths[i] for i in step.inputs]
+                ctx.commands, ctx.meta = [], {}
+                chunk_s = step.chunk if step.chunk is not None else float(os.environ.get("STUDIO_CHUNK_SECONDS", 60))
+                v0 = info(ins[0])["video"] if len(ins) == 1 else None
+                if (step.op in CHUNKABLE and v0 and chunk_s > 0 and (v0["duration"] or 0) > chunk_s * (1 if step.chunk else 2)
+                        and not (step.params.get("box") or step.params.get("point"))):  # a box is frame-0 state
+                    attempt = _chunked(step, ins[0], tmp, ctx, chunk_s, job.retries, log)
+                else:
+                    attempt = _attempt(lambda: OPS[step.op](ctx, ins, step.params, str(tmp)), tmp, ctx, job.retries,
+                                       f"[{step.id}] {step.op}", log)
+                tmp.replace(dst)
+                rec = {"step": step.id, "op": step.op, "params": step.params,
+                       "inputs": {i: keys[i] for i in step.inputs}, "resources": resource_hashes(step.params),
+                       "output": str(dst), "sha256": sha256(dst), "bytes": dst.stat().st_size,
+                       "seconds": round(time.time() - t0, 2), "attempts": attempt, "meta": ctx.meta,
+                       "commands": ctx.commands, "studio": __version__, "op_version": op_version(step.op)}
+                side.write_text(json.dumps(rec, indent=2), encoding="utf-8")
+                rec["cached"] = False
+            paths[step.id] = str(dst)
+            records.append(rec)
+
+    if not prof.get("audio_only") and not info(paths[job.steps[-1].id])["video"]:
+        raise ValueError("the last step has no video: end audio-only jobs with generate_audio, or mix it into a clip")
+    log(f"encoding {out.name} with profile {prof_name}")
+    t0 = time.time()
+    part = out.with_name(f"{out.stem}.part-{os.getpid()}-{int(time.time())}{out.suffix}")
+    if part.resolve() in originals:
+        raise ValueError(f"temporary name collides with a source: {part}")
+    same_timeline = primary and not any(s.op in FORMAT_CHANGING | RETIMING for s in job.steps)
+    final_cmd = encode_final(paths[job.steps[-1].id], str(part), prof, info(paths[primary]) if primary else {},
+                             keep_clock=bool(same_timeline))
+    encode_s = round(time.time() - t0, 2)
+
+    c = job.checks
+    against = c.against or (primary if primary and not any(s.op in FORMAT_CHANGING for s in job.steps) else None)
+    if prof.get("audio_only"):
+        report = validate_audio(str(part), duration=c.duration, tolerance=c.tolerance, decode=c.decode)
+    else:
+        report = validate(str(part), against=paths[against] if against else None, duration=c.duration,
+                          tolerance=c.tolerance, size=prof.get("size"), ssim=c.ssim, decode=c.decode)
+    if mode == "final" and report["ok"]:
+        publish(part, out)  # never replaces a file that appeared during the encode
+    else:  # previews iterate in place; a failed final is kept for inspection, never at the delivery name
+        if mode == "final":
+            out = out.with_name(f"{out.stem}.failed-{datetime.now():%Y%m%d-%H%M%S}{out.suffix}")
+        if out in originals:
+            raise ValueError(f"refusing to overwrite a source file: {out}")
+        part.replace(out)
+    report["file"] = str(out)
+
+    stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    manifest = ws / "manifests" / f"{job.name}-{stamp}.json"
+    manifest.write_text(job.model_dump_json(by_alias=True, indent=2), encoding="utf-8")
+    result = {"ok": report["ok"], "output": str(out), "sha256": sha256(out), "mode": mode, "profile": prof_name,
+              "steps": [{k: r.get(k) for k in ("step", "op", "cached", "seconds", "meta", "output")} for r in records],
+              "encode_seconds": encode_s, "validation": report, "manifest": str(manifest),
+              "ffmpeg": tool("ffmpeg")}
+    logf = ws / "logs" / f"{job.name}-{stamp}.json"
+    result["log"] = str(logf)
+    logf.write_text(json.dumps(result | {"result": result, "fingerprint": fingerprint, "step_records": records,
+                                         "final_command": final_cmd}, indent=2, default=str), encoding="utf-8")
+    if mode == "final" and report["ok"]:
+        entries = json.loads(reg.read_text(encoding="utf-8")) if reg.exists() else {}
+        entries[str(out)] = {"fingerprint": fingerprint, "sha256": result["sha256"], "log": str(logf)}
+        tmpreg = reg.with_name(f"outputs.{os.getpid()}.tmp")
+        tmpreg.write_text(json.dumps(entries, indent=1), encoding="utf-8")
+        tmpreg.replace(reg)  # ponytail: read-modify-write without a lock; two finals at once may drop an entry
+    return result
+
+
+def prune(days=None, ws=None) -> dict:
+    """Delete cached step outputs and proxies unused for `days` (None = everything). Never touches sources."""
+    ws = workspace(ws)
+    cutoff = time.time() - days * 86400 if days is not None else float("inf")
+    freed, files = 0, 0
+    for f in [*ws.glob("cache/*"), *ws.glob("proxies/*")]:
+        if f.is_file() and f.stat().st_mtime < cutoff:
+            side = f.with_suffix(".json")  # a step output's age is its sidecar's (touched on every cache hit)
+            if f.suffix == ".mkv" and side.exists() and side.stat().st_mtime >= cutoff:
+                continue
+            freed += f.stat().st_size
+            files += 1
+            f.unlink()
+    return {"files": files, "freed_gb": round(freed / 1e9, 3)}

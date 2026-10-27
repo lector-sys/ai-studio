@@ -1,457 +1,451 @@
-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
+"""`studio` command: the stable contract the coding agent calls. All output is JSON on stdout;
+progress goes to stderr; exit code 1 means the operation or its validation failed."""
+import json
+import sys
+from pathlib import Path
+
+import typer
+
+from . import jobs, media
+from .jobs import Job
+
+app = typer.Typer(add_completion=False, no_args_is_help=True, pretty_exceptions_enable=False)
+P = typer.Option([], "-p", "--param", help="key=value (value parsed as JSON when possible)")
+
+
+def _out(obj, ok=True):
+    print(json.dumps(obj, indent=2, default=str))
+    raise typer.Exit(0 if ok else 1)
+
+
+def _log(msg):
+    print(msg, file=sys.stderr)
+
+
+def _params(pairs) -> dict:
+    out = {}
+    for kv in pairs:
+        k, _, v = kv.partition("=")
+        try:
+            out[k] = json.loads(v)
+        except json.JSONDecodeError:
+            out[k] = v
+    return out
+
+
+def _nums(s):
+    return [float(x) for x in s.split(",")] if s else None
+
+
+def _run(sources, steps, output, profile, preview, validate=None):
+    job = Job(name=Path(output).stem, sources={f"s{i}": {"path": str(p)} for i, p in enumerate(sources)},
+              steps=steps, output=str(output), profile=profile, validate=validate or {})
+    r = jobs.run(job, mode="preview" if preview else "final", log=_log)
+    _out(r, r["ok"])
+
+
+@app.command()
+def inspect(path: Path, keyframes: bool = False, hash: bool = False, json_: bool = typer.Option(True, "--json")):
+    """Codecs, streams, resolution, fps, duration, HDR/color, audio (+ keyframes/hash on request)."""
+    d = media.info(path)
+    if keyframes:
+        d["keyframes"] = media.keyframes(path)
+    if hash:
+        d["sha256"] = media.sha256(path)
+    _out(d)
+
+
+@app.command()
+def devices():
+    """Discover accelerators (ffmpeg hwaccels/encoders, ONNX providers, torch, GPUs)."""
+    from .devices import discover
+    _out(discover())
+
+
+@app.command()
+def ops():
+    """List every operation with its parameters (the capability registry)."""
+    from .ops import OPS
+    _out({k: " ".join((f.__doc__ or "").split()) for k, f in sorted(OPS.items())})
+
+
+@app.command()
+def profiles():
+    """List output profiles."""
+    _out({k: v["desc"] for k, v in jobs.PROFILES.items()})
+
+
+@app.command()
+def edit(op: str, inputs: list[Path], output: Path = typer.Option(..., "-o"), param: list[str] = P,
+         profile: str = "4k60-master", preview: bool = False, duration: float = None):
+    """One deterministic op, e.g. `studio edit trim in.mp4 -o out.mp4 -p start=1 -p end=4`.
+    Multi-input ops (concat, transition, overlay, audio, chromakey) take extra inputs in order."""
+    step = {"id": op, "op": op, "inputs": [f"s{i}" for i in range(len(inputs))], "params": _params(param)}
+    _run(inputs, [step], output, profile, preview, {"duration": duration})
+
+
+def _alias(op):
+    def cmd(inputs: list[Path], output: Path = typer.Option(..., "-o"), param: list[str] = P,
+            profile: str = "4k60-master", preview: bool = False):
+        step = {"id": op, "op": op, "inputs": [f"s{i}" for i in range(len(inputs))], "params": _params(param)}
+        _run(inputs, [step], output, profile, preview)
+    cmd.__doc__ = f"Shortcut for `studio edit {op}`."
+    return cmd
+
+
+app.command("color")(_alias("color"))
+app.command("audio")(_alias("audio"))
+
+
+@app.command()
+def mask(target: str, input: Path, output: Path = typer.Option(..., "-o"), box: str = None, point: str = None,
+         param: list[str] = P, preview: bool = False):
+    """Segmentation matte video. target = person | salient | object (object needs --box x,y,w,h or
+    --point x,y in source px). Prints mask quality stats (temporal IoU, empty frames, low_confidence)."""
+    p = _params(param) | {"target": target}
+    p |= {"box": _nums(box)} if box else {}
+    p |= {"point": _nums(point)} if point else {}
+    _run([input], [{"id": "mask", "op": "mask", "inputs": ["s0"], "params": p}], output, "archive", preview)
+
+
+@app.command()
+def track(input: Path, box: str = typer.Option(..., help="x,y,w,h in source px on frame 0"),
+          output: Path = typer.Option(None, "-o"), height: int = 512):
+    """Track a box through the clip (optical flow); JSON list of per-frame [x,y,w,h]."""
+    from .vision import track as _track
+    boxes = _track(str(input), _nums(box), height)
+    if output:
+        output.write_text(json.dumps(boxes))
+    _out({"frames": len(boxes), "first": boxes[0] if boxes else None, "last": boxes[-1] if boxes else None,
+          "file": str(output) if output else None, **({} if output else {"boxes": boxes})})
+
+
+@app.command()
+def background(mode: str, input: Path, output: Path = typer.Option(..., "-o"), bg: Path = None,
+               mask_file: Path = typer.Option(None, "--mask", help="reuse an existing mask video"),
+               target: str = "person", box: str = None, param: list[str] = P, profile: str = None,
+               preview: bool = False):
+    """Background remove | blur | replace. Builds mask (unless --mask) then composites at source res.
+    `-p mask.model=birefnet-portrait -p mask.stride=2` tunes the mask step; other -p go to compositing."""
+    params = _params(param)
+    mp = {k[5:]: v for k, v in params.items() if k.startswith("mask.")} | {"target": target}
+    mp |= {"box": _nums(box)} if box else {}
+    bp = {k: v for k, v in params.items() if not k.startswith("mask.")} | {"mode": mode}
+    sources, steps = [input], []
+    if mask_file:
+        sources.append(mask_file)
+        mask_id = "s1"
+    else:
+        steps.append({"id": "mask", "op": "mask", "inputs": ["s0"], "params": mp})
+        mask_id = "mask"
+    ins = ["s0", mask_id]
+    if bg:
+        sources.append(bg)
+        ins.append(f"s{len(sources) - 1}")
+    steps.append({"id": "bg", "op": "background", "inputs": ins, "params": bp})
+    prof = profile or ("alpha-master" if mode == "remove" else "4k60-master")
+    _run(sources, steps, output, prof, preview, {"against": "s0"})
+
+
+@app.command()
+def preview(job: Path):
+    """Low-cost proxy render of a job manifest (outputs <output>.preview.mp4)."""
+    r = jobs.run(jobs.load(job), mode="preview", log=_log)
+    _out(r, r["ok"])
+
+
+@app.command()
+def render(job: Path, profile: str = None):
+    """Final render of a job manifest against master media."""
+    r = jobs.run(jobs.load(job), profile=profile, log=_log)
+    _out(r, r["ok"])
+
+
+@app.command()
+def validate(output: Path, against: Path = None, duration: float = None, size: str = None, fps: float = None,
+             ssim: bool = False, no_decode: bool = False):
+    """Technical QA of a render (optionally against its source)."""
+    from .qc import validate as _validate
+    r = _validate(str(output), str(against) if against else None, duration, None,
+                  [int(x) for x in size.split("x")] if size else None, fps, ssim, not no_decode)
+    _out(r, r["ok"])
+
+
+# --- Phase 3: intelligent editorial ----------------------------------------------------------------
+
+def _ranges(s):
+    """'1.2-3.4,5-6' -> [[1.2, 3.4], [5, 6]]"""
+    return [[float(x) for x in r.split("-", 1)] for r in s.split(",")] if s else []
+
+
+@app.command()
+def transcribe(input: Path, output: Path = typer.Option(None, "-o", help=".json (default: print)"),
+               model: str = "base", language: str = None, translate: bool = False):
+    """Local STT with word timestamps (faster-whisper; --translate gives English)."""
+    from .speech import transcribe as _t
+    t = _t(str(input), model, language, "translate" if translate else "transcribe", jobs.workspace() / "cache")
+    if output:
+        output.write_text(json.dumps(t, indent=1), encoding="utf-8")
+        _out({"file": str(output), "language": t["language"], "segments": len(t["segments"]), "model": t["model"]})
+    _out(t)
+
+
+@app.command()
+def captions(input: Path, output: Path = typer.Option(..., "-o", help=".srt/.vtt/.json sidecar, or a video to burn into"),
+             model: str = "base", language: str = None, translate: bool = False, max_chars: int = 42,
+             style: str = None, profile: str = "4k60-master", preview: bool = False):
+    """Captions: sidecar .srt/.vtt (or .json transcript), or burned in when -o is a video."""
+    from . import speech
+    task = "translate" if translate else "transcribe"
+    if output.suffix.lower() in (".srt", ".vtt", ".json"):
+        t = speech.transcribe(str(input), model, language, task, jobs.workspace() / "cache")
+        fmt = {".srt": speech.to_srt, ".vtt": speech.to_vtt}.get(output.suffix.lower())
+        output.write_text(fmt(t, max_chars=max_chars) if fmt else json.dumps(t, indent=1), encoding="utf-8")
+        _out({"file": str(output), "cues": len(speech.cues(t, max_chars=max_chars)), "language": t["language"]})
+    p = {"model": model, "language": language, "task": task, "max_chars": max_chars} | ({"style": style} if style else {})
+    _run([input], [{"id": "captions", "op": "captions", "inputs": ["s0"], "params": p}], output, profile, preview)
+
+
+@app.command()
+def cut(input: Path, output: Path = typer.Option(..., "-o"), remove: str = typer.Option(None, help="1.2-3.4,5-6"),
+        keep: str = typer.Option(None, help="ranges to keep instead"), silence: bool = False,
+        min_silence: float = 0.5, noise: float = -35, fillers: bool = False,
+        phrase: list[str] = typer.Option([], help="transcript phrase to remove (repeatable)"),
+        model: str = "base", profile: str = "4k60-master", preview: bool = False):
+    """Ripple-delete ranges: explicit, silences, filler words, or transcript phrases."""
+    p = {"remove": _ranges(remove), "keep": _ranges(keep), "phrases": phrase, "fillers": fillers, "model": model,
+         "silence": {"noise": noise, "min": min_silence} if silence else False}
+    _run([input], [{"id": "cut", "op": "cut", "inputs": ["s0"], "params": p}], output, profile, preview)
+
+
+@app.command()
+def index(folder: Path, model: str = "base", no_transcribe: bool = False):
+    """Index a media folder (metadata, scene cuts + thumbnails, transcripts) for `studio search`."""
+    from .speech import index as _index
+    _out(_index(folder, jobs.workspace(), model, not no_transcribe, _log))
+
+
+@app.command()
+def search(query: str, limit: int = 20):
+    """Search indexed media by spoken words / file names; returns file + timecode hits."""
+    from .speech import search as _search
+    _out({"query": query, "hits": _search(query, jobs.workspace(), limit)})
+
+
+# --- Phase 5: object + generative ------------------------------------------------------------------
+
+@app.command("object")
+def object_(action: str, input: Path, output: Path = typer.Option(..., "-o"), box: str = None, point: str = None,
+            with_: Path = typer.Option(None, "--with", help="replacement/insert image or video"),
+            method: str = "plate", backend: str = typer.Option(None, help="mask backend: sam | grabcut"),
+            track: bool = True, param: list[str] = P, profile: str = "4k60-master", preview: bool = False):
+    """Object remove | replace | insert. Box/point are source px on frame 0. remove = mask + inpaint
+    (clean plate); replace = remove + tracked insert of --with; insert = tracked insert of --with."""
+    if action not in ("remove", "replace", "insert"):
+        raise ValueError("action must be remove | replace | insert")
+    if action != "insert" and not (box or point):
+        raise ValueError(f"object {action} needs --box x,y,w,h or --point x,y")
+    if action != "remove" and not (with_ and box):
+        raise ValueError(f"object {action} needs --with <image/video> and --box x,y,w,h")
+    sources, steps, cur = [input], [], "s0"
+    if action != "insert":
+        mp = {"target": "object"} | ({"box": _nums(box)} if box else {"point": _nums(point)})
+        mp |= {"backend": backend} if backend else {}
+        steps += [{"id": "mask", "op": "mask", "inputs": ["s0"], "params": mp},
+                  {"id": "remove", "op": "inpaint", "inputs": ["s0", "mask"],
+                   "params": {"method": method} | _params(param)}]
+        cur = "remove"
+    if with_ and action != "remove":
+        sources.append(with_)
+        steps.append({"id": "insert", "op": "insert", "inputs": [cur, "s1"],
+                      "params": {"box": _nums(box), "track": track}})
+    _run(sources, steps, output, profile, preview, {"against": "s0"})
+
+
+@app.command()
+def generate(kind: str, prompt: str = typer.Option("", "--prompt", help="prompt, or the narration text for voice"),
+             output: Path = typer.Option(..., "-o"), backend: str = None,
+             worker: str = typer.Option(None, help="configured local worker (`studio workers`)"),
+             init: Path = None, reference: list[str] = typer.Option([], help="name=path reference image (repeatable)"),
+             text: str = typer.Option(None, help="voice: text to speak (default: --prompt)"), voice: str = None,
+             width: int = 1920, height: int = 1080,
+             duration: float = typer.Option(None, help="s; image/video default 5; voice: measured from synthesis"),
+             fps: str = "30", seed: int = None, profile: str = "h264-master"):
+    """Generate an image, video, voice, music or sfx (procedural | command | comfyui | configured worker).
+    Never replaces an existing file; provenance is written beside the output as <file>.gen.json."""
+    from .generate import AUDIO_KINDS, generate_media, provenance
+    if kind not in ("image", "video", *AUDIO_KINDS):
+        raise ValueError("kind must be image | video | voice | music | sfx")
+    refs = dict(r.split("=", 1) for r in reference)
+    if kind != "video":
+        res = generate_media(prompt, kind, output.with_suffix(".png" if kind == "image" else ".wav"), width, height,
+                             duration, fps, backend, seed, str(init) if init else None, references=refs, worker=worker,
+                             voice=voice, text=text or (prompt if kind == "voice" else None))
+        _out({"file": res, "provenance": provenance(res)})
+    if refs:
+        raise ValueError("video references go through a configured worker in a job manifest (generate step)")
+    p = {"prompt": prompt, "kind": "video", "width": width, "height": height, "duration": duration or 5, "fps": fps,
+         "seed": seed, "backend": backend} | ({"worker": worker} if worker else {})
+    _run([init] if init else [], [{"id": "gen", "op": "generate", "inputs": ["s0"] if init else [], "params": p}],
+         output, profile, False, {"duration": duration or 5})
+
+
+@app.command()
+def workers(action: str = typer.Argument("list", help="list | smoke | review"), name: str = typer.Argument(None),
+            kind: str = None, prompt: str = typer.Option("", "--prompt"), text: str = None, voice: str = None,
+            duration: float = None, width: int = 1024, height: int = 1024, fps: str = "16", seed: int = 7,
+            reference: list[str] = typer.Option([], help="name=path"), reviewer: str = None,
+            status: str = typer.Option(None, help="review: pass | fail | needs-work"),
+            finding: list[str] = typer.Option([], help="review finding (repeatable)")):
+    """Local generation workers. `list`: state per worker (unavailable + reason / configured / ready).
+    `smoke NAME --kind K --prompt ...`: one real, validated output recorded as evidence (review pending).
+    `review NAME --kind K --reviewer R --status pass`: record the content review that makes it ready."""
+    from datetime import datetime
+
+    from . import workers as W
+    if action == "list":
+        _out(W.listing())
+    if not name:
+        raise ValueError(f"workers {action} needs a worker name")
+    cfg = W.worker_config(name)
+    kind = kind or cfg["kinds"][0]
+    if action == "review":
+        if not (reviewer and status):
+            raise ValueError("review needs --reviewer and --status")
+        _out(W.record_review(cfg, kind, reviewer, status, finding))
+    if action != "smoke":
+        raise ValueError("action must be list | smoke | review")
+    from .generate import AUDIO_KINDS, generate_media, provenance
+    d = jobs.workspace() / "workers" / "smoke"
+    d.mkdir(parents=True, exist_ok=True)
+    out = d / f"{name}-{kind}-{datetime.now():%Y%m%d-%H%M%S}"
+    res = generate_media(prompt, kind, out, width, height, duration if kind != "video" else (duration or 2), fps,
+                         seed=seed, references=dict(r.split("=", 1) for r in reference), worker=name, voice=voice,
+                         text=text or (prompt if kind == "voice" else None))
+    prov = provenance(res)
+    ev = W.record_smoke(cfg, prov | {"kind": kind})
+    _out({"output": res, "evidence": ev, "next": f"review it, then: studio workers review {name} --kind {kind} "
+                                                 "--reviewer <who> --status pass|fail|needs-work --finding ..."})
+
+
+# --- Creative recipes ------------------------------------------------------------------------------
+
+@app.command()
+def recipes():
+    """List the creative recipes (inputs, capabilities, steps they produce)."""
+    from .recipes import listing
+    _out(listing())
+
+
+@app.command()
+def recipe(name: str, request: Path = typer.Option(..., "--request", help="request .json"),
+           output: Path = typer.Option(..., "-o", help="manifest .json to write"),
+           assets: Path = typer.Option(None, help="card/caption asset folder (default: <manifest>.assets)")):
+    """Expand a recipe request into a checked job manifest (renders only static card assets)."""
+    from .agent import check as _check
+    from .recipes import expand
+    job = expand(name, json.loads(request.read_text(encoding="utf-8")),
+                 assets or output.with_name(output.stem + ".assets"))
+    c = _check(job)
+    if c["ok"]:
+        tmp = output.with_name(output.name + ".part")
+        tmp.write_text(job.model_dump_json(by_alias=True, indent=2), encoding="utf-8")
+        tmp.replace(output)
+    _out({"manifest": str(output) if c["ok"] else None, "steps": [s.op for s in job.steps], "check": c}, c["ok"])
+
+
+@app.command()
+def review(log: Path, output: Path = typer.Option(..., "-o", help="review bundle folder")):
+    """Prepare shared review evidence from a render log (frames, crops, checks, viewing copy, audio)."""
+    from .review import bundle
+    rec = json.loads(log.read_text(encoding="utf-8"))
+    b = bundle(jobs.load(rec["manifest"]), rec.get("result", rec), output)
+    _out(b, b["technical_ok"])
+
+
+@app.command("review-record")
+def review_record(bundle_dir: Path, kind: str, reviewer: str = typer.Option(...),
+                  status: str = typer.Option(..., help="pass | fail | needs-work"),
+                  finding: list[str] = typer.Option([], help="one finding (repeatable)")):
+    """Record a delegated/human review result in a bundle's reviews.json."""
+    from .review import record
+    _out(record(bundle_dir, kind, reviewer, status, finding))
+
+
+# --- Phase 6: agent reliability --------------------------------------------------------------------
+
+@app.command()
+def capabilities():
+    """Routing table: which backends work on this machine, plus every op's contract."""
+    from .devices import capabilities as _c
+    _out(_c())
+
+
+@app.command()
+def schema():
+    """JSON schema of the job manifest (what a planner must emit)."""
+    _out(Job.model_json_schema(by_alias=True))
+
+
+@app.command()
+def check(job: Path):
+    """Dry-run a manifest: graph errors, unknown params, models, VRAM/disk/frame estimates."""
+    from .agent import check as _check
+    r = _check(jobs.load(job))
+    _out(r, r["ok"])
+
+
+@app.command()
+def auto(job: Path, max_rounds: int = 3):
+    """Preview -> detect low-confidence/failed steps -> refine (model ladder, stride) -> final render."""
+    from .agent import auto as _auto
+    r = _auto(jobs.load(job), max_rounds, _log)
+    _out(r, r["ok"])
+
+
+@app.command()
+def bench(size: str = "1920x1080", seconds: float = 2, ai: bool = False):
+    """Benchmark every op on a synthetic clip (results saved to workspace/bench)."""
+    from .agent import bench as _bench
+    w, h = (int(x) for x in size.split("x"))
+    _out(_bench(w, h, seconds, ai, _log))
+
+
+@app.command("models")
+def models_(action: str = typer.Argument("list", help="list | download"), name: list[str] = typer.Argument(None)):
+    """Model registry: `studio models` lists named models; `studio models download gfpgan_1.4 rife_4.9`
+    fetches them ahead of time (otherwise they download on first use)."""
+    from . import models
+    if action == "download":
+        _out({n: models.path(n) for n in (name or list(models.MODELS))})
+    _out(models.listing())
+
+
+@app.command()
+def cache(action: str = typer.Argument(..., help="prune"), older_than: float = typer.Option(
+        None, help="days unused; omit to clear everything")):
+    """Free disk: `studio cache prune --older-than 7` deletes step outputs/proxies unused for 7 days."""
+    if action != "prune":
+        raise ValueError("action must be prune")
+    _out(jobs.prune(older_than))
+
+
+# --- Phase 7: optional UI --------------------------------------------------------------------------
+
+@app.command()
+def ui(port: int = 8765, no_browser: bool = False):
+    """Local web UI (127.0.0.1 only): jobs, preview/render, frame box picker, transcript, logs."""
+    from .ui import serve
+    serve(port, not no_browser)
+
+
+def main():
+    try:
+        app()
+    except (ValueError, RuntimeError, FileNotFoundError) as e:
+        print(json.dumps({"ok": False, "error": str(e)}, indent=2))
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

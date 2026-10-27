@@ -1,10 +1,10 @@
-U2FsdGVkX18zmDtW0UygTZvdaQxZmXw1T4xqv99hw4RRCPOl+B8zQt0SOCw42PK1
-47lztUnGG9bcwEMy3PE+34JRTcMGOF/xaXD0JoRmWjt06UDXFS5FnfpUKF+Y5dCQ
-6rEdCazH0sqkZgy0+6KwHpIzRweWGd97mk0FyM4DNrvR1ZMwhsU3mpoSISnwRWcJ
-SfveqBnhx0GJ8aKaYUayKaGRuJaBcHr2AdMr0wYkjrKBSJQoPrFxai+2cdp9dIfP
-kzHzisTdvj/8ommv+OSDQrZBnJ4txAxrJEi9+HC8A6FMc+/z4U4eB+k1fAEVMcMJ
-2pgSyBcyiZ3SwN9Oj3BcB125hzfthvtLbqMHI1AGuKsYQlGzq36LI+e2/0iFEhxK
-xEoQO6R+HzQsJJudwcC1DsqwnbDlSYEzxyk7Cx2rCPRQIV/MjugxLeXdF1LKhJ19
-RJlcPMndkJue/BNv7zZ0svfifvLaO8MiHPPaYANoR/kiuB9kGeTIQc3yxS1EIIny
-s0LpqSs0P5W2XMHpjtMnqwQbxnHsTUDFznHrOMYmTfRroKALTQU6KN6HtIMcmLes
-Vu2/qtPfE2cxZb6FK+6qdA==
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-studio",
+  "description": "Local AI video studio (FFmpeg + swappable AI workers) driven from Claude Code.",
+  "owner": {"name": "Aprameya"},
+  "plugins": [
+    {"name": "ai-studio", "description": "Edit, mask, caption, restore and generate video with the local `studio` CLI.",
+     "source": "./plugin", "category": "productivity"}
+  ]
+}

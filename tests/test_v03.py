@@ -1,181 +1,145 @@
-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
+"""v0.3 checks: HDR10 passthrough, chunked long-footage steps, identity tracking, cache prune."""
+import numpy as np
+import pytest
+
+from studio import jobs, media
+from studio.jobs import Job
+
+
+@pytest.fixture(scope="module")
+def t(tmp_path_factory):
+    return tmp_path_factory.mktemp("v03")
+
+
+def run(t, src, steps, name, profile="archive"):
+    job = Job(name=name, sources={"s": {"path": str(src)}}, steps=steps, output=str(t / f"{name}.mkv"), profile=profile)
+    return jobs.run(job, ws=t / "ws", log=lambda m: None)
+
+
+def test_hdr10_metadata_survives_master(t):
+    src = t / "hdr.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "testsrc2=s=320x180:r=30", "-t", 1, "-c:v", "libx265", "-pix_fmt", "yuv420p10le",
+                  "-x265-params", "hdr10=1:repeat-headers=1:colorprim=bt2020:transfer=smpte2084:colormatrix=bt2020nc:"
+                  "master-display=G(13250,34500)B(7500,3000)R(34000,16000)WP(15635,16450)L(10000000,50):max-cll=1000,400",
+                  "-color_primaries", "bt2020", "-color_trc", "smpte2084", "-colorspace", "bt2020nc", src])
+    want = media.hdr10(str(src))
+    assert want["cll"] == [1000, 400] and want["display"][8] == 1000.0
+    for prof in ("4k60-master", "av1-master"):
+        job = Job(name=f"hdr-{prof}", sources={"s": {"path": str(src)}}, output=str(t / f"hdr-{prof}.mp4"), profile=prof,
+                  steps=[{"id": "t", "op": "trim", "inputs": ["s"], "params": {"start": 0.2}}])
+        r = jobs.run(job, ws=t / "ws", log=lambda m: None)
+        got = media.hdr10(r["output"])
+        assert r["ok"] and got["cll"] == want["cll"], prof
+        assert np.allclose(got["display"], want["display"], atol=1e-3), prof
+        assert media.info(r["output"])["video"]["color_transfer"] == "smpte2084"
+
+
+def test_chunked_step_matches_whole(t):
+    src = t / "long.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "testsrc2=s=320x180:r=30", "-f", "lavfi", "-i", "sine=d=3.2", "-t", 3.2,
+                  "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", "-c:a", "aac", src])
+    whole = run(t, src, [{"id": "d", "op": "denoise", "inputs": ["s"], "params": {}, "chunk": 0}], "whole")
+    parts = run(t, src, [{"id": "d", "op": "denoise", "inputs": ["s"], "params": {"strength": 4}, "chunk": 1}], "parts")
+    assert parts["ok"] and parts["steps"][0]["meta"]["chunks"] == 4
+    a, b = list(media.read_frames(whole["output"], 320, 180)), list(media.read_frames(parts["output"], 320, 180))
+    assert len(a) == len(b) == 96
+    assert max(np.abs(x.astype(int) - y).mean() for x, y in zip(a, b)) < 1  # 1 s lead-in hides the seams
+    assert media.info(parts["output"])["audio"]
+    assert not list((t / "ws" / "cache").glob("*-c0*"))  # chunk files cleaned up
+
+
+def test_identity_tracking_through_occlusion(t):
+    """A red square passes behind a blue one; the mask must stay on red, before and after."""
+    src = t / "cross.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=0xe0e0e0:s=320x180:r=30[b];color=c=red:s=40x40:r=30[r];"
+                  "color=c=blue:s=40x40:r=30[u];[b][r]overlay=x='20+t*80':y=60[br];[br][u]overlay=x='260-t*80':y=70"
+                  ":shortest=1", "-t", 3, "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", src])
+    r = run(t, src, [{"id": "m", "op": "mask", "inputs": ["s"], "params": {
+        "target": "object", "backend": "grabcut", "box": [15, 55, 50, 50], "height": 180}}], "cross")
+    frames = list(media.read_frames(r["output"], 320, 180))
+    for k in (0, 30, 60, 89):
+        xs = np.nonzero(frames[k][..., 0] > 127)[1]
+        assert len(xs) and abs(xs.mean() - (40 + k / 30 * 80)) < 10, k
+    assert not r["steps"][0]["meta"]["mask"]["low_confidence"]
+
+
+def test_cache_prune(t):
+    ws = jobs.workspace(t / "prune")
+    (ws / "cache" / "x.mkv").write_bytes(b"0" * 1000)
+    (ws / "proxies" / "y.mp4").write_bytes(b"0" * 1000)
+    assert jobs.prune(7, t / "prune")["files"] == 0  # fresh files are kept
+    assert jobs.prune(None, t / "prune") == {"files": 2, "freed_gb": 0.0}
+
+
+def _model_or_skip(name):
+    from studio import models
+    try:
+        return models.path(name)
+    except Exception as e:  # noqa: BLE001 - offline with an empty HF cache
+        pytest.skip(f"model {name} unavailable: {e}")
+
+
+def test_rife_interpolation_follows_motion(t):
+    _model_or_skip("rife_4.9")
+    src = t / "sq.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=gray:s=256x144:r=15[b];color=c=white:s=32x32:r=15[s];"
+                  "[b][s]overlay=x='20+t*120':y=56:shortest=1", "-f", "lavfi", "-i", "sine=d=1", "-t", 1,
+                  "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", "-c:a", "aac", src])
+    r = run(t, src, [{"id": "i", "op": "interpolate", "inputs": ["s"], "params": {"fps": 30, "backend": "onnx"}}], "rife")
+    assert r["ok"] and r["steps"][0]["meta"]["interpolate"]["frames"] == 30
+    xs = [np.nonzero(f[..., 0] > 200)[1].mean() for f in list(media.read_frames(r["output"], 256, 144))[:6]]
+    assert np.allclose(np.diff(xs), 4, atol=1)  # 8 px per source frame -> 4 px per output frame, synthesized ones too
+
+
+def test_face_restore_on_portrait(t):
+    _model_or_skip("gfpgan_1.4")
+    import cv2
+    from skimage import data
+    cv2.imwrite(str(t / "astronaut.png"), cv2.cvtColor(data.astronaut(), cv2.COLOR_RGB2BGR))  # public-domain NASA photo
+    src = t / "face.mp4"
+    media.ffmpeg(["-loop", 1, "-i", t / "astronaut.png", "-t", 0.2, "-r", 10, "-c:v", "libx264", "-preset", "ultrafast",
+                  "-pix_fmt", "yuv420p", src])
+    r = run(t, src, [{"id": "f", "op": "face_restore", "inputs": ["s"], "params": {"strength": 1}}], "faces")
+    assert r["ok"] and r["steps"][0]["meta"]["face_restore"]["frames_with_faces"] == 2
+    a, b = next(media.read_frames(str(src), 512, 512)), next(media.read_frames(r["output"], 512, 512))
+    diff = np.abs(a.astype(int) - b).mean(2)
+    assert diff[80:170, 180:260].mean() > 2 * diff[400:, :].mean() + 1  # the face changed, the suit did not
+
+
+def test_recolor_ground_spares_colourful_subjects(t):
+    """Grey textured ground at the bottom, flat grey sky on top, an orange 'ant' on the ground:
+    region=ground + sat_max turns only the ground red."""
+    src = t / "ground.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=0x909090:s=320x180:r=30[s];color=c=0x808080:s=320x100:r=30,"
+                  "noise=c0s=60:c0f=t[g];[s][g]overlay=0:80[b];color=c=0xd07020:s=20x12:r=30[a];[b][a]overlay=150:130:shortest=1",
+                  "-t", 0.5, "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", src])
+    r = run(t, src, [{"id": "r", "op": "recolor", "inputs": ["s"],
+                      "params": {"to": "#c01e19", "region": "ground", "sat_max": 0.12}}], "recolor")
+    f = list(media.read_frames(r["output"], 320, 180))[-1].astype(int)
+    assert r["ok"]
+    assert (f[150:175, 20:120, 0] - f[150:175, 20:120, 1]).mean() > 40  # ground is red now
+    assert abs(f[10:60, :, 0] - f[10:60, :, 1]).mean() < 8  # sky stays grey
+    ant = f[133:139, 154:166]
+    assert ant[..., 0].mean() > ant[..., 2].mean() + 60 and ant[..., 1].mean() > 80  # still orange, not red
+
+
+def test_look_match_regrades_scene_and_keeps_warm_subjects(t):
+    """Grey scene + a warm (amber) subject, regraded to a terracotta reference: the scene turns red-earth,
+    the subject stays warmer and brighter than its surroundings (no mask)."""
+    import cv2
+    ref = np.zeros((200, 300, 3), np.uint8)
+    for y in range(200):  # terracotta gradient, dark to light
+        ref[y] = cv2.cvtColor(np.uint8([[[60 + y // 2, 160, 155]]]), cv2.COLOR_LAB2BGR)[0, 0]
+    cv2.imwrite(str(t / "ref.png"), ref)
+    src = t / "scene.mp4"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=0xa0a0a0:s=320x180:r=30,noise=c0s=20:c0f=t[g];"
+                  "color=c=0xc8a060:s=40x30:r=30[a];[g][a]overlay=140:75:shortest=1", "-t", 0.3,
+                  "-c:v", "libx264", "-preset", "ultrafast", "-pix_fmt", "yuv420p", src])
+    job = Job(name="look", sources={"s": {"path": str(src)}, "r": {"path": str(t / "ref.png")}}, output=str(t / "look.mkv"),
+              profile="archive", steps=[{"id": "l", "op": "look_match", "inputs": ["s", "r"], "params": {"vignette": 0}}])
+    r = jobs.run(job, ws=t / "ws", log=lambda m: None)
+    f = list(media.read_frames(r["output"], 320, 180))[-1]
+    lab = cv2.cvtColor(f, cv2.COLOR_RGB2LAB).astype(int) - [0, 128, 128]
+    scene, subj = lab[10:60, 10:120].reshape(-1, 3).mean(0), lab[82:98, 150:170].reshape(-1, 3).mean(0)
+    assert r["ok"] and scene[1] > 20 and scene[2] > 15, scene  # grey became terracotta
+    assert subj[2] > scene[2] + 8 and subj[0] > scene[0], (subj, scene)  # subject stays warmer + brighter

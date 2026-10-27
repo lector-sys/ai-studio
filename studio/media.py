@@ -1,225 +1,235 @@
-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
-mnra0yjGr3LfJceR4UBrSZL3AFoNiV0X/2C1CYJiYiGHdDCX72AG+c1oSMcmtQfJ
-FTiajCkp2gmIPbSdctXrcJxKo7m1m3UsyLIKFF1XxQ05hthJ8jXTzxZTmIbckiT9
-aIOhIT3fYAYPCgGjRkRXCu0ZV4FCAMEpRqQOSDaU+2EJrY+a7Brthsts5lUOfGzH
-1kDGSTNzUewlxxNveTxCpajgejHSe6OIEf10Nw3ESCnYgYKvwbpETT0DFtoRRNOc
-fdhW1LCoka4lRMRi5DHCHooN7QsR4ocgQu7w+jZ3HrMry0xmYgiDYa596rwhZ8JO
-gO1XvK7B/Olr2yyxeNOUOSZRzgmUaXzy5YiOd9PGelsisG2qAUX5vEgXKahYeyS7
-uUr8ieILQTFBpv8pmDfuxbYi1dQZ8xdglIrxBFH9bJsflmDBKYwFTobrfAzfRZU8
-qSgvVJ/nnqnfih0GGNmdxDwCf6RO7f/S0rpQONEHYrY0KTspmYMTLa/cY91jAb8w
-dPCIf1JT/dSo+1BkIhbP8afcsiaT1aiy9kvPuU9x7pix5C3eWmo4cjKsQq4uZG4E
-u3HWfdlJUVoRH6LKftkooJeYzcVD1XoDpIKTyYTNaT5W+OtE7i2yZQ3e8ilfinPQ
-rcy4DlI9vu7hHD5yYRT1XO8Os0gep/zUZxDPw4W1cuqOTUiDq8owIOyN09rhC4WE
-aPrGI1vOu7b0C7fJkZj51sRHE/1bXENwot9pQrlqfPZN1UfeYW1Wm73eYkiMpaWF
-zfClGSyosXf1NO8YLaBW+/Yx4NuAc+1gZbUM1O53rM0fydgpcpX4YMuY0UCc6w2K
-TEYrOFIp9i7Ru0e96KK7VYE50NV9RGje/8xyE7oEUJlb0FUZZthhG+IflfftEgEt
-TRwByQOSY2E1yCbx6Eb1xu6qspOKm9oFPsComngpZT0wRn0lS7DivgM+3ojd/oEW
-e3NZqWeAOk45/Zfnu8dZ+cnSTjqJ7/QFQhziQ1sz+A0=
+"""FFmpeg/FFprobe wrappers: the media I/O backbone."""
+import hashlib
+import json
+import os
+import shutil
+import subprocess
+from fractions import Fraction
+from functools import lru_cache
+from pathlib import Path
+
+IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp", ".bmp", ".tif", ".tiff"}
+
+
+@lru_cache(None)
+def tool(name: str) -> str:
+    p = os.environ.get(f"STUDIO_{name.upper()}") or shutil.which(name)
+    if not p:  # winget adds a PATH entry that open shells don't see yet
+        link = Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Links" / f"{name}.exe"
+        p = str(link) if link.exists() else None
+    if not p:
+        raise RuntimeError(f"{name} not found: install FFmpeg or set STUDIO_{name.upper()}")
+    return p
+
+
+def ffmpeg(args, cwd=None) -> list[str]:
+    cmd = [tool("ffmpeg"), "-hide_banner", "-nostdin", "-y", "-loglevel", "error", *map(str, args)]
+    r = subprocess.run(cmd, capture_output=True, text=True, cwd=cwd, encoding="utf-8", errors="replace")
+    if r.returncode:
+        raise RuntimeError(f"ffmpeg failed ({r.returncode}): {r.stderr[-3000:]}\ncmd: {subprocess.list2cmdline(cmd)}")
+    return cmd
+
+
+def ffprobe_json(args) -> dict:
+    r = subprocess.run([tool("ffprobe"), "-v", "error", "-of", "json", *map(str, args)],
+                       capture_output=True, text=True, encoding="utf-8", errors="replace")
+    if r.returncode:
+        raise RuntimeError(f"ffprobe failed: {r.stderr.strip()}")
+    return json.loads(r.stdout or "{}")
+
+
+def _stat_key(path) -> tuple:
+    p = Path(path).resolve()
+    st = p.stat()
+    return str(p), st.st_mtime_ns, st.st_size
+
+
+def info(path) -> dict:
+    return _info(*_stat_key(path))
+
+
+def _dur(s: dict, fallback):
+    if s.get("duration") not in (None, "N/A"):
+        return float(s["duration"])
+    tag = (s.get("tags") or {}).get("DURATION")  # matroska
+    if tag:
+        h, m, sec = tag.split(":")
+        return int(h) * 3600 + int(m) * 60 + float(sec)
+    return fallback
+
+
+def _rate(s: dict):
+    for k in ("avg_frame_rate", "r_frame_rate"):
+        v = s.get(k, "0/0")
+        if v not in ("0/0", "0/1"):
+            return v
+    return None
+
+
+@lru_cache(256)
+def _info(path: str, _mtime: int, _size: int) -> dict:
+    raw = ffprobe_json(["-show_streams", "-show_format", path])
+    fmt = raw.get("format", {})
+    fdur = float(fmt["duration"]) if fmt.get("duration") not in (None, "N/A") else None
+    streams = raw.get("streams", [])
+    v = next((s for s in streams if s["codec_type"] == "video"
+              and not (s.get("disposition") or {}).get("attached_pic")), None)
+    a = next((s for s in streams if s["codec_type"] == "audio"), None)
+    out = {"path": path, "container": fmt.get("format_name"), "duration": fdur,
+           "size_bytes": int(fmt.get("size", 0) or 0), "bit_rate": int(fmt.get("bit_rate", 0) or 0),
+           "start_time": float(fmt.get("start_time", 0) or 0), "video": None, "audio": None,
+           "is_image": Path(path).suffix.lower() in IMAGE_EXTS,
+           "streams": [{"index": s["index"], "type": s["codec_type"], "codec": s.get("codec_name")} for s in streams]}
+    if v:
+        w, h = v["width"], v["height"]
+        rot = 0
+        for sd in v.get("side_data_list", []):
+            rot = int(sd.get("rotation", rot) or rot)
+        rot = int((v.get("tags") or {}).get("rotate", rot))
+        if abs(rot) % 180 == 90:  # ffmpeg autorotates on decode, so report display dims
+            w, h = h, w
+        rate = _rate(v)
+        trc = v.get("color_transfer")
+        out["video"] = {
+            "codec": v.get("codec_name"), "profile": v.get("profile"), "width": w, "height": h,
+            "rotation": rot, "fps": float(Fraction(rate)) if rate else None, "fps_str": rate,
+            "r_frame_rate": v.get("r_frame_rate"), "time_base": v.get("time_base"),
+            "coded": [v["width"], v["height"]],
+            "vfr": v.get("avg_frame_rate") != v.get("r_frame_rate"),
+            "pix_fmt": v.get("pix_fmt"), "bit_depth": int(v.get("bits_per_raw_sample") or 0) or None,
+            "color_space": v.get("color_space"), "color_primaries": v.get("color_primaries"),
+            "color_transfer": trc, "color_range": v.get("color_range"),
+            "hdr": trc in ("smpte2084", "arib-std-b67"),
+            "duration": _dur(v, fdur), "frames": int(v["nb_frames"]) if v.get("nb_frames") else None,
+            "start_time": float(v.get("start_time", 0) or 0)}
+    if a:
+        out["audio"] = {"codec": a.get("codec_name"), "sample_rate": int(a.get("sample_rate", 0)),
+                        "channels": a.get("channels"), "layout": a.get("channel_layout"),
+                        "duration": _dur(a, fdur), "start_time": float(a.get("start_time", 0) or 0)}
+    return out
+
+
+def keyframes(path) -> list[float]:
+    r = ffprobe_json(["-select_streams", "v:0", "-skip_frame", "nokey", "-show_entries",
+                      "frame=pts_time", path])
+    return [float(f["pts_time"]) for f in r.get("frames", []) if f.get("pts_time") not in (None, "N/A")]
+
+
+def hdr10(path) -> dict | None:
+    """HDR10 static metadata from the first frame: {"display": [gx, gy, bx, by, rx, ry, wpx, wpy,
+    max_nits, min_nits], "cll": [max_cll, max_fall]} (either may be missing), or None."""
+    fr = ffprobe_json(["-select_streams", "v:0", "-read_intervals", "%+#1", "-show_frames", path]).get("frames") or [{}]
+    out = {}
+    for sd in fr[0].get("side_data_list", []):
+        if sd.get("side_data_type") == "Mastering display metadata" and "red_x" in sd:
+            out["display"] = [float(Fraction(sd[k])) for k in (
+                "green_x", "green_y", "blue_x", "blue_y", "red_x", "red_y", "white_point_x", "white_point_y",
+                "max_luminance", "min_luminance")]
+        if sd.get("side_data_type") == "Content light level metadata":
+            out["cll"] = [int(sd.get("max_content", 0)), int(sd.get("max_average", 0))]
+    return out or None
+
+
+def sha256(path) -> str:
+    key = _stat_key(path)
+    # ponytail: small files (fonts, LUTs, cues, cards) are always re-hashed, since a same-size rewrite can
+    # keep its mtime; big media trust (path, mtime, size). Hash on every call if that ever bites.
+    return _sha.__wrapped__(*key) if key[2] < 64 << 20 else _sha(*key)
+
+
+@lru_cache(512)
+def _sha(path: str, _mtime: int, _size: int) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 22), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+@lru_cache(1)
+def _decoders() -> frozenset:
+    r = subprocess.run([tool("ffmpeg"), "-hide_banner", "-decoders"], capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
+    return frozenset(x.split()[1] for x in r.stdout.splitlines() if len(x.split()) > 1 and x[:1] == " " and x[1:2] == "A")
+
+
+def audio_maps(path, input_index=0) -> list:
+    """-map args for every audio track FFmpeg can decode (iPhone spatial-audio APAC tracks have no decoder)."""
+    out = []
+    for s in info(path)["streams"]:
+        if s["type"] == "audio" and s["codec"] in _decoders():
+            out += ["-map", f"{input_index}:{s['index']}"]
+    return out
+
+
+@lru_cache(1)
+def ffmpeg_version() -> str:
+    r = subprocess.run([tool("ffmpeg"), "-hide_banner", "-version"], capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
+    return r.stdout.splitlines()[0] if r.stdout else "unknown"
+
+
+def publish(tmp, destination) -> None:
+    """Move a finished temp file to `destination` without ever replacing an existing file.
+    A same-directory hard link is atomic and fails if the destination appeared meanwhile."""
+    tmp, destination = Path(tmp), Path(destination)
+    if tmp.resolve() == destination.resolve():
+        raise ValueError("temporary file equals destination")
+    try:
+        os.link(tmp, destination)
+    except FileExistsError:
+        raise FileExistsError(f"output already exists: {destination}") from None
+    except OSError:  # no hard links here: exclusive create + copy still never replaces a file
+        try:
+            fd = os.open(destination, os.O_CREAT | os.O_EXCL | os.O_WRONLY | getattr(os, "O_BINARY", 0))
+        except FileExistsError:
+            raise FileExistsError(f"output already exists: {destination}") from None
+        try:
+            with os.fdopen(fd, "wb") as dst, open(tmp, "rb") as src:
+                shutil.copyfileobj(src, dst, 1 << 24)
+        except BaseException:
+            destination.unlink(missing_ok=True)
+            raise
+    tmp.unlink()
+
+
+def frame_clock(path) -> dict:
+    """Video stream time base and every frame's integer pts (presentation order)."""
+    r = ffprobe_json(["-select_streams", "v:0", "-show_entries", "stream=time_base:packet=pts", path])
+    pts = sorted(int(p["pts"]) for p in r.get("packets", []) if p.get("pts") not in (None, "N/A"))
+    return {"time_base": r["streams"][0]["time_base"], "pts": pts}
+
+
+def fpath(p) -> str:
+    """Escape a file path for use inside an ffmpeg filter argument (Windows drive colons)."""
+    return "'" + str(Path(p).resolve()).replace("\\", "/").replace(":", "\\:").replace("'", "") + "'"
+
+
+def read_frames(path, width: int, height: int):
+    """Yield RGB uint8 frames scaled to width x height (constant-rate decode of the video stream)."""
+    cmd = [tool("ffmpeg"), "-v", "error", "-nostdin", "-i", str(path), "-map", "0:v:0",
+           "-vf", f"scale={width}:{height}:flags=area", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
+    import numpy as np
+    n = width * height * 3
+    with subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL) as p:
+        while (buf := p.stdout.read(n)) and len(buf) == n:
+            yield np.frombuffer(buf, np.uint8).reshape(height, width, 3)
+
+
+class FrameWriter:
+    """Pipe uint8 frames (gray masks, or rgb24 pictures) into a lossless FFV1 video."""
+
+    def __init__(self, out, width, height, fps_str, pix_fmt="gray"):
+        self.p = subprocess.Popen(
+            [tool("ffmpeg"), "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", pix_fmt, "-s", f"{width}x{height}",
+             "-r", fps_str, "-i", "-", "-c:v", "ffv1", "-level", "3", "-slices", "16", "-threads", "8", str(out)],
+            stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+
+    def write(self, frame):
+        self.p.stdin.write(frame.tobytes())
+
+    def close(self):
+        self.p.stdin.close()
+        err = self.p.stderr.read().decode(errors="replace")
+        if self.p.wait():
+            raise RuntimeError(f"frame encode failed: {err}")

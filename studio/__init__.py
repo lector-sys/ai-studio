@@ -1,1 +1,1 @@
-U2FsdGVkX1+ZWrxEH0KRR92uqPt6v1MYmGe2JW7UDvn2+qpFfwtCFuoVb3NyQS//
+__version__ = "0.3.0"

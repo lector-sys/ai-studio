@@ -1,78 +1,82 @@
-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
+"""Accelerator discovery. Reports what exists; nothing GPU-side is enabled without an explicit opt-in."""
+import os
+import subprocess
+import sys
+from functools import lru_cache
+
+from .media import tool
+
+
+def _lines(args):
+    r = subprocess.run([tool("ffmpeg"), "-hide_banner", *args], capture_output=True, text=True)
+    return r.stdout.splitlines()
+
+
+def discover() -> dict:
+    hwaccels = [x.strip() for x in _lines(["-hwaccels"])[1:] if x.strip()]
+    encoders = [x.split()[1] for x in _lines(["-encoders"]) if x.startswith(" V") and
+                any(k in x for k in ("_amf", "_nvenc", "_qsv", "_vaapi", "_mf"))]
+    out = {"cpu_threads": os.cpu_count(), "ffmpeg": tool("ffmpeg"), "ffmpeg_hwaccels": hwaccels,
+           "ffmpeg_hw_encoders": encoders, "gpus": []}
+    try:
+        import onnxruntime as ort
+        out["onnxruntime"] = {"version": ort.__version__, "available": ort.get_available_providers()}
+    except ImportError:
+        out["onnxruntime"] = None
+    try:
+        import torch
+        out["torch"] = {"version": torch.__version__, "cuda_or_rocm": torch.cuda.is_available(),
+                        "hip": getattr(torch.version, "hip", None)}
+    except ImportError:
+        out["torch"] = None
+    if sys.platform == "win32":
+        r = subprocess.run(["powershell", "-NoProfile", "-Command",
+                            "Get-CimInstance Win32_VideoController | ForEach-Object { $_.Name + '|' + $_.Status }"],
+                           capture_output=True, text=True)
+        out["gpus"] = [dict(zip(("name", "status"), x.split("|"))) for x in r.stdout.splitlines() if x.strip()]
+    from .vision import ORT_PROVIDERS
+    out["selected"] = {"onnx_providers": ORT_PROVIDERS,
+                       "hw_encode": os.environ.get("STUDIO_HW_ENCODE") == "1",
+                       "note": "CPU by default. Opt in: STUDIO_ORT_PROVIDERS=DmlExecutionProvider,CPUExecutionProvider "
+                               "(needs onnxruntime-directml) and STUDIO_HW_ENCODE=1 (AMF/NVENC, probed per render)."}
+    return out
+
+
+@lru_cache(1)
+def ffmpeg_filters() -> frozenset:
+    return frozenset(x.split()[1] for x in _lines(["-filters"]) if len(x.split()) > 2 and x.startswith(" "))
+
+
+def capabilities() -> dict:
+    """What each capability can run on this machine (routing table for the agent)."""
+    import importlib.util
+    import urllib.request
+
+    from .agent import op_signature
+    from .ops import OPS
+
+    have = lambda m: importlib.util.find_spec(m) is not None  # noqa: E731
+    f = ffmpeg_filters()
+    comfy = os.environ.get("STUDIO_COMFYUI_URL", "http://127.0.0.1:8188")
+    try:
+        urllib.request.urlopen(comfy + "/system_stats", timeout=1)
+        comfy_up = True
+    except OSError:
+        comfy_up = False
+    return {
+        "stt": {"faster-whisper": have("faster_whisper")},
+        "segmentation": {"rembg": have("rembg"), "grabcut": True},
+        "stabilize": {"vidstab": "vidstabdetect" in f, "deshake": "deshake" in f},
+        "denoise": {"hqdn3d": "hqdn3d" in f, "nlmeans": "nlmeans" in f},
+        "interpolate": {"minterpolate": "minterpolate" in f, "blend": "framerate" in f},
+        "onnx_models": {"onnxruntime": have("onnxruntime")},
+        "generators": {"procedural": "gradients" in f, "command": bool(os.environ.get("STUDIO_GEN_CMD")),
+                       "comfyui": comfy_up and bool(os.environ.get("STUDIO_COMFYUI_WORKFLOW"))},
+        "workers": _workers(),  # per worker: unavailable (reason) / configured / ready (reviewed smoke)
+        "ops": {k: op_signature(k) for k in sorted(OPS)},
+    }
+
+
+def _workers() -> dict:
+    from .workers import listing
+    return listing()

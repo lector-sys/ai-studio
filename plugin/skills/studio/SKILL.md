@@ -1,49 +1,40 @@
-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
-1+boSUPZvxQEzOuNzLtfYg==
+---
+name: studio
+description: >
+  Local AI video studio. Use for ANY video or audio editing request: trim/cut/concat, resize/crop,
+  speed, color grade, titles/overlays/logos, audio mix/loudness, background removal/replacement/blur,
+  person/object masks and tracking, transcripts/captions/subtitles, silence/filler removal, rough cuts,
+  stabilize/denoise/upscale/frame interpolation/face restoration, object removal, generative B-roll,
+  4K60 masters, social vertical exports, or finding footage by what was said. Also when the user says
+  "studio", "AI studio", or mentions .mp4/.mov/.mkv files they want changed.
+---
+
+# AI Studio
+
+The studio is a local CLI. Run it as:
+
+```
+D:\projects\AI_studio\.venv\Scripts\studio.exe <command> ...
+```
+
+Before your first command in a session, **read `D:\projects\AI_studio\AGENTS.md`**. It is the operating
+manual: workflow, manifest format, the rules (preview before render, never overwrite sources, source-pixel
+coordinates, GPU stays opt-in). `studio ops` lists every op with its params; `studio --help` lists commands.
+
+Short version:
+1. `studio inspect <file>`: never assume fps, resolution, color or audio layout.
+2. Write a job manifest (example: `D:\projects\AI_studio\examples\background_replace.json`), then
+   `studio check job.json`.
+3. `studio preview job.json` (540p proxies), read `validation` and mask `low_confidence`, adjust.
+   `studio auto job.json` does preview -> refine -> render on its own.
+4. `studio render job.json`, then report `output`, `validation.ok` and `log` to the user.
+
+For popups, lower thirds, kinetic captions, picture-in-picture, transitions, looks and narration mixes, start
+from a recipe: `studio recipes`, then `studio recipe <name> --request req.json -o job.json` (expands to a
+checked manifest). After rendering, `studio review <log> -o <dir>` builds the shared review bundle.
+
+For colour/look/style requests: mock up 2–3 interpretations as stills (full frame + 100% crop) and
+ask the user to pick before rendering (see "Creative edits" in AGENTS.md). Real footage must look photoreal.
+
+Every command prints JSON on stdout; exit code 1 means the op or its validation failed.
+Do not enable GPU providers (`STUDIO_ORT_PROVIDERS`, `STUDIO_HW_ENCODE`) without the user's OK.

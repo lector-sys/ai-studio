@@ -1,34 +1,40 @@
-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
+"""Fake command worker for generation-contract tests. Behaviour is chosen by the request prompt."""
+import argparse
+import json
+import math
+import struct
+import subprocess
+import sys
+import time
+import wave
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--request")
+ap.add_argument("--out")
+a = ap.parse_args()
+req = json.load(open(a.request, encoding="utf-8"))
+mode = req.get("prompt") or "tone"
+if mode == "fail":
+    sys.exit("fake worker: model exploded")
+if mode == "sleep":
+    time.sleep(60)
+if mode == "nothing":
+    sys.exit(0)
+if mode == "corrupt":
+    open(a.out, "wb").write(b"RIFF\x00\x00\x00\x00WAVEjunk" * 10)
+elif mode == "video":
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-i", "testsrc2=s=320x240:r=24", "-f", "lavfi", "-i",
+                    "sine=f=330:r=48000", "-t", "1", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac",
+                    a.out[:-4] + ".mp4"], check=True)
+    print(json.dumps({"device": "cpu", "output": a.out[:-4] + ".mp4"}))
+    sys.exit(0)
+else:  # tone: a short sine as 24 kHz mono PCM (length from duration, or from the text like real TTS)
+    rate = 24000
+    secs = float(req.get("duration") or (0.3 + 0.05 * len(req.get("text") or "")))
+    with wave.open(a.out, "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(rate)
+        w.writeframes(b"".join(struct.pack("<h", int(8000 * math.sin(2 * math.pi * 440 * i / rate)))
+                               for i in range(int(secs * rate))))
+print(json.dumps({"device": "cpu", "model": "fake-tone", "echo_text": req.get("text")}))

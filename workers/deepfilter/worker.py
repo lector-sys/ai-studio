@@ -1,32 +1,35 @@
-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
+"""DeepFilterNet3 speech enhancement (CPU): in.wav (48 kHz float) -> out.wav, same length.
+usage: worker.py in.wav out.wav [--limit dB]   (setup: docs/LOCAL_WORKERS.md, deepfilter section)"""
+import argparse
+import json
+import sys
+import types
+
+import soundfile as sf
+import torch
+
+try:  # df 0.5.6 imports a torchaudio module newer torchaudio removed; it only needs the name
+    import torchaudio.backend.common  # noqa: F401
+except ImportError:
+    m = types.ModuleType("torchaudio.backend.common")
+    m.AudioMetaData = object
+    sys.modules["torchaudio.backend"] = types.ModuleType("torchaudio.backend")
+    sys.modules["torchaudio.backend.common"] = m
+
+from df import __version__ as df_version  # noqa: E402
+from df.enhance import enhance, init_df  # noqa: E402
+
+ap = argparse.ArgumentParser()
+ap.add_argument("src")
+ap.add_argument("dst")
+ap.add_argument("--limit", type=float, default=None, help="max attenuation in dB (None = unlimited)")
+a = ap.parse_args()
+torch.manual_seed(0)
+model, state, _ = init_df(log_level="ERROR", log_file=None)
+x, r = sf.read(a.src, dtype="float32", always_2d=True)
+if r != state.sr():
+    sys.exit(f"needs {state.sr()} Hz input, got {r}")
+y = enhance(model, state, torch.from_numpy(x.T.copy()), atten_lim_db=a.limit).numpy().T[:len(x)]
+sf.write(a.dst, y, r, subtype="FLOAT")
+print(json.dumps({"model": "DeepFilterNet3", "deepfilternet": df_version, "torch": torch.__version__,
+                  "limit_db": a.limit, "samples": len(x), "channels": x.shape[1]}))

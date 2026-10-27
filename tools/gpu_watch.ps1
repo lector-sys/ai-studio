@@ -1,78 +1,51 @@
-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
+# GPU health watchdog for studio renders on the AMD card.
+# Prints a status line every $Every seconds and an ALERT line (then kills AMF ffmpeg encodes) if Windows logs a
+# display-driver reset (TDR 4101/4116/4117), the adapter status leaves "OK", or dedicated VRAM passes $MaxVramMB.
+# -AlsoStopPid <owned-PID> stops only the recorded process; -AlsoStop "main.py --listen" also stops GPU inference processes (e.g. a task-owned ComfyUI) whose command line matches.
+param([int]$Every = 10, [int]$MaxVramMB = 14000, [double]$Minutes = 240, [string]$AlsoStop = "", [int[]]$AlsoStopPid = @())
+
+# Explicit PIDs cover Store Python processes whose command lines Windows hides.
+$ownedInference = @($AlsoStopPid | ForEach-Object { Get-Process -Id $_ -ErrorAction Stop } | Select-Object Id, StartTime)
+$start = Get-Date
+$deadline = $start.AddMinutes($Minutes)  # bounded session: never watches (or runs) forever
+$amd = (Get-CimInstance Win32_VideoController | Where-Object Name -like "*Radeon*" | Select-Object -First 1).Name
+
+function Stop-GpuEncode($why) {
+    Write-Output "ALERT $(Get-Date -Format HH:mm:ss) $why -> stopping AMF encodes"
+    if (!$ownedInference.Count) {  # Keep legacy AMF monitoring; explicit ownership never stops other jobs.
+        Get-CimInstance Win32_Process -Filter "Name='ffmpeg.exe'" |
+            Where-Object { $_.CommandLine -match "_amf" } |
+            ForEach-Object { Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+    }
+    foreach ($owned in $ownedInference) {
+        $current = Get-Process -Id $owned.Id -ErrorAction SilentlyContinue
+        if ($current -and $current.StartTime -eq $owned.StartTime) {
+            Write-Output "ALERT stopping owned pid $($owned.Id)"
+            Stop-Process -Id $owned.Id -Force -ErrorAction SilentlyContinue
+        }
+    }
+    if ($AlsoStop) {
+        Get-CimInstance Win32_Process -Filter "Name='python.exe'" |
+            Where-Object { $_.CommandLine -and $_.CommandLine.Contains($AlsoStop) } |
+            ForEach-Object { Write-Output "ALERT stopping pid $($_.ProcessId)"; Stop-Process -Id $_.ProcessId -Force -ErrorAction SilentlyContinue }
+    }
+}
+
+while ((Get-Date) -lt $deadline) {
+    $tdr = Get-WinEvent -FilterHashtable @{LogName = 'System'; Id = 4101, 4116, 4117; StartTime = $start} -ErrorAction SilentlyContinue
+    if ($tdr) { Stop-GpuEncode "display driver reset (event $($tdr[0].Id))"; exit 1 }
+    $status = (Get-CimInstance Win32_VideoController | Where-Object Name -eq $amd).Status
+    if ($status -ne "OK") { Stop-GpuEncode "adapter status '$status'"; exit 1 }
+
+    $s = (Get-Counter '\GPU Engine(*engtype_VideoEncode)\Utilization Percentage', '\GPU Engine(*engtype_3D)\Utilization Percentage',
+          '\GPU Adapter Memory(*)\Dedicated Usage' -ErrorAction SilentlyContinue).CounterSamples
+    $enc = ($s | Where-Object Path -like "*videoencode*" | Measure-Object CookedValue -Maximum).Maximum
+    $g3d = ($s | Where-Object Path -like "*engtype_3d*" | Measure-Object CookedValue -Maximum).Maximum
+    $vram = [math]::Round((($s | Where-Object Path -like "*dedicated usage*" | Measure-Object CookedValue -Maximum).Maximum) / 1MB)
+    if ($vram -gt $MaxVramMB) { Stop-GpuEncode "VRAM $vram MB > $MaxVramMB MB"; exit 1 }
+    $ff = @(Get-CimInstance Win32_Process -Filter "Name='ffmpeg.exe'" | Where-Object { $_.CommandLine -match "_amf" }).Count
+    Write-Output ("{0} gpu ok | encode {1:N0}% | 3d {2:N0}% | vram {3} MB | amf encodes {4}" -f (Get-Date -Format HH:mm:ss), $enc, $g3d, $vram, $ff)
+    Start-Sleep -Seconds $Every
+}
+if ($ownedInference.Count) { Stop-GpuEncode "session time limit" }
+Write-Output "watch ended (time limit)"

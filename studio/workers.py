@@ -1,256 +1,259 @@
-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
-7pkfSLybKjHtKo++f4eL2w==
+"""Local generation workers: validated configuration, fingerprints and readiness from real smoke evidence.
+
+States: unavailable (something required is missing: concrete reason given) -> configured (everything present,
+no matching reviewed smoke output) -> ready (a smoke output for this exact fingerprint passed technical checks
+and a recorded content review). Listing never loads models or downloads anything."""
+import json
+import math
+import os
+import time
+import urllib.parse
+from hashlib import sha256 as _h
+from importlib.resources import files
+from pathlib import Path
+from typing import Literal
+
+from pydantic import BaseModel, ConfigDict, Field
+
+from . import media
+
+KINDS = {"image", "video", "voice", "music", "sfx"}
+AUDIO_KINDS = {"voice", "music", "sfx"}
+FIELDS = {"prompt", "text", "voice", "seed", "duration", "width", "height", "fps", "references", "mask", "lang", "speed"}
+
+
+class Binding(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    node: str
+    input: str
+
+
+class Worker(BaseModel):
+    model_config = ConfigDict(extra="forbid", allow_inf_nan=False)
+    name: str
+    backend: Literal["command", "comfyui"]
+    kinds: list[str]
+    about: str = ""
+    argv: list[str] = Field(default_factory=list)  # command: argv list; {request} {out} placeholders
+    url: str = "http://127.0.0.1:8188"
+    workflow: str | None = None  # comfyui API-format workflow .json
+    bindings: dict[str, Binding] = Field(default_factory=dict)  # request field -> node input
+    uploads: dict[str, Binding] = Field(default_factory=dict)  # reference name -> node input (filename)
+    output_node: str | None = None
+    output_type: str | None = None  # images | videos | gifs | audio
+    node_classes: list[str] = Field(default_factory=list)  # required ComfyUI node classes
+    models: list[str] = Field(default_factory=list)  # files that must exist (hashed into the fingerprint)
+    fields: list[str] = Field(default_factory=lambda: ["prompt", "seed"])  # request fields this worker honours
+    limits: dict[str, float] = Field(default_factory=dict)  # max_seconds, max_width, max_height, max_chars
+    device: Literal["cpu", "gpu"] = "cpu"
+    timeout: float = Field(1800, gt=0, le=6 * 3600)
+    version: str = "1"
+
+
+def _catalog() -> dict:
+    base = json.loads(files("studio").joinpath("workers.json").read_text(encoding="utf-8"))
+    local = _workspace() / "workers.json"
+    if local.exists():  # user configuration overrides packaged candidates by name
+        base |= json.loads(local.read_text(encoding="utf-8"))
+    return base
+
+
+def _workspace() -> Path:
+    from .jobs import workspace
+    return workspace()
+
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def _abs(p: str) -> str:
+    """Relative worker paths (workers/<name>/...) are relative to the studio checkout."""
+    return str(ROOT / p) if p and not Path(p).is_absolute() and "{" not in p and "/" in p.replace("\\", "/") else p
+
+
+def worker_config(name) -> dict:
+    cat = _catalog()
+    if name not in cat:
+        raise ValueError(f"unknown worker {name!r}; have {sorted(cat)}")
+    w = Worker.model_validate(cat[name] | {"name": name})
+    w.argv = [_abs(a) for a in w.argv]
+    w.models = [_abs(m) for m in w.models]
+    w.workflow = _abs(w.workflow) if w.workflow else None
+    bad = set(w.kinds) - KINDS
+    if bad:
+        raise ValueError(f"worker {name}: unsupported kinds {sorted(bad)}")
+    unknown = set(w.fields) - FIELDS
+    if unknown:
+        raise ValueError(f"worker {name}: unknown request fields {sorted(unknown)}")
+    if w.backend == "comfyui":
+        host = urllib.parse.urlparse(w.url).hostname
+        if host not in ("127.0.0.1", "localhost", "::1"):
+            raise ValueError(f"worker {name}: ComfyUI url must be loopback (local only), got {w.url}")
+        if not (w.workflow and w.output_node and w.models):
+            raise ValueError(f"worker {name}: comfyui needs workflow, output_node and models (the checkpoint files "
+                             "the workflow loads, so replacing one invalidates readiness)")
+    elif not w.argv:
+        raise ValueError(f"worker {name}: command needs argv")
+    return w.model_dump()
+
+
+def request_check(cfg: dict, req: dict) -> None:
+    """Fail before any model loads: wrong kind, unsupported fields or limits."""
+    if req["kind"] not in cfg["kinds"]:
+        raise ValueError(f"worker {cfg['name']} does not generate {req['kind']} (kinds: {cfg['kinds']})")
+    # Options the caller chose; a visual request's size/fps/duration are inherent, not options.
+    optional = {"text", "voice", "references", "mask", "lang", "speed"} | ({"duration"} if req["kind"] in AUDIO_KINDS else set())
+    given = {k for k, v in req.items() if v not in (None, {}, []) and k in optional}
+    unsupported = given - set(cfg["fields"])
+    if unsupported:
+        raise ValueError(f"worker {cfg['name']} does not support {sorted(unsupported)}; supports {cfg['fields']}")
+    if req["kind"] == "video":
+        for field in ("fps", "duration"):
+            value = float(req.get(field) or 0)
+            if not math.isfinite(value) or value <= 0:
+                raise ValueError(f"worker {cfg['name']}: {field} must be finite and positive")
+    lim = cfg["limits"]
+    for key, field in (("max_seconds", "duration"), ("max_width", "width"), ("max_height", "height"),
+                       ("max_fps", "fps")):
+        if key in lim and req.get(field) and float(req[field]) > lim[key]:
+            raise ValueError(f"worker {cfg['name']}: {field}={req[field]} over its tested limit {lim[key]}")
+    if req["kind"] == "video":
+        frames = max(1, round(float(req["duration"]) * float(req["fps"])))
+        if frames > lim.get("max_frames", float("inf")):
+            raise ValueError(f"worker {cfg['name']}: {frames} frames over its tested limit {lim['max_frames']}")
+        step = int(lim.get("frame_step", 1))
+        if step > 1 and (frames - 1) % step:
+            raise ValueError(f"worker {cfg['name']}: requires {step}n+1 frames, got {frames}")
+    if "max_chars" in lim and len(req.get("text") or req.get("prompt") or "") > lim["max_chars"]:
+        raise ValueError(f"worker {cfg['name']}: text longer than {int(lim['max_chars'])} characters")
+    for name in (req.get("references") or {}):
+        if cfg["backend"] == "comfyui" and name not in cfg["uploads"]:
+            raise ValueError(f"worker {cfg['name']}: no upload binding for reference {name!r}")
+
+
+def _paths(cfg) -> list[str]:
+    out = list(cfg["models"]) + ([cfg["workflow"]] if cfg["workflow"] else [])
+    if cfg["backend"] == "command":
+        out += [a for a in cfg["argv"] if "{" not in a and Path(a).suffix and Path(a).is_file()]
+    return out
+
+
+def _file_id(p) -> str:
+    p = Path(p)
+    if p.is_dir():  # a model bundle folder: every file under it, by relative path
+        return _h(json.dumps(sorted((str(f.relative_to(p)), _file_id(f)) for f in p.rglob("*") if f.is_file()))
+                  .encode()).hexdigest()
+    st = p.stat()
+    # ponytail: multi-GB model files are identified by size+mtime, small files by content
+    return media.sha256(p) if st.st_size < 64 << 20 else f"{st.st_size}:{st.st_mtime_ns}"
+
+
+def missing(cfg) -> list[str]:
+    import shutil
+    need = list(cfg["models"]) + ([cfg["workflow"]] if cfg["workflow"] else [])
+    need += [a for a in cfg["argv"][1:] if "{" not in a and Path(a).is_absolute()]
+    gone = [p for p in need if not Path(p).exists()]
+    if cfg["argv"] and not (Path(cfg["argv"][0]).is_file() or shutil.which(cfg["argv"][0])):
+        gone.insert(0, cfg["argv"][0])
+    return gone
+
+
+def fingerprint(cfg) -> str:
+    """Config + contents/identity of every file it depends on: changing any of them invalidates readiness."""
+    ids = {p: _file_id(p) for p in _paths(cfg) if Path(p).exists()}
+    return _h(json.dumps([cfg, ids], sort_keys=True).encode()).hexdigest()[:20]
+
+
+def _evidence_file(name) -> Path:
+    d = _workspace() / "workers"
+    d.mkdir(exist_ok=True)
+    return d / f"{name}.evidence.json"
+
+
+def _server_up(cfg) -> str | None:
+    import urllib.request
+    try:
+        urllib.request.urlopen(cfg["url"].rstrip("/") + "/system_stats", timeout=1)
+        return None
+    except OSError as e:
+        return f"ComfyUI not reachable at {cfg['url']} ({e.__class__.__name__})"
+
+
+def readiness(cfg, evidence_file=None) -> dict:
+    gone = missing(cfg)
+    if gone:
+        return {"state": "unavailable", "reason": f"missing: {gone}", "kinds": {}}
+    if cfg["backend"] == "comfyui":
+        why = _server_up(cfg)
+        if why:
+            return {"state": "unavailable", "reason": why, "kinds": {}}
+    fp = fingerprint(cfg)
+    ev = json.loads(Path(evidence_file or _evidence_file(cfg["name"])).read_text(encoding="utf-8")) \
+        if Path(evidence_file or _evidence_file(cfg["name"])).exists() else {}
+    kinds = {}
+    for kind in cfg["kinds"]:
+        e = ev.get(kind)
+        ok = (e and e["fingerprint"] == fp and e["validation"]["ok"] and (e.get("review") or {}).get("status") == "pass"
+              and Path(e["output"]).exists() and media.sha256(e["output"]) == e["sha256"])
+        kinds[kind] = {"state": "ready" if ok else "configured",
+                       "smoke": {k: e[k] for k in ("output", "device", "seconds", "native", "date") if k in e} if ok else None,
+                       "why": None if ok else ("no smoke output" if not e else "smoke evidence stale or unreviewed")}
+    state = "ready" if kinds and all(k["state"] == "ready" for k in kinds.values()) else "configured"
+    return {"state": state, "fingerprint": fp, "kinds": kinds, "device": cfg["device"]}
+
+
+def record_smoke(cfg, result: dict, evidence_file=None) -> dict:
+    """Store a smoke output's technical evidence (review pending)."""
+    f = Path(evidence_file or _evidence_file(cfg["name"]))
+    ev = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+    ev[result["kind"]] = {"fingerprint": fingerprint(cfg), "output": result["output"], "sha256": media.sha256(result["output"]),
+                          "validation": result["validation"], "device": result.get("device"), "seconds": result["seconds"],
+                          "native": result.get("native"), "date": time.strftime("%Y-%m-%d"), "review": None}
+    f.write_text(json.dumps(ev, indent=1), encoding="utf-8")
+    return ev[result["kind"]]
+
+
+def record_review(cfg, kind, reviewer, status, findings, evidence_file=None) -> dict:
+    f = Path(evidence_file or _evidence_file(cfg["name"]))
+    ev = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+    if kind not in ev:
+        raise ValueError(f"no smoke output recorded for {cfg['name']} {kind}; run `studio workers smoke` first")
+    if status not in ("pass", "fail", "needs-work"):
+        raise ValueError("status must be pass | fail | needs-work")
+    ev[kind]["review"] = {"reviewer": reviewer, "status": status, "findings": findings, "at": time.strftime("%Y-%m-%dT%H:%M:%S")}
+    f.write_text(json.dumps(ev, indent=1), encoding="utf-8")
+    return ev[kind]
+
+
+def listing() -> dict:
+    out = {}
+    try:
+        names = list(_catalog())
+    except (ValueError, OSError) as e:
+        return {"_config": {"state": "unavailable", "reason": f"workers.json unreadable: {e}"}}
+    for name in names:
+        try:
+            cfg = worker_config(name)
+            out[name] = {"backend": cfg["backend"], "generates": cfg["kinds"], "about": cfg["about"]} | readiness(cfg)
+        except (ValueError, OSError) as e:
+            out[name] = {"state": "unavailable", "reason": str(e)}
+    return out
+
+
+def gpu_workers_in(steps) -> bool:
+    for st in steps:
+        w = (st.params or {}).get("worker")
+        if w:
+            try:
+                if worker_config(w)["device"] == "gpu":
+                    return True
+            except ValueError:
+                pass
+    return False
+
+
+if os.name == "nt":  # hidden child consoles for worker processes
+    import subprocess
+    NO_WINDOW = subprocess.CREATE_NO_WINDOW
+else:
+    NO_WINDOW = 0

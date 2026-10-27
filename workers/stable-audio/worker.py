@@ -1,48 +1,39 @@
-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
+"""AI Studio command worker: Stable Audio 3 Small (music / SFX) via the official LiteRT CPU scripts.
+Request JSON: kind (music | sfx), prompt, duration (s), seed. Output: the script's native 44.1 kHz stereo WAV.
+Pinned source: workers/stable-audio/src (Stability-AI/stable-audio-3 @ 77e0398, optimized/tflite).
+Weights: stabilityai/stable-audio-3-optimized (Stability AI Community License), cached in models/hf."""
+import argparse
+import hashlib
+import json
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+here = Path(__file__).resolve().parent
+tfl = here / "src" / "optimized" / "tflite"
+ap = argparse.ArgumentParser()
+ap.add_argument("--request", required=True)
+ap.add_argument("--out", required=True)
+a = ap.parse_args()
+req = json.loads(Path(a.request).read_text(encoding="utf-8"))
+kind = req.get("kind")
+if kind not in ("music", "sfx"):
+    sys.exit(f"stable-audio worker: kind must be music or sfx, got {kind!r}")
+prompt = (req.get("prompt") or "").strip()
+if not prompt:
+    sys.exit("stable-audio worker: empty prompt")
+seconds = float(req.get("duration") or (20 if kind == "music" else 5))  # README: music wants >= ~20 s
+seed = int(req["seed"]) if req.get("seed") is not None else int(hashlib.sha256(prompt.encode()).hexdigest()[:7], 16)
+threads = min(8, os.cpu_count() or 8)
+dit = "sm-music" if kind == "music" else "sm-sfx"
+env = dict(os.environ, HF_HOME=str(here / "models" / "hf"), PYTHONIOENCODING="utf-8", HF_HUB_DISABLE_TELEMETRY="1")
+cmd = [sys.executable, str(tfl / "scripts" / "sa3_tflite.py"), "--prompt", prompt, "--dit", dit, "--decoder", "same-s",
+       "--dit-precision", "w8a8", "--decoder-precision", "w8a8", "--seconds", str(seconds), "--seed", str(seed),
+       "--threads", str(threads), "--out", str(Path(a.out).resolve())]
+r = subprocess.run(cmd, cwd=tfl, env=env, capture_output=True, text=True, encoding="utf-8", errors="replace",
+                   stdin=subprocess.DEVNULL)
+if r.returncode:
+    sys.exit(f"sa3_tflite failed ({r.returncode}): {(r.stderr or r.stdout)[-2000:]}")
+print(json.dumps({"device": "cpu", "model": f"sa3-{dit} (DiT w8a8)", "decoder": "same-s (w8a8)", "seconds": seconds,
+                  "seed": seed, "threads": threads, "source": "Stability-AI/stable-audio-3@77e0398 optimized/tflite"}))

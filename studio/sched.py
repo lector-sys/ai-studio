@@ -1,87 +1,102 @@
-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
+"""GPU/VRAM scheduling. A no-op on CPU (the default); once a GPU provider is opted in it:
+  - serializes GPU jobs across processes (a lock file in the workspace),
+  - budgets model VRAM (STUDIO_VRAM_MB, default 12000) and evicts least-recently-used models,
+  - refuses (instead of silently degrading) a model that can't fit the budget.
+"""
+import os
+import time
+from contextlib import contextmanager
+from pathlib import Path
+
+# Rough peak VRAM per worker (MB) incl. activations at the default inference size.
+VRAM_MB = {"rembg:u2net_human_seg": 700, "rembg:u2net": 700, "rembg:isnet-general-use": 900,
+           "rembg:birefnet-portrait": 2600, "rembg:birefnet-general": 2600, "rembg:sam": 1500,
+           "onnx": 2000, "whisper:base": 500, "whisper:small": 1100, "whisper:medium": 2600,
+           "whisper:large-v3": 4700}
+_loaded: dict = {}  # name -> (mb, unload callback); insertion order = LRU order
+
+
+def providers() -> list[str]:
+    return os.environ.get("STUDIO_ORT_PROVIDERS", "CPUExecutionProvider").split(",")
+
+
+def gpu_active() -> bool:
+    return any(p != "CPUExecutionProvider" for p in providers())
+
+
+def budget() -> int:
+    return int(os.environ.get("STUDIO_VRAM_MB", 12000))
+
+
+def acquire(name, unload):
+    """Register a model about to load; evict older models until it fits the VRAM budget."""
+    if not gpu_active():
+        return
+    kind = name if name in VRAM_MB else name.split(":")[0]
+    need = VRAM_MB.get(kind, VRAM_MB["onnx"])
+    if need > budget():
+        raise RuntimeError(f"{name} needs ~{need} MB VRAM > STUDIO_VRAM_MB={budget()}; "
+                           "use a smaller model or the CPU provider")
+    _loaded.pop(name, None)
+    while _loaded and sum(m for m, _ in _loaded.values()) + need > budget():
+        _, (_, free) = next(iter(_loaded.items()))
+        free()
+        for k in [k for k, (_, f) in _loaded.items() if f is free]:  # one cache_clear frees all its models
+            _loaded.pop(k)
+    _loaded[name] = (need, unload)
+
+
+def in_use() -> dict:
+    return {k: m for k, (m, _) in _loaded.items()}
+
+
+@contextmanager
+def gpu_lock(ws: Path, force=False):
+    """Exclusive cross-process GPU lock while a job runs (when a GPU provider is active, or `force`:
+    a GPU generation worker runs even though the editor's own ONNX provider is CPU)."""
+    if not (gpu_active() or force):
+        yield
+        return
+    f = open(ws / "gpu.lock", "a+")
+    try:
+        if os.name == "nt":
+            import msvcrt
+            f.seek(0)
+            deadline = time.time() + float(os.environ.get("STUDIO_GPU_LOCK_TIMEOUT", 3600))
+            while True:
+                try:
+                    msvcrt.locking(f.fileno(), msvcrt.LK_LOCK, 1)  # retries ~10 s, then raises
+                    break
+                except OSError:
+                    if time.time() > deadline:
+                        f.close()
+                        raise RuntimeError(f"GPU busy: another job held {ws / 'gpu.lock'} past "
+                                           "STUDIO_GPU_LOCK_TIMEOUT") from None
+        else:
+            import fcntl
+            fcntl.flock(f, fcntl.LOCK_EX)
+        yield
+    finally:
+        if os.name == "nt":
+            import msvcrt
+            f.seek(0)
+            try:
+                msvcrt.locking(f.fileno(), msvcrt.LK_UNLCK, 1)
+            except OSError:
+                pass
+        f.close()
+
+
+if __name__ == "__main__":  # self-check: LRU eviction under a budget
+    os.environ |= {"STUDIO_ORT_PROVIDERS": "DmlExecutionProvider,CPUExecutionProvider", "STUDIO_VRAM_MB": "3000"}
+    freed = []
+    acquire("rembg:u2net_human_seg", lambda: freed.append("a"))
+    acquire("whisper:small", lambda: freed.append("b"))
+    acquire("rembg:birefnet-portrait", lambda: freed.append("c"))
+    assert freed == ["a", "b"] and list(in_use()) == ["rembg:birefnet-portrait"], (freed, in_use())
+    try:
+        acquire("whisper:large-v3", lambda: None)
+        raise SystemExit("should have refused")
+    except RuntimeError:
+        pass
+    print("sched ok")
