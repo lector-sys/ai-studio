@@ -11,6 +11,9 @@ from pathlib import Path
 from .media import audio_maps, ffmpeg, fpath, info, tool
 
 OPS: dict = {}
+# Mask videos store millisecond timestamps (0.067 > 0.0667), so two-input filters met frame k with mask k-1
+# on every third frame. Half a frame early, mask k is always the latest one at or before video frame k.
+MASK_PTS = "setpts=PTS-STARTPTS-0.5/FRAME_RATE/TB"
 
 
 def op(name):

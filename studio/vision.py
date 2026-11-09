@@ -11,7 +11,7 @@ import cv2
 import numpy as np
 
 from .media import FrameWriter, info, read_frames
-from .ops import _fill, media_in, op
+from .ops import MASK_PTS, _fill, media_in, op
 
 ORT_PROVIDERS = os.environ.get("STUDIO_ORT_PROVIDERS", "CPUExecutionProvider").split(",")
 
@@ -232,7 +232,7 @@ def background(ctx, ins, p, out):
     afmt = "yuva444p10le" if deep else "yuva444p"
     refine, feather = ctx.px(p.get("refine", 4)), p.get("feather", 2)
     fc = f"[0:v]setpts=PTS-STARTPTS,split=3[src][g][b];"
-    fc += f"[1:v]setpts=PTS-STARTPTS,scale={W}:{H}:flags=bicubic,format=gray"
+    fc += f"[1:v]{MASK_PTS},scale={W}:{H}:flags=bicubic,format=gray"
     if refine:
         # ffmpeg guided: first pad = guide, second = image to filter (verified empirically)
         fc += f"[mu];[g]format=gray[gy];[gy][mu]guided=radius={refine}:eps=0.01:guidance=on"

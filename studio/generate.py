@@ -23,7 +23,7 @@ import cv2
 import numpy as np
 
 from .media import IMAGE_EXTS, ffmpeg, fpath, info, read_frames
-from .ops import grade, has_audio, op
+from .ops import MASK_PTS, grade, has_audio, op
 from .restore import map_frames, onnx_image
 
 
@@ -132,7 +132,7 @@ def relight(ctx, ins, p, out):
     feather = ctx.px(p.get("feather", 4))
     fc = (f"[0:v]setpts=PTS-STARTPTS,split[a][b];[a]{grade(p.get('subject', {}))},format={fmt}[fg];"
           f"[b]{grade(p.get('background', {}))},format={fmt}[bg];"
-          f"[1:v]setpts=PTS-STARTPTS,scale={W}:{H}:flags=bicubic,format=gray"
+          f"[1:v]{MASK_PTS},scale={W}:{H}:flags=bicubic,format=gray"
           + (",negate" if p.get("invert") else "") + (f",gblur=sigma={feather}" if feather else "")
           + f",format={fmt}[m];[bg][fg][m]maskedmerge[v]")
     ctx.encode(["-i", ins[0], "-i", ins[1]], fc, "[v]", "0:a?", out)

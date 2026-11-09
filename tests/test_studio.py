@@ -133,6 +133,28 @@ def test_object_mask_and_background(d):
     assert bl["ok"] and px[2] < 40 and px[0] > 200, px  # 12 px off the square: a plain blur would be ~30% blue
 
 
+def test_mask_meets_its_own_frame(tmp_path):
+    """Mask videos keep millisecond timestamps; frame k of the matte must still meet frame k of the video
+    (it met k-1 on every third frame) and the result must keep the video's frame count."""
+    import subprocess
+    from studio.generate import relight
+    from studio.ops import Ctx
+    from studio.vision import background
+    v, m = tmp_path / "v.mp4", tmp_path / "m.mkv"
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=gray:s=64x64:r=30", "-t", 2, "-c:v", "libx264", "-qp", 0, v])
+    w = media.FrameWriter(m, 64, 64, "30/1")
+    for k in range(60):
+        w.write(np.full((64, 64), 255 * (k % 2 == 0), np.uint8))  # subject on even frames only
+    w.close()
+    background(Ctx(tmp_path), [str(v), str(m)], {"mode": "remove", "refine": 0, "feather": 0}, str(tmp_path / "r.mkv"))
+    a = subprocess.run(["ffmpeg", "-v", "error", "-i", tmp_path / "r.mkv", "-vf", "alphaextract,format=gray",
+                        "-f", "rawvideo", "-"], capture_output=True, check=True).stdout[32 * 64 + 32::64 * 64]
+    assert [x > 127 for x in a] == [k % 2 == 0 for k in range(60)]
+    relight(Ctx(tmp_path), [str(v), str(m)], {"background": {"luma": 0.5}, "feather": 0}, str(tmp_path / "l.mkv"))
+    y = [int(f[32, 32].mean()) for f in media.read_frames(str(tmp_path / "l.mkv"), 64, 64)]
+    assert [x > 100 for x in y] == [k % 2 == 0 for k in range(60)], y
+
+
 def test_chromakey(d):
     r = run(d, [d["green"], d["logo"]], [{"id": "k", "op": "chromakey", "inputs": ["s0", "s1"], "params": {}}], "key")
     assert r["ok"], json.dumps(r["validation"], indent=1)
