@@ -481,9 +481,10 @@ def audio_clean(ctx, ins, p, out):
 @op("color")
 def color(ctx, ins, p, out):
     """Basic grade. params: brightness (-1..1, 0), contrast (1), saturation (1), gamma (1),
-    temperature (Kelvin, 6500 = neutral), lut (.cube path). HDR/10-bit safe (never drop to 8-bit):
-    tone (luma power, >1 darkens mid-tones, black and peak white kept), luma (gain above black, <1 darkens all).
-    brightness/contrast/saturation/gamma use `eq`, which is 8-bit only: avoid them on HDR."""
+    temperature (Kelvin, 6500 = neutral), lut (.cube path), grain (luma-only film grain, 0-100, ~4-8 subtle).
+    HDR/10-bit safe (never drop to 8-bit): tone (luma power, >1 darkens mid-tones, black and peak white kept),
+    luma (gain above black, <1 darkens all). brightness/contrast/saturation/gamma use `eq` and vignette
+    (lens angle in radians, 0.3 light .. 0.9 heavy) uses `vignette`; both are 8-bit only: avoid them on HDR."""
     ctx.encode(["-i", ins[0]], f"[0:v]{grade(p)}[v]", "[v]", "0:a?", out)
 
 
@@ -500,6 +501,10 @@ def grade(p) -> str:
         f.append(f"colortemperature=temperature={p['temperature']}")
     if p.get("lut"):
         f.append(f"lut3d=file={fpath(p['lut'])}")
+    if p.get("vignette"):
+        f.append(f"vignette=angle={float(p['vignette'])}")
+    if p.get("grain"):
+        f.append(f"noise=c0s={int(p['grain'])}:c0f=t")  # luma only: grain without colour speckle; fixed seed
     return ",".join(f) or "null"
 
 

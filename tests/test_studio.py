@@ -69,6 +69,7 @@ CASES = [
     ("loudnorm", [], {}, 2),
     ("audio_clean", [], {}, 2),
     ("color", [], {"brightness": 0.05, "contrast": 1.1, "saturation": 1.2, "temperature": 5600}, 2),
+    ("color", [], {"vignette": 0.6, "grain": 6}, 2),
 ]
 
 
@@ -126,6 +127,10 @@ def test_object_mask_and_background(d):
     rm = run(d, [d["square"]], [steps[0], {"id": "rm", "op": "background", "inputs": ["s0", "m"],
                                            "params": {"mode": "remove"}}], "bgremove", profile="alpha-master")
     assert rm["ok"] and rm["steps"][0]["cached"] and rm["validation"]["summary"]["pix_fmt"].startswith("yuva")
+    bl = run(d, [d["square"]], [steps[0], {"id": "bl", "op": "background", "inputs": ["s0", "m"],
+                                           "params": {"mode": "blur"}}], "bgblur")
+    px = list(media.read_frames(bl["output"], 640, 360))[-1][180, 205].astype(int)
+    assert bl["ok"] and px[2] < 40 and px[0] > 200, px  # 12 px off the square: a plain blur would be ~30% blue
 
 
 def test_chromakey(d):
