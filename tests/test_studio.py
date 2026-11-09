@@ -140,19 +140,25 @@ def test_mask_meets_its_own_frame(tmp_path):
     from studio.generate import relight
     from studio.ops import Ctx
     from studio.vision import background
-    v, m = tmp_path / "v.mp4", tmp_path / "m.mkv"
-    media.ffmpeg(["-f", "lavfi", "-i", "color=c=gray:s=64x64:r=30", "-t", 2, "-c:v", "libx264", "-qp", 0, v])
+    m = tmp_path / "m.mkv"
     w = media.FrameWriter(m, 64, 64, "30/1")
     for k in range(60):
         w.write(np.full((64, 64), 255 * (k % 2 == 0), np.uint8))  # subject on even frames only
     w.close()
-    background(Ctx(tmp_path), [str(v), str(m)], {"mode": "remove", "refine": 0, "feather": 0}, str(tmp_path / "r.mkv"))
-    a = subprocess.run(["ffmpeg", "-v", "error", "-i", tmp_path / "r.mkv", "-vf", "alphaextract,format=gray",
-                        "-f", "rawvideo", "-"], capture_output=True, check=True).stdout[32 * 64 + 32::64 * 64]
-    assert [x > 127 for x in a] == [k % 2 == 0 for k in range(60)]
-    relight(Ctx(tmp_path), [str(v), str(m)], {"background": {"luma": 0.5}, "feather": 0}, str(tmp_path / "l.mkv"))
-    y = [int(f[32, 32].mean()) for f in media.read_frames(str(tmp_path / "l.mkv"), 64, 64)]
-    assert [x > 100 for x in y] == [k % 2 == 0 for k in range(60)], y
+    want = [k % 2 == 0 for k in range(60)]
+    for v in (tmp_path / "v.mp4", tmp_path / "v.mkv"):  # exact clock, and a millisecond-stamped intermediate
+        media.ffmpeg(["-f", "lavfi", "-i", "color=c=gray:s=64x64:r=30,format=yuv420p,geq=lum='16+3*N':cb=128:cr=128",
+                      "-t", 2, "-c:v", "libx264", "-preset", "ultrafast", "-qp", 0, v])
+        r, lit = tmp_path / f"r{v.suffix}.mkv", tmp_path / f"l{v.suffix}.mkv"
+        background(Ctx(tmp_path), [str(v), str(m)], {"mode": "remove", "refine": 0, "feather": 0}, str(r))
+        a = subprocess.run(["ffmpeg", "-v", "error", "-i", r, "-vf", "alphaextract,format=gray", "-f", "rawvideo",
+                            "-"], capture_output=True, check=True).stdout[32 * 64 + 32::64 * 64]
+        assert [x > 127 for x in a] == want
+        relight(Ctx(tmp_path), [str(v), str(m)], {"background": {"luma": 0.5}, "feather": 0}, str(lit))
+        src = [int(f[32, 32].mean()) for f in media.read_frames(str(v), 64, 64)]
+        y = [int(f[32, 32].mean()) for f in media.read_frames(str(lit), 64, 64)]
+        # subject frames are the source frame itself; background frames are that same frame darkened
+        assert len(y) == 60 and all((abs(a - b) <= 1) == k for a, b, k in zip(y, src, want) if b > 20), (y, src)
 
 
 def test_chromakey(d):

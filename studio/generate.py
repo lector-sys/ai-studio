@@ -128,13 +128,15 @@ def relight(ctx, ins, p, out):
     invert. Use for skin-tone-safe grading, subject pop, or matching a new background's light."""
     v = info(ins[0])["video"]
     W, H = v["width"], v["height"]
-    fmt = "gbrp10le" if any(b in (v["pix_fmt"] or "") for b in ("10", "12")) else "gbrp"
+    afmt = "yuva444p10le" if any(b in (v["pix_fmt"] or "") for b in ("10", "12")) else "yuva444p"
     feather = ctx.px(p.get("feather", 4))
-    fc = (f"[0:v]setpts=PTS-STARTPTS,split[a][b];[a]{grade(p.get('subject', {}))},format={fmt}[fg];"
-          f"[b]{grade(p.get('background', {}))},format={fmt}[bg];"
+    # alphamerge + overlay, as in `background`: three-input maskedmerge ran the picture up to two frames late
+    # on millisecond-stamped intermediates and added a frame.
+    fc = (f"[0:v]setpts=PTS-STARTPTS,split[a][b];[a]{grade(p.get('subject', {}))},format={afmt}[s];"
+          f"[b]{grade(p.get('background', {}))},format={v['pix_fmt']}[bg];"
           f"[1:v]{MASK_PTS},scale={W}:{H}:flags=bicubic,format=gray"
           + (",negate" if p.get("invert") else "") + (f",gblur=sigma={feather}" if feather else "")
-          + f",format={fmt}[m];[bg][fg][m]maskedmerge[v]")
+          + f"[m];[s][m]alphamerge[fg];[bg][fg]overlay=format=auto,format={v['pix_fmt']}[v]")
     ctx.encode(["-i", ins[0], "-i", ins[1]], fc, "[v]", "0:a?", out)
 
 
