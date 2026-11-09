@@ -161,6 +161,22 @@ def test_mask_meets_its_own_frame(tmp_path):
         assert len(y) == 60 and all((abs(a - b) <= 1) == k for a, b, k in zip(y, src, want) if b > 20), (y, src)
 
 
+def test_relight_choke(tmp_path):
+    """choke 0.5: matte values below half take the background grade, the rest ramps back to the subject."""
+    from studio.generate import relight
+    from studio.ops import Ctx
+    w = media.FrameWriter(tmp_path / "ramp.mkv", 256, 4, "30/1")
+    for _ in range(3):
+        w.write(np.tile(np.arange(256, dtype=np.uint8), (4, 1)))
+    w.close()
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=0xa0a0a0:s=256x4:r=30", "-frames:v", 3, "-c:v", "libx264",
+                  "-preset", "ultrafast", "-qp", 0, tmp_path / "flat.mkv"])
+    relight(Ctx(tmp_path), [str(tmp_path / "flat.mkv"), str(tmp_path / "ramp.mkv")],
+            {"background": {"luma": 0.0}, "feather": 0, "refine": 0, "choke": 0.5}, str(tmp_path / "c.mkv"))
+    y = list(media.read_frames(str(tmp_path / "c.mkv"), 256, 4))[1][2, :, 0].astype(int)
+    assert y[100] < 3 and abs(y[192] - y[255] / 2) < 6 and y[255] > 150, (y[100], y[192], y[255])
+
+
 def test_chromakey(d):
     r = run(d, [d["green"], d["logo"]], [{"id": "k", "op": "chromakey", "inputs": ["s0", "s1"], "params": {}}], "key")
     assert r["ok"], json.dumps(r["validation"], indent=1)

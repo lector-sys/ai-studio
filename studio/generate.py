@@ -126,8 +126,9 @@ def relight(ctx, ins, p, out):
     """Selective grade / relighting through a mask. inputs: video, mask (white = subject). params:
     subject {brightness, contrast, saturation, gamma, temperature, tone, luma}, background {same}, feather (px, 4),
     refine (edge-aware guided upsample radius px, 0 = off, default 4; without it the subject grade spills
-    past hair onto the background as a light rim), invert. Use for skin-tone-safe grading, subject pop, or
-    matching a new background's light."""
+    past hair onto the background as a light rim), choke (0-0.9, 0: pull the subject edge in so half-transparent
+    hair, which still carries the old background's colour, takes the background grade), invert. Use for
+    skin-tone-safe grading, subject pop, or matching a new background's light."""
     v = info(ins[0])["video"]
     W, H = v["width"], v["height"]
     afmt = "yuva444p10le" if any(b in (v["pix_fmt"] or "") for b in ("10", "12")) else "yuva444p"
@@ -140,6 +141,7 @@ def relight(ctx, ins, p, out):
           + (f"[g]format=gray[gy];[gy][mu]guided=radius={refine}:eps=0.01:guidance=on" if refine
              else "[g]nullsink;[mu]null")
           + (",negate" if p.get("invert") else "") + (f",gblur=sigma={feather}" if feather else "")
+          + (f",lut=c0='clip((val-{255 * k:.1f})/{1 - k:.3f},0,255)'" if (k := float(p.get("choke", 0))) else "")
           + f"[m];[s][m]alphamerge[fg];[bg][fg]overlay=format=auto,format={v['pix_fmt']}[v]")
     ctx.encode(["-i", ins[0], "-i", ins[1]], fc, "[v]", "0:a?", out)
 
