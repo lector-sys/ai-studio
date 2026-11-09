@@ -69,6 +69,7 @@ CASES = [
     ("loudnorm", [], {}, 2),
     ("audio_clean", [], {}, 2),
     ("color", [], {"brightness": 0.05, "contrast": 1.1, "saturation": 1.2, "temperature": 5600}, 2),
+    ("color", [], {"vignette": 0.6, "grain": 6}, 2),
 ]
 
 
@@ -126,6 +127,54 @@ def test_object_mask_and_background(d):
     rm = run(d, [d["square"]], [steps[0], {"id": "rm", "op": "background", "inputs": ["s0", "m"],
                                            "params": {"mode": "remove"}}], "bgremove", profile="alpha-master")
     assert rm["ok"] and rm["steps"][0]["cached"] and rm["validation"]["summary"]["pix_fmt"].startswith("yuva")
+    bl = run(d, [d["square"]], [steps[0], {"id": "bl", "op": "background", "inputs": ["s0", "m"],
+                                           "params": {"mode": "blur"}}], "bgblur")
+    px = list(media.read_frames(bl["output"], 640, 360))[-1][180, 205].astype(int)
+    assert bl["ok"] and px[2] < 40 and px[0] > 200, px  # 12 px off the square: a plain blur would be ~30% blue
+
+
+def test_mask_meets_its_own_frame(tmp_path):
+    """Mask videos keep millisecond timestamps; frame k of the matte must still meet frame k of the video
+    (it met k-1 on every third frame) and the result must keep the video's frame count."""
+    import subprocess
+    from studio.generate import relight
+    from studio.ops import Ctx
+    from studio.vision import background
+    m = tmp_path / "m.mkv"
+    w = media.FrameWriter(m, 64, 64, "30/1")
+    for k in range(60):
+        w.write(np.full((64, 64), 255 * (k % 2 == 0), np.uint8))  # subject on even frames only
+    w.close()
+    want = [k % 2 == 0 for k in range(60)]
+    for v in (tmp_path / "v.mp4", tmp_path / "v.mkv"):  # exact clock, and a millisecond-stamped intermediate
+        media.ffmpeg(["-f", "lavfi", "-i", "color=c=gray:s=64x64:r=30,format=yuv420p,geq=lum='16+3*N':cb=128:cr=128",
+                      "-t", 2, "-c:v", "libx264", "-preset", "ultrafast", "-qp", 0, v])
+        r, lit = tmp_path / f"r{v.suffix}.mkv", tmp_path / f"l{v.suffix}.mkv"
+        background(Ctx(tmp_path), [str(v), str(m)], {"mode": "remove", "refine": 0, "feather": 0}, str(r))
+        a = subprocess.run(["ffmpeg", "-v", "error", "-i", r, "-vf", "alphaextract,format=gray", "-f", "rawvideo",
+                            "-"], capture_output=True, check=True).stdout[32 * 64 + 32::64 * 64]
+        assert [x > 127 for x in a] == want
+        relight(Ctx(tmp_path), [str(v), str(m)], {"background": {"luma": 0.5}, "feather": 0}, str(lit))
+        src = [int(f[32, 32].mean()) for f in media.read_frames(str(v), 64, 64)]
+        y = [int(f[32, 32].mean()) for f in media.read_frames(str(lit), 64, 64)]
+        # subject frames are the source frame itself; background frames are that same frame darkened
+        assert len(y) == 60 and all((abs(a - b) <= 1) == k for a, b, k in zip(y, src, want) if b > 20), (y, src)
+
+
+def test_relight_choke(tmp_path):
+    """choke 0.5: matte values below half take the background grade, the rest ramps back to the subject."""
+    from studio.generate import relight
+    from studio.ops import Ctx
+    w = media.FrameWriter(tmp_path / "ramp.mkv", 256, 4, "30/1")
+    for _ in range(3):
+        w.write(np.tile(np.arange(256, dtype=np.uint8), (4, 1)))
+    w.close()
+    media.ffmpeg(["-f", "lavfi", "-i", "color=c=0xa0a0a0:s=256x4:r=30", "-frames:v", 3, "-c:v", "libx264",
+                  "-preset", "ultrafast", "-qp", 0, tmp_path / "flat.mkv"])
+    relight(Ctx(tmp_path), [str(tmp_path / "flat.mkv"), str(tmp_path / "ramp.mkv")],
+            {"background": {"luma": 0.0}, "feather": 0, "refine": 0, "choke": 0.5}, str(tmp_path / "c.mkv"))
+    y = list(media.read_frames(str(tmp_path / "c.mkv"), 256, 4))[1][2, :, 0].astype(int)
+    assert y[100] < 3 and abs(y[192] - y[255] / 2) < 6 and y[255] > 150, (y[100], y[192], y[255])
 
 
 def test_chromakey(d):

@@ -23,7 +23,7 @@ import cv2
 import numpy as np
 
 from .media import IMAGE_EXTS, ffmpeg, fpath, info, read_frames
-from .ops import grade, has_audio, op
+from .ops import MASK_PTS, grade, has_audio, op
 from .restore import map_frames, onnx_image
 
 
@@ -124,17 +124,25 @@ def insert(ctx, ins, p, out):
 @op("relight")
 def relight(ctx, ins, p, out):
     """Selective grade / relighting through a mask. inputs: video, mask (white = subject). params:
-    subject {brightness, contrast, saturation, gamma, temperature}, background {same}, feather (px, 4),
-    invert. Use for skin-tone-safe grading, subject pop, or matching a new background's light."""
+    subject {brightness, contrast, saturation, gamma, temperature, tone, luma}, background {same}, feather (px, 4),
+    refine (edge-aware guided upsample radius px, 0 = off, default 4; without it the subject grade spills
+    past hair onto the background as a light rim), choke (0-0.9, 0: pull the subject edge in so half-transparent
+    hair, which still carries the old background's colour, takes the background grade), invert. Use for
+    skin-tone-safe grading, subject pop, or matching a new background's light."""
     v = info(ins[0])["video"]
     W, H = v["width"], v["height"]
-    fmt = "gbrp10le" if any(b in (v["pix_fmt"] or "") for b in ("10", "12")) else "gbrp"
-    feather = ctx.px(p.get("feather", 4))
-    fc = (f"[0:v]setpts=PTS-STARTPTS,split[a][b];[a]{grade(p.get('subject', {}))},format={fmt}[fg];"
-          f"[b]{grade(p.get('background', {}))},format={fmt}[bg];"
-          f"[1:v]setpts=PTS-STARTPTS,scale={W}:{H}:flags=bicubic,format=gray"
+    afmt = "yuva444p10le" if any(b in (v["pix_fmt"] or "") for b in ("10", "12")) else "yuva444p"
+    feather, refine = ctx.px(p.get("feather", 4)), ctx.px(p.get("refine", 4))
+    # alphamerge + overlay, as in `background`: three-input maskedmerge ran the picture up to two frames late
+    # on millisecond-stamped intermediates and added a frame.
+    fc = (f"[0:v]setpts=PTS-STARTPTS,split=3[a][b][g];[a]{grade(p.get('subject', {}))},format={afmt}[s];"
+          f"[b]{grade(p.get('background', {}))},format={v['pix_fmt']}[bg];"
+          f"[1:v]{MASK_PTS},scale={W}:{H}:flags=bicubic,format=gray[mu];"
+          + (f"[g]format=gray[gy];[gy][mu]guided=radius={refine}:eps=0.01:guidance=on" if refine
+             else "[g]nullsink;[mu]null")
           + (",negate" if p.get("invert") else "") + (f",gblur=sigma={feather}" if feather else "")
-          + f",format={fmt}[m];[bg][fg][m]maskedmerge[v]")
+          + (f",lut=c0='clip((val-{255 * k:.1f})/{1 - k:.3f},0,255)'" if (k := float(p.get("choke", 0))) else "")
+          + f"[m];[s][m]alphamerge[fg];[bg][fg]overlay=format=auto,format={v['pix_fmt']}[v]")
     ctx.encode(["-i", ins[0], "-i", ins[1]], fc, "[v]", "0:a?", out)
 
 

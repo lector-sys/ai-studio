@@ -11,7 +11,7 @@ import cv2
 import numpy as np
 
 from .media import FrameWriter, info, read_frames
-from .ops import _fill, media_in, op
+from .ops import MASK_PTS, _fill, media_in, op
 
 ORT_PROVIDERS = os.environ.get("STUDIO_ORT_PROVIDERS", "CPUExecutionProvider").split(",")
 
@@ -222,7 +222,8 @@ def mask(ctx, ins, p, out):
 @op("background")
 def background(ctx, ins, p, out):
     """Background workflow. inputs: video, mask[, background image/video]. params:
-    mode = remove (alpha output) | blur | replace; blur (sigma, source px, 30); color (solid
+    mode = remove (alpha output) | blur | replace; blur (sigma, source px, 30; lens-like, the subject is
+    kept out of the blurred background so no halo); color (solid
     replace, e.g. "black", "0x202020"); feather (mask blur sigma px, 2); refine (edge-aware guided
     upsample radius px, 0 = off, default 4); invert (bool)."""
     v = info(ins[0])["video"]
@@ -231,20 +232,29 @@ def background(ctx, ins, p, out):
     afmt = "yuva444p10le" if deep else "yuva444p"
     refine, feather = ctx.px(p.get("refine", 4)), p.get("feather", 2)
     fc = f"[0:v]setpts=PTS-STARTPTS,split=3[src][g][b];"
-    fc += f"[1:v]setpts=PTS-STARTPTS,scale={W}:{H}:flags=bicubic,format=gray"
+    fc += f"[1:v]{MASK_PTS},scale={W}:{H}:flags=bicubic,format=gray"
     if refine:
         # ffmpeg guided: first pad = guide, second = image to filter (verified empirically)
         fc += f"[mu];[g]format=gray[gy];[gy][mu]guided=radius={refine}:eps=0.01:guidance=on"
     else:
         fc += f"[mu];[g]nullsink;[mu]null"
-    fc += (",negate" if p.get("invert") else "") + (f",gblur=sigma={ctx.px(feather)}" if feather else "") + "[m];"
-    fc += f"[src]format={afmt}[s];[s][m]alphamerge[fg]"
     mode = p.get("mode", "replace")
+    fc += (",negate" if p.get("invert") else "") + (f",gblur=sigma={ctx.px(feather)}" if feather else "")
+    fc += (",split[m][mw];" if mode == "blur" else "[m];") + f"[src]format={afmt}[s];[s][m]alphamerge[fg]"
     if mode == "remove":
         return ctx.encode(["-i", ins[0], "-i", ins[1]], fc + ";[b]nullsink;[fg]null[v]", "[v]", "0:a?", out, alpha=True)
     args = ["-i", ins[0], "-i", ins[1]]
     if mode == "blur":
-        fc += f";[b]gblur=sigma={ctx.px(p.get('blur', 30))}[bg]"
+        # Lens-like: the subject stands in front of the background, so it must not smear into it (a plain
+        # blur leaves a dark/bright halo round hair and clothes). bg = blur(src*w) / blur(w), w = 1 - matte,
+        # per plane in float (integer blend divide wraps; an RGB round trip shifts colour via the matrix).
+        s = ctx.px(p.get("blur", 30))
+        fc += (f";[mw]negate,lut=c0='max(val,1)',format=grayf32le,split=4[w0][w1][w2][d];"
+               f"[d]gblur=sigma={s},split=3[d0][d1][d2];[b]format=yuv444p16le,extractplanes=y+u+v[p0][p1][p2]")
+        for i in range(3):
+            fc += (f";[p{i}]format=grayf32le[f{i}];[f{i}][w{i}]blend=all_mode=multiply,gblur=sigma={s}[n{i}];"
+                   f"[n{i}][d{i}]blend=all_mode=divide,format=gray16le[o{i}]")
+        fc += f";[o0][o1][o2]mergeplanes=0x001020:yuv444p16le,format={v['pix_fmt']}[bg]"
         end = ""
     elif mode == "replace" and len(ins) > 2:
         args += media_in(ins[2])
